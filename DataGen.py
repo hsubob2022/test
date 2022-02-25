@@ -3,7 +3,7 @@ from uszipcode import SearchEngine
 
 engine = SearchEngine()
 
-years = [2019,2020,2021]
+years = [2021,2022]
 months = list(range(1, 13))
 days = list(range(1, 29))
 hours = list(range(9, 15))
@@ -12,9 +12,14 @@ seconds = list(range(0, 60))
 
 fas = ["John Smith","Mary Shelly","Peter Williams","Nicro Brown", "Jay Miller", "David Lopez", "Jane Davis", "Cathy Jones"]
 
-securities = ["Equity","Fixed Income", "Mutual Funds"]
+securities = ["Equity", "Mutual Funds"]
 
 b_s = ["Buy","Sell"]
+
+multis = ["Single","Multi-2","Multi-3","Multi-4"]
+
+eq_types = ["Day","GTC","At The Opening","Market On Close"]
+mf_types = ["IMM","Offshore","Money Market","Front Load Fund"]
 
 eq_tickers = ["AAPL","MS","C","GOOG","COST","BAC"]
 fi_tickers = ["^IRX","^FVX","^TNX","^TYX"]
@@ -31,12 +36,13 @@ random.seed()
 
 TAB = ","
 
-file = open("C:\\logs\\trades.txt","a")
+#file = open("C:\\logs\\trades.txt","a")
+file = open("trades.txt","a")
 
-file.write("Timestamp"+TAB+"Buy/Sell"+TAB+"Quantity"+TAB+"Ticker"+TAB+"Asset Class"+TAB+"FA"+TAB+"State"+TAB+"ZIP"+TAB+"City"+TAB+"Population"+TAB+"Mid Household Income"+"\n")
+#file.write("Timestamp"+TAB+"Buy/Sell"+TAB+"Quantity"+TAB+"Ticker"+TAB+"Asset Class"+TAB+"FA"+TAB+"State"+TAB+"ZIP"+TAB+"City"+TAB+"Population"+TAB+"Mid Household Income"+"\n")
 
 
-for index in range(100):
+for index in range(1000):
 
 	ran_1 = random.randint(0,100)
 	ran_2 = random.randint(0,100)
@@ -49,6 +55,9 @@ for index in range(100):
 	t_hh = str(hours[ran_1 % len(hours)])
 	t_mm = str(minutes[ran_2 % len(minutes)])
 	t_ss = str(seconds[ran_3 % len(seconds)])
+	
+	if (t_yy == '2022'):
+		t_MM = str(ran_2 % 2 +1)
 	
 	
 	t_timestamp = str(t_yy)+"-"+t_MM.rjust(2, '0')+"-"+t_dd.rjust(2, '0')+" "+t_hh.rjust(2, '0')+":"+t_mm.rjust(2, '0')+":"+t_ss.rjust(2, '0')
@@ -68,10 +77,12 @@ for index in range(100):
 	
 	if (t_security == 'Equity'):
 		t_tciker = eq_tickers[ran_1 % len(eq_tickers)]
-	elif (t_security == 'Fixed Income'):
-		t_tciker = fi_tickers[ran_2 % len(fi_tickers)]
+		t_type = eq_types[ran_2 % len(eq_types)]
 	else:
 		t_tciker = mf_tickers[ran_3 % len(mf_tickers)]
+		t_type = mf_types[ran_1 % len(mf_types)]
+		
+	t_multi= multis[ran_2 % len(multis)]
 		
 	t_buy_sell= b_s[ran_1 % len(b_s)]
 	
@@ -81,7 +92,7 @@ for index in range(100):
 
 		
 	file.write(t_timestamp+TAB+t_buy_sell+TAB+t_qty+TAB+t_tciker+TAB+t_security+TAB+t_fa+
-              TAB+t_state+TAB+t_zip+TAB+zipcode.major_city+TAB+str(zipcode.population)+TAB+str(zipcode.median_household_income)+"\n")
+              TAB+t_state+TAB+t_zip+TAB+zipcode.major_city+TAB+str(zipcode.population)+TAB+str(zipcode.median_household_income)+TAB+t_multi+TAB+t_type+"\n")
 
 
 

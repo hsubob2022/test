@@ -1,0 +1,1000 @@
+2021-10-08 09:33:07,Buy,40764,ASRAX,Mutual Funds,David Lopez,NY,10023,New York,60998,103534,Multi-2,IMM
+2021-03-13 13:02:12,Buy,40818,COST,Equity,Peter Williams,CT,06807,Cos Cob,7150,141371,Multi-3,At The Opening
+2022-01-01 14:36:00,Sell,13152,BAC,Equity,Jay Miller,NY,10024,New York,59283,109956,Single,Day
+2021-05-28 09:40:27,Buy,711255,ASRAX,Mutual Funds,Jay Miller,NJ,07097,Jersey City,None,None,Single,Money Market
+2021-04-16 11:27:15,Buy,876770,AAAAX,Mutual Funds,Cathy Jones,NY,10007,New York,6988,216037,Multi-4,IMM
+2021-04-06 11:27:01,Buy,176981,AAATX,Mutual Funds,Cathy Jones,NY,11946,Hampton Bays,14068,72023,Multi-4,IMM
+2021-04-06 11:15:29,Buy,522621,MMKBX,Mutual Funds,Cathy Jones,NY,11946,Hampton Bays,14068,72023,Multi-4,Money Market
+2021-07-14 13:30:37,Buy,953989,ASRAX,Mutual Funds,Peter Williams,NY,10023,New York,60998,103534,Multi-3,Money Market
+2022-02-08 10:03:07,Sell,498111,ASRAX,Mutual Funds,Nicro Brown,NY,10024,New York,59283,109956,Multi-4,Offshore
+2021-10-27 11:33:26,Buy,174796,C,Equity,David Lopez,NY,11530,Garden City,27273,135370,Multi-2,GTC
+2021-09-22 11:08:49,Buy,56245,MMKBX,Mutual Funds,Jay Miller,CT,06070,Simsbury,15104,119188,Single,Money Market
+2022-02-12 14:59:35,Sell,911427,AAAAX,Mutual Funds,Nicro Brown,CT,06901,Stamford,6828,59118,Multi-4,Offshore
+2022-01-04 14:06:27,Sell,56089,ASRAX,Mutual Funds,Jane Davis,NY,10021,New York,43631,107907,Multi-3,Offshore
+2021-08-04 13:31:27,Buy,319863,ASRAX,Mutual Funds,Nicro Brown,NJ,07078,Short Hills,13250,223214,Multi-4,IMM
+2022-02-15 12:37:10,Sell,221588,GOOG,Equity,Mary Shelly,NJ,07020,Edgewater,11513,101934,Multi-2,GTC
+2021-07-09 11:06:04,Buy,580164,C,Equity,Jane Davis,NY,10023,New York,60998,103534,Multi-3,At The Opening
+2022-01-12 10:28:11,Sell,295937,AAATX,Mutual Funds,John Smith,NJ,07010,Cliffside Park,23594,62364,Single,Front Load Fund
+2022-02-03 12:33:26,Sell,202663,GOOG,Equity,Mary Shelly,NY,11576,Roslyn,12366,150161,Multi-2,GTC
+2022-02-21 14:39:48,Sell,855825,BAC,Equity,Nicro Brown,NY,10024,New York,59283,109956,Multi-4,Market On Close
+2021-08-19 09:31:14,Buy,922886,AAPL,Equity,Cathy Jones,NJ,08540,Princeton,47115,125439,Multi-4,Market On Close
+2021-01-15 13:12:14,Buy,767153,COST,Equity,Jay Miller,NY,11946,Hampton Bays,14068,72023,Single,Day
+2022-02-24 12:03:23,Sell,967038,CALCI,Mutual Funds,Cathy Jones,NY,10024,New York,59283,109956,Multi-4,Offshore
+2021-01-19 11:12:14,Buy,715800,C,Equity,John Smith,NY,11030,Manhasset,17962,172266,Single,Day
+2021-11-06 11:46:05,Buy,132853,AAAAX,Mutual Funds,Jane Davis,NJ,07024,Fort Lee,35353,71949,Multi-3,Money Market
+2022-02-19 10:25:14,Sell,301769,MS,Equity,Mary Shelly,NJ,07020,Edgewater,11513,101934,Multi-2,GTC
+2022-01-04 14:16:31,Sell,958361,AAATX,Mutual Funds,Jay Miller,NJ,07097,Jersey City,None,None,Single,Offshore
+2022-01-20 10:36:19,Sell,256535,MMKBX,Mutual Funds,John Smith,NY,10024,New York,59283,109956,Single,Offshore
+2021-04-13 11:15:08,Buy,485164,C,Equity,Cathy Jones,NY,11946,Hampton Bays,14068,72023,Multi-4,Market On Close
+2022-01-07 10:34:34,Sell,158390,MS,Equity,Jane Davis,NJ,07024,Fort Lee,35353,71949,Multi-3,At The Opening
+2022-02-22 12:17:21,Sell,378287,AAATX,Mutual Funds,Mary Shelly,CT,06836,Greenwich,None,None,Multi-2,Front Load Fund
+2022-01-07 10:30:30,Sell,226855,MS,Equity,Jane Davis,NY,10021,New York,43631,107907,Multi-3,At The Opening
+2022-02-04 12:39:27,Sell,28047,ASRAX,Mutual Funds,Nicro Brown,NY,11576,Roslyn,12366,150161,Multi-4,Offshore
+2022-01-17 12:30:44,Sell,518292,GOOG,Equity,Jane Davis,NY,10024,New York,59283,109956,Multi-3,At The Opening
+2021-11-10 09:10:05,Buy,445852,AAAAX,Mutual Funds,Peter Williams,NJ,07050,Orange,30074,34965,Multi-3,Money Market
+2022-02-17 10:05:16,Sell,951486,MS,Equity,David Lopez,CT,06510,New Haven,2737,42656,Multi-2,GTC
+2021-12-13 09:59:08,Buy,801372,AAPL,Equity,Nicro Brown,CT,06830,Greenwich,24027,109860,Multi-4,Market On Close
+2021-02-02 09:49:01,Buy,120660,AAATX,Mutual Funds,Mary Shelly,NJ,07020,Edgewater,11513,101934,Multi-2,Money Market
+2022-02-21 10:01:48,Sell,580292,MS,Equity,David Lopez,NJ,07632,Englewood Cliffs,5309,113802,Multi-2,GTC
+2022-01-10 10:26:09,Sell,437163,MMKBX,Mutual Funds,Peter Williams,CT,06836,Greenwich,None,None,Multi-3,Front Load Fund
+2021-10-26 11:33:21,Buy,970664,AAATX,Mutual Funds,Mary Shelly,NY,11030,Manhasset,17962,172266,Multi-2,IMM
+2022-01-08 14:32:07,Sell,371453,ASRAX,Mutual Funds,John Smith,CT,06070,Simsbury,15104,119188,Single,Front Load Fund
+2021-09-08 09:20:07,Buy,58190,ASRAX,Mutual Funds,John Smith,CT,06070,Simsbury,15104,119188,Single,Money Market
+2021-09-13 13:56:08,Buy,123580,COST,Equity,John Smith,CT,06830,Greenwich,24027,109860,Single,Day
+2022-02-08 10:39:31,Sell,178485,AAATX,Mutual Funds,Cathy Jones,NY,11753,Jericho,12014,153438,Multi-4,Offshore
+2022-02-13 10:15:36,Sell,130708,MS,Equity,Cathy Jones,NY,10024,New York,59283,109956,Multi-4,Market On Close
+2021-01-10 13:12:37,Buy,177633,ASRAX,Mutual Funds,Jay Miller,NY,11530,Garden City,27273,135370,Single,IMM
+2022-02-23 12:13:22,Sell,865798,GOOG,Equity,Mary Shelly,NJ,07020,Edgewater,11513,101934,Multi-2,GTC
+2021-05-24 11:16:51,Buy,162571,AAATX,Mutual Funds,John Smith,NJ,07010,Cliffside Park,23594,62364,Single,Money Market
+2021-12-26 13:23:25,Buy,29483,AAAAX,Mutual Funds,Nicro Brown,CT,06070,Simsbury,15104,119188,Multi-4,IMM
+2022-02-18 14:11:13,Sell,9325,CALCI,Mutual Funds,Nicro Brown,CT,06070,Simsbury,15104,119188,Multi-4,Offshore
+2022-02-08 14:59:35,Sell,1715,AAAAX,Mutual Funds,Nicro Brown,CT,06901,Stamford,6828,59118,Multi-4,Front Load Fund
+2022-01-23 12:16:22,Sell,520060,GOOG,Equity,Jay Miller,NJ,07097,Jersey City,None,None,Single,Day
+2021-02-15 13:49:10,Buy,474292,COST,Equity,Mary Shelly,NJ,07020,Edgewater,11513,101934,Multi-2,GTC
+2022-01-25 14:36:20,Sell,134118,BAC,Equity,John Smith,NY,10024,New York,59283,109956,Single,Day
+2022-02-25 14:35:52,Sell,541328,BAC,Equity,Cathy Jones,CT,06510,New Haven,2737,42656,Multi-4,Market On Close
+2022-01-08 12:20:07,Sell,50312,ASRAX,Mutual Funds,Jay Miller,CT,06070,Simsbury,15104,119188,Single,Front Load Fund
+2021-11-24 13:10:23,Buy,534269,CALCI,Mutual Funds,Jane Davis,NJ,07024,Fort Lee,35353,71949,Multi-3,IMM
+2021-03-02 13:38:29,Buy,821466,MMKBX,Mutual Funds,Peter Williams,CT,06901,Stamford,6828,59118,Multi-3,Money Market
+2022-01-02 14:32:01,Sell,541414,AAATX,Mutual Funds,Jay Miller,CT,06070,Simsbury,15104,119188,Single,Offshore
+2022-01-18 14:38:17,Sell,479470,ASRAX,Mutual Funds,Jane Davis,CT,06901,Stamford,6828,59118,Multi-3,Front Load Fund
+2021-01-02 11:24:29,Buy,333063,MMKBX,Mutual Funds,Jay Miller,NY,10007,New York,6988,216037,Single,IMM
+2021-12-07 09:23:34,Buy,641022,AAPL,Equity,Cathy Jones,CT,06510,New Haven,2737,42656,Multi-4,Market On Close
+2021-05-20 11:28:15,Buy,499818,AAAAX,Mutual Funds,Jay Miller,NJ,07097,Jersey City,None,None,Single,Money Market
+2022-01-21 14:16:20,Sell,976044,BAC,Equity,Jay Miller,NJ,07097,Jersey City,None,None,Single,Day
+2021-03-13 13:26:40,Buy,955731,COST,Equity,Peter Williams,CT,06510,New Haven,2737,42656,Multi-3,At The Opening
+2021-01-24 13:00:51,Buy,779950,AAATX,Mutual Funds,Jay Miller,NY,10023,New York,60998,103534,Single,IMM
+2021-12-24 11:35:23,Buy,427265,CALCI,Mutual Funds,Nicro Brown,CT,06901,Stamford,6828,59118,Multi-4,Money Market
+2021-10-01 11:21:00,Buy,971299,C,Equity,David Lopez,NY,11030,Manhasset,17962,172266,Multi-2,GTC
+2021-09-17 13:32:12,Buy,516762,COST,Equity,Jay Miller,CT,06807,Cos Cob,7150,141371,Single,Day
+2021-02-08 09:37:07,Buy,354874,ASRAX,Mutual Funds,Mary Shelly,NJ,07020,Edgewater,11513,101934,Multi-2,Money Market
+2022-02-04 12:37:31,Sell,892440,AAATX,Mutual Funds,Mary Shelly,NJ,07020,Edgewater,11513,101934,Multi-2,Front Load Fund
+2022-01-10 12:16:37,Sell,265117,ASRAX,Mutual Funds,Jay Miller,NJ,07097,Jersey City,None,None,Single,Front Load Fund
+2021-10-10 13:21:09,Buy,229462,MMKBX,Mutual Funds,Mary Shelly,NY,11030,Manhasset,17962,172266,Multi-2,IMM
+2021-08-15 09:07:38,Buy,954909,AAPL,Equity,Nicro Brown,NJ,07078,Short Hills,13250,223214,Multi-4,Market On Close
+2021-04-21 09:39:16,Buy,300723,AAPL,Equity,Nicro Brown,NY,11030,Manhasset,17962,172266,Multi-4,Market On Close
+2021-04-15 09:03:14,Buy,561338,AAPL,Equity,Cathy Jones,NY,11030,Manhasset,17962,172266,Multi-4,Market On Close
+2022-02-22 10:39:21,Sell,982741,AAATX,Mutual Funds,Nicro Brown,NY,10021,New York,43631,107907,Multi-4,Offshore
+2021-12-15 11:47:38,Buy,103721,C,Equity,Cathy Jones,CT,06830,Greenwich,24027,109860,Multi-4,Market On Close
+2021-08-11 11:31:34,Buy,858990,C,Equity,Nicro Brown,NJ,07078,Short Hills,13250,223214,Multi-4,Market On Close
+2021-12-12 13:35:39,Buy,271577,MMKBX,Mutual Funds,Nicro Brown,CT,06836,Greenwich,None,None,Multi-4,IMM
+2021-09-20 11:44:15,Buy,987510,AAAAX,Mutual Funds,Jay Miller,CT,06836,Greenwich,None,None,Single,Money Market
+2022-02-05 12:03:04,Sell,267797,GOOG,Equity,Cathy Jones,NY,11753,Jericho,12014,153438,Multi-4,Market On Close
+2021-11-16 11:34:39,Buy,872564,MMKBX,Mutual Funds,Peter Williams,NJ,07050,Orange,30074,34965,Multi-3,IMM
+2021-09-11 11:32:06,Buy,607385,C,Equity,John Smith,CT,06807,Cos Cob,7150,141371,Single,Day
+2022-02-03 14:17:26,Sell,21810,BAC,Equity,David Lopez,CT,06830,Greenwich,24027,109860,Multi-2,GTC
+2022-02-26 10:33:53,Sell,279244,CALCI,Mutual Funds,Mary Shelly,NY,11753,Jericho,12014,153438,Multi-2,Offshore
+2022-01-23 12:06:50,Sell,21306,GOOG,Equity,Peter Williams,NY,11753,Jericho,12014,153438,Multi-3,At The Opening
+2022-01-15 12:50:42,Sell,954796,GOOG,Equity,Peter Williams,CT,06807,Cos Cob,7150,141371,Multi-3,At The Opening
+2021-08-04 11:31:31,Buy,447176,AAATX,Mutual Funds,Nicro Brown,NJ,07078,Short Hills,13250,223214,Multi-4,Money Market
+2021-06-06 13:53:33,Buy,267660,CALCI,Mutual Funds,David Lopez,CT,06836,Greenwich,None,None,Multi-2,IMM
+2022-02-07 14:17:30,Sell,806008,BAC,Equity,Mary Shelly,CT,06807,Cos Cob,7150,141371,Multi-2,GTC
+2021-12-28 13:23:23,Buy,613747,CALCI,Mutual Funds,Cathy Jones,CT,06901,Stamford,6828,59118,Multi-4,Money Market
+2021-05-23 11:28:50,Buy,35373,C,Equity,John Smith,NJ,07010,Cliffside Park,23594,62364,Single,Day
+2021-01-15 13:36:10,Buy,691097,COST,Equity,Jay Miller,NY,10023,New York,60998,103534,Single,Day
+2021-06-18 13:53:13,Buy,100041,CALCI,Mutual Funds,David Lopez,CT,06070,Simsbury,15104,119188,Multi-2,Money Market
+2022-01-08 10:48:35,Sell,274894,AAAAX,Mutual Funds,John Smith,NY,11753,Jericho,12014,153438,Single,Front Load Fund
+2022-02-07 12:19:02,Sell,369117,GOOG,Equity,Nicro Brown,NJ,07078,Short Hills,13250,223214,Multi-4,Market On Close
+2022-01-01 12:00:24,Sell,3276,GOOG,Equity,John Smith,NY,11753,Jericho,12014,153438,Single,Day
+2021-06-09 13:29:36,Buy,683716,COST,Equity,Mary Shelly,CT,06807,Cos Cob,7150,141371,Multi-2,GTC
+2021-02-08 13:37:31,Buy,108661,AAATX,Mutual Funds,Mary Shelly,NJ,07020,Edgewater,11513,101934,Multi-2,Money Market
+2022-01-21 12:24:20,Sell,568697,GOOG,Equity,Jay Miller,NY,10021,New York,43631,107907,Single,Day
+2022-01-13 10:38:08,Sell,303670,MS,Equity,Peter Williams,CT,06830,Greenwich,24027,109860,Multi-3,At The Opening
+2022-02-07 14:01:02,Sell,797357,BAC,Equity,David Lopez,NJ,07632,Englewood Cliffs,5309,113802,Multi-2,GTC
+2021-01-06 11:48:05,Buy,278019,AAAAX,Mutual Funds,John Smith,NY,10007,New York,6988,216037,Single,Money Market
+2021-06-17 11:53:40,Buy,409420,C,Equity,David Lopez,CT,06510,New Haven,2737,42656,Multi-2,GTC
+2022-02-02 12:17:01,Sell,472317,AAATX,Mutual Funds,David Lopez,CT,06070,Simsbury,15104,119188,Multi-2,Offshore
+2022-02-10 10:59:09,Sell,254645,MMKBX,Mutual Funds,Nicro Brown,CT,06836,Greenwich,None,None,Multi-4,Front Load Fund
+2021-10-19 11:09:14,Buy,652165,C,Equity,David Lopez,NY,11530,Garden City,27273,135370,Multi-2,GTC
+2021-09-16 11:56:43,Buy,973855,CALCI,Mutual Funds,John Smith,CT,06070,Simsbury,15104,119188,Single,Money Market
+2022-01-11 12:26:06,Sell,567034,GOOG,Equity,Peter Williams,CT,06807,Cos Cob,7150,141371,Multi-3,At The Opening
+2021-08-02 09:19:29,Buy,764532,MMKBX,Mutual Funds,Cathy Jones,NJ,08540,Princeton,47115,125439,Multi-4,Money Market
+2022-02-07 10:59:30,Sell,66008,MS,Equity,Nicro Brown,CT,06807,Cos Cob,7150,141371,Multi-4,Market On Close
+2022-01-01 12:56:00,Sell,351682,GOOG,Equity,John Smith,CT,06807,Cos Cob,7150,141371,Single,Day
+2022-02-16 10:43:15,Sell,394660,AAAAX,Mutual Funds,Nicro Brown,NJ,07078,Short Hills,13250,223214,Multi-4,Offshore
+2021-02-01 09:01:56,Buy,428828,AAPL,Equity,David Lopez,NJ,07632,Englewood Cliffs,5309,113802,Multi-2,GTC
+2021-12-18 13:35:13,Buy,447232,CALCI,Mutual Funds,Nicro Brown,CT,06070,Simsbury,15104,119188,Multi-4,IMM
+2022-01-26 12:24:53,Sell,141705,CALCI,Mutual Funds,John Smith,NY,10021,New York,43631,107907,Single,Front Load Fund
+2022-02-11 12:13:10,Sell,225915,GOOG,Equity,Mary Shelly,NJ,07020,Edgewater,11513,101934,Multi-2,GTC
+2021-11-11 11:46:34,Buy,774894,C,Equity,Jane Davis,NJ,07024,Fort Lee,35353,71949,Multi-3,At The Opening
+2022-01-26 12:48:25,Sell,1383,AAAAX,Mutual Funds,John Smith,NY,10006,New York,3011,119274,Single,Offshore
+2022-02-25 12:21:24,Sell,190459,GOOG,Equity,David Lopez,NY,10024,New York,59283,109956,Multi-2,GTC
+2021-01-24 09:48:19,Buy,439528,MMKBX,Mutual Funds,John Smith,NY,11946,Hampton Bays,14068,72023,Single,IMM
+2021-10-13 13:21:12,Buy,906939,COST,Equity,David Lopez,NY,10023,New York,60998,103534,Multi-2,GTC
+2021-11-27 11:22:22,Buy,635256,C,Equity,Jane Davis,NJ,07024,Fort Lee,35353,71949,Multi-3,At The Opening
+2022-02-23 12:37:22,Sell,634037,GOOG,Equity,David Lopez,NJ,07632,Englewood Cliffs,5309,113802,Multi-2,GTC
+2022-01-21 10:16:16,Sell,667097,MS,Equity,John Smith,NJ,07010,Cliffside Park,23594,62364,Single,Day
+2022-02-05 14:27:04,Sell,549073,BAC,Equity,Nicro Brown,NY,10021,New York,43631,107907,Multi-4,Market On Close
+2022-02-03 12:33:02,Sell,763017,GOOG,Equity,David Lopez,NY,11576,Roslyn,12366,150161,Multi-2,GTC
+2022-02-04 12:03:27,Sell,32388,ASRAX,Mutual Funds,Nicro Brown,NY,11576,Roslyn,12366,150161,Multi-4,Offshore
+2021-03-07 09:26:30,Buy,614216,AAPL,Equity,Jane Davis,CT,06807,Cos Cob,7150,141371,Multi-3,At The Opening
+2021-03-09 09:38:04,Buy,200482,AAPL,Equity,Peter Williams,CT,06510,New Haven,2737,42656,Multi-3,At The Opening
+2022-01-17 14:36:12,Sell,46376,BAC,Equity,John Smith,NY,10024,New York,59283,109956,Single,Day
+2022-02-24 12:05:23,Sell,721564,CALCI,Mutual Funds,David Lopez,CT,06901,Stamford,6828,59118,Multi-2,Offshore
+2022-01-15 10:28:10,Sell,76632,MS,Equity,John Smith,NJ,07010,Cliffside Park,23594,62364,Single,Day
+2022-02-04 12:35:27,Sell,387702,ASRAX,Mutual Funds,Cathy Jones,CT,06836,Greenwich,None,None,Multi-4,Front Load Fund
+2021-05-06 11:52:05,Buy,969144,AAAAX,Mutual Funds,Jay Miller,NJ,07097,Jersey City,None,None,Single,IMM
+2021-12-17 13:59:12,Buy,263912,COST,Equity,Nicro Brown,CT,06807,Cos Cob,7150,141371,Multi-4,Market On Close
+2022-02-23 14:27:50,Sell,725035,BAC,Equity,Cathy Jones,NY,10021,New York,43631,107907,Multi-4,Market On Close
+2021-04-23 11:39:50,Buy,471995,C,Equity,Nicro Brown,NY,10007,New York,6988,216037,Multi-4,Market On Close
+2022-01-10 12:22:05,Sell,430984,AAAAX,Mutual Funds,Peter Williams,NJ,07050,Orange,30074,34965,Multi-3,Offshore
+2021-07-20 09:06:19,Buy,555608,MMKBX,Mutual Funds,Jane Davis,NY,10023,New York,60998,103534,Multi-3,IMM
+2021-12-13 13:35:40,Buy,858057,COST,Equity,Cathy Jones,CT,06510,New Haven,2737,42656,Multi-4,Market On Close
+2022-01-05 12:46:32,Sell,182552,GOOG,Equity,Jane Davis,NJ,07024,Fort Lee,35353,71949,Multi-3,At The Opening
+2022-01-17 14:18:44,Sell,504200,BAC,Equity,Peter Williams,NY,10006,New York,3011,119274,Multi-3,At The Opening
+2022-01-27 12:20:22,Sell,53658,GOOG,Equity,John Smith,CT,06510,New Haven,2737,42656,Single,Day
+2021-05-01 13:16:56,Buy,732310,COST,Equity,Jay Miller,NJ,07097,Jersey City,None,None,Single,Day
+2022-01-07 10:20:02,Sell,948856,MS,Equity,John Smith,CT,06830,Greenwich,24027,109860,Single,Day
+2021-08-14 11:19:13,Buy,417492,CALCI,Mutual Funds,Nicro Brown,NJ,07078,Short Hills,13250,223214,Multi-4,IMM
+2022-02-13 14:31:12,Sell,922724,BAC,Equity,Cathy Jones,NJ,08540,Princeton,47115,125439,Multi-4,Market On Close
+2021-09-25 13:08:52,Buy,555625,COST,Equity,Jay Miller,CT,06510,New Haven,2737,42656,Single,Day
+2022-01-21 10:46:20,Sell,208459,MS,Equity,Jane Davis,NJ,07024,Fort Lee,35353,71949,Multi-3,At The Opening
+2021-06-04 11:17:27,Buy,191322,ASRAX,Mutual Funds,David Lopez,CT,06836,Greenwich,None,None,Multi-2,IMM
+2022-01-05 10:18:04,Sell,689594,MS,Equity,Peter Williams,NY,11753,Jericho,12014,153438,Multi-3,At The Opening
+2021-04-03 09:03:30,Buy,511964,AAPL,Equity,Cathy Jones,NY,11530,Garden City,27273,135370,Multi-4,Market On Close
+2022-02-03 12:19:58,Sell,225006,GOOG,Equity,Cathy Jones,NJ,08540,Princeton,47115,125439,Multi-4,Market On Close
+2021-05-07 09:04:30,Buy,46160,AAPL,Equity,Jay Miller,NJ,07097,Jersey City,None,None,Single,Day
+2022-02-08 10:07:35,Sell,367300,AAAAX,Mutual Funds,Cathy Jones,NJ,08540,Princeton,47115,125439,Multi-4,Front Load Fund
+2021-05-27 13:40:26,Buy,885015,COST,Equity,Jay Miller,NJ,07097,Jersey City,None,None,Single,Day
+2022-02-14 12:25:37,Sell,842742,ASRAX,Mutual Funds,Mary Shelly,NJ,07020,Edgewater,11513,101934,Multi-2,Front Load Fund
+2022-01-03 10:04:58,Sell,210673,MS,Equity,Jay Miller,NJ,07097,Jersey City,None,None,Single,Day
+2022-01-18 12:36:17,Sell,128305,ASRAX,Mutual Funds,Jay Miller,NY,10024,New York,59283,109956,Single,Front Load Fund
+2021-06-10 09:05:05,Buy,724263,AAAAX,Mutual Funds,David Lopez,CT,06901,Stamford,6828,59118,Multi-2,IMM
+2022-01-15 14:00:14,Sell,295869,BAC,Equity,John Smith,NY,10006,New York,3011,119274,Single,Day
+2021-01-10 09:00:09,Buy,315671,MMKBX,Mutual Funds,Jay Miller,NY,11530,Garden City,27273,135370,Single,IMM
+2021-07-14 11:30:41,Buy,758114,AAATX,Mutual Funds,Peter Williams,NY,11030,Manhasset,17962,172266,Multi-3,IMM
+2022-01-01 10:40:28,Sell,195539,MS,Equity,John Smith,NJ,07010,Cliffside Park,23594,62364,Single,Day
+2022-02-17 12:09:12,Sell,460146,GOOG,Equity,Mary Shelly,NY,11576,Roslyn,12366,150161,Multi-2,GTC
+2021-01-05 13:12:28,Buy,168652,COST,Equity,John Smith,NY,11030,Manhasset,17962,172266,Single,Day
+2021-05-02 13:16:29,Buy,293898,MMKBX,Mutual Funds,Jay Miller,NJ,07097,Jersey City,None,None,Single,Money Market
+2021-02-01 13:25:00,Buy,745855,COST,Equity,Mary Shelly,NJ,07020,Edgewater,11513,101934,Multi-2,GTC
+2021-09-21 09:20:16,Buy,452838,AAPL,Equity,John Smith,CT,06510,New Haven,2737,42656,Single,Day
+2022-02-07 12:11:30,Sell,84266,GOOG,Equity,Nicro Brown,CT,06807,Cos Cob,7150,141371,Multi-4,Market On Close
+2021-09-07 09:32:30,Buy,916483,AAPL,Equity,John Smith,CT,06807,Cos Cob,7150,141371,Single,Day
+2021-02-03 11:49:26,Buy,313644,C,Equity,Mary Shelly,NJ,07020,Edgewater,11513,101934,Multi-2,GTC
+2021-09-10 13:32:37,Buy,842352,ASRAX,Mutual Funds,John Smith,CT,06070,Simsbury,15104,119188,Single,Money Market
+2021-04-26 11:15:25,Buy,994365,AAAAX,Mutual Funds,Nicro Brown,NY,11030,Manhasset,17962,172266,Multi-4,IMM
+2021-02-23 11:49:50,Buy,627946,C,Equity,Mary Shelly,NJ,07020,Edgewater,11513,101934,Multi-2,GTC
+2022-01-28 14:34:23,Sell,734656,CALCI,Mutual Funds,Jane Davis,NJ,07024,Fort Lee,35353,71949,Multi-3,Offshore
+2022-02-15 14:11:42,Sell,511147,BAC,Equity,Nicro Brown,CT,06807,Cos Cob,7150,141371,Multi-4,Market On Close
+2021-02-09 09:25:04,Buy,435074,AAPL,Equity,Mary Shelly,NJ,07020,Edgewater,11513,101934,Multi-2,GTC
+2021-10-02 11:33:25,Buy,66426,AAAAX,Mutual Funds,Mary Shelly,NY,11946,Hampton Bays,14068,72023,Multi-2,Money Market
+2022-01-16 14:00:15,Sell,594695,AAAAX,Mutual Funds,Jay Miller,NY,10024,New York,59283,109956,Single,Front Load Fund
+2022-01-16 10:26:11,Sell,617456,AAATX,Mutual Funds,Jane Davis,CT,06901,Stamford,6828,59118,Multi-3,Offshore
+2021-09-13 11:20:12,Buy,12617,C,Equity,Jay Miller,CT,06807,Cos Cob,7150,141371,Single,Day
+2022-01-22 10:06:17,Sell,4117,ASRAX,Mutual Funds,Jane Davis,NY,10006,New York,3011,119274,Multi-3,Front Load Fund
+2022-02-15 12:13:10,Sell,937448,GOOG,Equity,Mary Shelly,NJ,07020,Edgewater,11513,101934,Multi-2,GTC
+2021-08-13 09:07:12,Buy,860045,AAPL,Equity,Cathy Jones,NJ,08540,Princeton,47115,125439,Multi-4,Market On Close
+2022-01-09 14:38:36,Sell,67630,BAC,Equity,Peter Williams,CT,06807,Cos Cob,7150,141371,Multi-3,At The Opening
+2021-03-13 13:38:12,Buy,833428,COST,Equity,Jane Davis,CT,06807,Cos Cob,7150,141371,Multi-3,At The Opening
+2022-01-02 12:36:29,Sell,350395,MMKBX,Mutual Funds,John Smith,NY,11576,Roslyn,12366,150161,Single,Offshore
+2022-01-12 10:20:11,Sell,506505,AAATX,Mutual Funds,John Smith,CT,06901,Stamford,6828,59118,Single,Offshore
+2022-02-07 14:47:06,Sell,112084,BAC,Equity,Cathy Jones,CT,06807,Cos Cob,7150,141371,Multi-4,Market On Close
+2021-02-14 11:37:13,Buy,350458,CALCI,Mutual Funds,Mary Shelly,NJ,07020,Edgewater,11513,101934,Multi-2,Money Market
+2021-07-28 11:18:23,Buy,459677,CALCI,Mutual Funds,Jane Davis,NY,10023,New York,60998,103534,Multi-3,Money Market
+2022-02-14 10:03:09,Sell,70998,MMKBX,Mutual Funds,Cathy Jones,NY,11753,Jericho,12014,153438,Multi-4,Front Load Fund
+2022-02-20 14:07:15,Sell,798815,AAAAX,Mutual Funds,Nicro Brown,NJ,07078,Short Hills,13250,223214,Multi-4,Offshore
+2021-03-25 09:26:24,Buy,239627,AAPL,Equity,Jane Davis,CT,06807,Cos Cob,7150,141371,Multi-3,At The Opening
+2021-12-28 13:35:27,Buy,659980,ASRAX,Mutual Funds,Nicro Brown,CT,06836,Greenwich,None,None,Multi-4,Money Market
+2021-10-12 09:09:39,Buy,355444,MMKBX,Mutual Funds,David Lopez,NY,11946,Hampton Bays,14068,72023,Multi-2,Money Market
+2022-01-12 14:22:07,Sell,859203,ASRAX,Mutual Funds,Peter Williams,NJ,07050,Orange,30074,34965,Multi-3,Front Load Fund
+2022-01-25 14:52:52,Sell,364162,BAC,Equity,Jay Miller,NJ,07097,Jersey City,None,None,Single,Day
+2021-02-16 09:37:15,Buy,730000,AAAAX,Mutual Funds,Mary Shelly,NJ,07020,Edgewater,11513,101934,Multi-2,Money Market
+2021-02-03 11:13:58,Buy,391910,C,Equity,Mary Shelly,NJ,07020,Edgewater,11513,101934,Multi-2,GTC
+2022-01-02 14:54:57,Sell,130127,ASRAX,Mutual Funds,Jane Davis,NY,10006,New York,3011,119274,Multi-3,Offshore
+2022-02-18 14:03:45,Sell,367688,AAAAX,Mutual Funds,Nicro Brown,NY,11753,Jericho,12014,153438,Multi-4,Front Load Fund
+2022-02-14 10:35:09,Sell,485173,MMKBX,Mutual Funds,Cathy Jones,CT,06836,Greenwich,None,None,Multi-4,Offshore
+2021-12-12 09:59:11,Buy,278800,AAATX,Mutual Funds,Nicro Brown,CT,06901,Stamford,6828,59118,Multi-4,IMM
+2022-01-02 14:02:25,Sell,442836,AAAAX,Mutual Funds,Jane Davis,CT,06070,Simsbury,15104,119188,Multi-3,Offshore
+2022-02-04 12:15:27,Sell,261321,ASRAX,Mutual Funds,Nicro Brown,NY,10021,New York,43631,107907,Multi-4,Front Load Fund
+2021-11-18 13:34:13,Buy,796146,CALCI,Mutual Funds,Jane Davis,NJ,07024,Fort Lee,35353,71949,Multi-3,Money Market
+2022-01-02 10:00:29,Sell,682504,MMKBX,Mutual Funds,Jay Miller,NY,10006,New York,3011,119274,Single,Front Load Fund
+2021-06-27 11:05:26,Buy,196483,C,Equity,Mary Shelly,CT,06830,Greenwich,24027,109860,Multi-2,GTC
+2022-02-25 12:59:52,Sell,415152,GOOG,Equity,Nicro Brown,CT,06510,New Haven,2737,42656,Multi-4,Market On Close
+2021-12-07 09:59:02,Buy,696654,AAPL,Equity,Nicro Brown,CT,06830,Greenwich,24027,109860,Multi-4,Market On Close
+2021-05-19 13:04:14,Buy,395054,COST,Equity,Jay Miller,NJ,07097,Jersey City,None,None,Single,Day
+2022-01-26 14:40:25,Sell,233032,AAAAX,Mutual Funds,Jay Miller,NJ,07097,Jersey City,None,None,Single,Offshore
+2022-02-04 12:19:27,Sell,409182,ASRAX,Mutual Funds,Cathy Jones,NJ,08540,Princeton,47115,125439,Multi-4,Front Load Fund
+2022-01-06 12:08:33,Sell,407964,CALCI,Mutual Funds,John Smith,CT,06836,Greenwich,None,None,Single,Offshore
+2021-01-09 11:12:04,Buy,181381,C,Equity,John Smith,NY,11030,Manhasset,17962,172266,Single,Day
+2021-11-21 09:22:20,Buy,672795,AAPL,Equity,Peter Williams,NJ,07050,Orange,30074,34965,Multi-3,At The Opening
+2021-03-09 09:38:36,Buy,772753,AAPL,Equity,Peter Williams,CT,06807,Cos Cob,7150,141371,Multi-3,At The Opening
+2022-01-17 14:18:44,Sell,165974,BAC,Equity,Jane Davis,NY,11576,Roslyn,12366,150161,Multi-3,At The Opening
+2022-02-17 14:03:40,Sell,861931,BAC,Equity,Cathy Jones,NY,11576,Roslyn,12366,150161,Multi-4,Market On Close
+2021-01-04 13:24:59,Buy,108076,MMKBX,Mutual Funds,John Smith,NY,10007,New York,6988,216037,Single,Money Market
+2021-10-02 13:33:57,Buy,875897,ASRAX,Mutual Funds,David Lopez,NY,10023,New York,60998,103534,Multi-2,IMM
+2021-07-25 09:30:52,Buy,134902,AAPL,Equity,Peter Williams,NY,10023,New York,60998,103534,Multi-3,At The Opening
+2021-12-27 11:47:26,Buy,633310,C,Equity,Cathy Jones,CT,06830,Greenwich,24027,109860,Multi-4,Market On Close
+2021-07-12 11:30:07,Buy,750725,ASRAX,Mutual Funds,Peter Williams,NY,10007,New York,6988,216037,Multi-3,Money Market
+2021-02-15 11:01:14,Buy,516352,C,Equity,Mary Shelly,NJ,07020,Edgewater,11513,101934,Multi-2,GTC
+2021-07-10 13:06:33,Buy,850435,CALCI,Mutual Funds,Peter Williams,NY,10023,New York,60998,103534,Multi-3,IMM
+2021-05-08 13:28:07,Buy,733469,ASRAX,Mutual Funds,John Smith,NJ,07010,Cliffside Park,23594,62364,Single,IMM
+2021-10-19 13:09:46,Buy,649996,COST,Equity,David Lopez,NY,11530,Garden City,27273,135370,Multi-2,GTC
+2021-12-04 09:11:27,Buy,459879,ASRAX,Mutual Funds,Cathy Jones,CT,06836,Greenwich,None,None,Multi-4,IMM
+2021-03-22 11:14:17,Buy,166900,ASRAX,Mutual Funds,Peter Williams,CT,06901,Stamford,6828,59118,Multi-3,Money Market
+2021-11-19 09:34:18,Buy,807329,AAPL,Equity,Jane Davis,NJ,07024,Fort Lee,35353,71949,Multi-3,At The Opening
+2021-03-23 13:14:18,Buy,891495,COST,Equity,Jane Davis,CT,06807,Cos Cob,7150,141371,Multi-3,At The Opening
+2022-02-07 12:33:06,Sell,722147,GOOG,Equity,Mary Shelly,NY,10021,New York,43631,107907,Multi-2,GTC
+2021-07-20 09:06:19,Buy,314220,MMKBX,Mutual Funds,Peter Williams,NY,11030,Manhasset,17962,172266,Multi-3,IMM
+2021-09-11 09:08:34,Buy,905674,AAPL,Equity,John Smith,CT,06510,New Haven,2737,42656,Single,Day
+2021-09-26 11:08:53,Buy,431086,CALCI,Mutual Funds,Jay Miller,CT,06901,Stamford,6828,59118,Single,IMM
+2021-12-02 11:59:25,Buy,613013,AAAAX,Mutual Funds,Nicro Brown,CT,06070,Simsbury,15104,119188,Multi-4,Money Market
+2021-10-15 13:09:14,Buy,428055,COST,Equity,Mary Shelly,NY,10007,New York,6988,216037,Multi-2,GTC
+2021-02-08 09:01:31,Buy,498565,AAATX,Mutual Funds,David Lopez,NJ,07632,Englewood Cliffs,5309,113802,Multi-2,IMM
+2021-02-08 13:37:31,Buy,211859,AAATX,Mutual Funds,David Lopez,NJ,07632,Englewood Cliffs,5309,113802,Multi-2,IMM
+2022-01-27 12:34:54,Sell,63869,GOOG,Equity,Jane Davis,NJ,07024,Fort Lee,35353,71949,Multi-3,At The Opening
+2021-12-23 09:11:18,Buy,556357,AAPL,Equity,Nicro Brown,CT,06807,Cos Cob,7150,141371,Multi-4,Market On Close
+2021-10-22 13:09:21,Buy,645746,AAATX,Mutual Funds,David Lopez,NY,11946,Hampton Bays,14068,72023,Multi-2,IMM
+2021-01-27 11:12:26,Buy,272637,C,Equity,Jay Miller,NY,11946,Hampton Bays,14068,72023,Single,Day
+2022-02-19 14:43:46,Sell,774583,BAC,Equity,Nicro Brown,NJ,07078,Short Hills,13250,223214,Multi-4,Market On Close
+2022-01-04 14:02:03,Sell,86848,CALCI,Mutual Funds,Jane Davis,CT,06836,Greenwich,None,None,Multi-3,Offshore
+2022-01-09 12:20:04,Sell,512940,GOOG,Equity,John Smith,CT,06510,New Haven,2737,42656,Single,Day
+2021-05-16 13:28:39,Buy,471114,MMKBX,Mutual Funds,Jay Miller,NJ,07097,Jersey City,None,None,Single,IMM
+2021-04-16 11:51:39,Buy,800055,MMKBX,Mutual Funds,Nicro Brown,NY,10007,New York,6988,216037,Multi-4,IMM
+2021-04-14 11:51:41,Buy,539767,AAATX,Mutual Funds,Nicro Brown,NY,11530,Garden City,27273,135370,Multi-4,IMM
+2021-02-07 13:37:02,Buy,961906,COST,Equity,David Lopez,NJ,07632,Englewood Cliffs,5309,113802,Multi-2,GTC
+2022-02-26 10:05:25,Sell,354892,AAAAX,Mutual Funds,Mary Shelly,CT,06070,Simsbury,15104,119188,Multi-2,Offshore
+2021-05-17 11:52:16,Buy,221481,C,Equity,Jay Miller,NJ,07097,Jersey City,None,None,Single,Day
+2021-10-14 11:57:41,Buy,53192,AAATX,Mutual Funds,Mary Shelly,NY,10007,New York,6988,216037,Multi-2,Money Market
+2021-01-19 11:36:46,Buy,480688,C,Equity,John Smith,NY,11030,Manhasset,17962,172266,Single,Day
+2021-12-02 13:11:29,Buy,385085,MMKBX,Mutual Funds,Cathy Jones,CT,06901,Stamford,6828,59118,Multi-4,Money Market
+2021-11-27 09:22:54,Buy,243533,AAPL,Equity,Peter Williams,NJ,07050,Orange,30074,34965,Multi-3,At The Opening
+2021-01-11 11:24:10,Buy,458674,C,Equity,Jay Miller,NY,11946,Hampton Bays,14068,72023,Single,Day
+2022-01-07 14:44:02,Sell,344544,BAC,Equity,Jay Miller,CT,06830,Greenwich,24027,109860,Single,Day
+2021-05-14 13:52:09,Buy,151187,MMKBX,Mutual Funds,Jay Miller,NJ,07097,Jersey City,None,None,Single,IMM
+2021-09-09 11:56:08,Buy,710112,C,Equity,John Smith,CT,06830,Greenwich,24027,109860,Single,Day
+2021-04-04 13:03:03,Buy,4223,CALCI,Mutual Funds,Nicro Brown,NY,11030,Manhasset,17962,172266,Multi-4,Money Market
+2021-11-21 09:34:20,Buy,201574,AAPL,Equity,Peter Williams,NJ,07050,Orange,30074,34965,Multi-3,At The Opening
+2021-03-11 11:02:06,Buy,22393,C,Equity,Peter Williams,CT,06807,Cos Cob,7150,141371,Multi-3,At The Opening
+2021-11-13 13:46:40,Buy,379971,COST,Equity,Jane Davis,NJ,07024,Fort Lee,35353,71949,Multi-3,At The Opening
+2022-01-14 12:20:13,Sell,511297,CALCI,Mutual Funds,Jay Miller,CT,06070,Simsbury,15104,119188,Single,Front Load Fund
+2022-02-21 14:49:16,Sell,552525,BAC,Equity,Mary Shelly,NJ,07020,Edgewater,11513,101934,Multi-2,GTC
+2022-01-24 10:46:51,Sell,529616,AAATX,Mutual Funds,Jane Davis,NJ,07024,Fort Lee,35353,71949,Multi-3,Offshore
+2021-09-03 13:32:58,Buy,365684,COST,Equity,John Smith,CT,06510,New Haven,2737,42656,Single,Day
+2021-11-03 09:58:02,Buy,215879,AAPL,Equity,Peter Williams,NJ,07050,Orange,30074,34965,Multi-3,At The Opening
+2021-12-14 11:47:37,Buy,49606,ASRAX,Mutual Funds,Cathy Jones,CT,06070,Simsbury,15104,119188,Multi-4,IMM
+2021-09-03 13:20:02,Buy,770053,COST,Equity,Jay Miller,CT,06830,Greenwich,24027,109860,Single,Day
+2021-02-17 09:13:40,Buy,427457,AAPL,Equity,Mary Shelly,NJ,07020,Edgewater,11513,101934,Multi-2,GTC
+2022-02-21 10:47:16,Sell,982491,MS,Equity,Cathy Jones,CT,06510,New Haven,2737,42656,Multi-4,Market On Close
+2021-11-26 09:22:25,Buy,224732,AAAAX,Mutual Funds,Jane Davis,NJ,07024,Fort Lee,35353,71949,Multi-3,Money Market
+2021-12-11 09:59:34,Buy,426121,AAPL,Equity,Nicro Brown,CT,06510,New Haven,2737,42656,Multi-4,Market On Close
+2021-10-21 09:33:48,Buy,816588,AAPL,Equity,David Lopez,NY,11946,Hampton Bays,14068,72023,Multi-2,GTC
+2022-01-01 14:16:56,Sell,116409,BAC,Equity,John Smith,NJ,07010,Cliffside Park,23594,62364,Single,Day
+2021-05-17 11:16:40,Buy,625576,C,Equity,John Smith,NJ,07010,Cliffside Park,23594,62364,Single,Day
+2021-11-04 13:34:59,Buy,488481,MMKBX,Mutual Funds,Peter Williams,NJ,07050,Orange,30074,34965,Multi-3,IMM
+2022-01-02 14:16:29,Sell,773280,MMKBX,Mutual Funds,Jay Miller,NJ,07097,Jersey City,None,None,Single,Front Load Fund
+2021-08-07 11:19:34,Buy,504347,C,Equity,Nicro Brown,NJ,07078,Short Hills,13250,223214,Multi-4,Market On Close
+2022-02-04 14:07:31,Sell,498758,AAATX,Mutual Funds,Nicro Brown,NJ,07078,Short Hills,13250,223214,Multi-4,Offshore
+2021-09-23 13:08:22,Buy,33258,COST,Equity,John Smith,CT,06510,New Haven,2737,42656,Single,Day
+2021-06-16 13:17:15,Buy,263681,AAAAX,Mutual Funds,David Lopez,CT,06836,Greenwich,None,None,Multi-2,IMM
+2021-11-18 09:10:17,Buy,809898,ASRAX,Mutual Funds,Peter Williams,NJ,07050,Orange,30074,34965,Multi-3,Money Market
+2022-01-18 14:00:13,Sell,478346,CALCI,Mutual Funds,Jay Miller,NY,10024,New York,59283,109956,Single,Offshore
+2021-12-04 13:35:27,Buy,692133,ASRAX,Mutual Funds,Cathy Jones,CT,06836,Greenwich,None,None,Multi-4,IMM
+2022-02-13 12:49:12,Sell,325780,GOOG,Equity,Mary Shelly,NJ,07020,Edgewater,11513,101934,Multi-2,GTC
+2021-09-06 13:56:29,Buy,907819,MMKBX,Mutual Funds,John Smith,CT,06901,Stamford,6828,59118,Single,IMM
+2021-11-16 11:22:11,Buy,891597,AAATX,Mutual Funds,Peter Williams,NJ,07050,Orange,30074,34965,Multi-3,IMM
+2021-05-26 11:40:53,Buy,836865,CALCI,Mutual Funds,John Smith,NJ,07010,Cliffside Park,23594,62364,Single,Money Market
+2022-01-11 14:44:06,Sell,853966,BAC,Equity,Jay Miller,CT,06807,Cos Cob,7150,141371,Single,Day
+2021-10-02 13:45:01,Buy,368531,AAATX,Mutual Funds,David Lopez,NY,10023,New York,60998,103534,Multi-2,Money Market
+2022-02-03 12:35:30,Sell,95470,GOOG,Equity,Cathy Jones,CT,06807,Cos Cob,7150,141371,Multi-4,Market On Close
+2021-09-12 13:20:11,Buy,206940,AAATX,Mutual Funds,John Smith,CT,06901,Stamford,6828,59118,Single,IMM
+2021-03-21 09:38:16,Buy,144883,AAPL,Equity,Jane Davis,CT,06510,New Haven,2737,42656,Multi-3,At The Opening
+2022-01-09 12:32:32,Sell,500184,GOOG,Equity,Jay Miller,CT,06830,Greenwich,24027,109860,Single,Day
+2021-12-05 11:59:28,Buy,761908,C,Equity,Nicro Brown,CT,06510,New Haven,2737,42656,Multi-4,Market On Close
+2022-01-03 12:40:02,Sell,705690,GOOG,Equity,John Smith,NJ,07010,Cliffside Park,23594,62364,Single,Day
+2021-01-13 13:12:12,Buy,332416,COST,Equity,John Smith,NY,10007,New York,6988,216037,Single,Day
+2021-04-10 09:39:33,Buy,359340,CALCI,Mutual Funds,Cathy Jones,NY,11946,Hampton Bays,14068,72023,Multi-4,Money Market
+2021-06-10 13:29:33,Buy,562007,CALCI,Mutual Funds,David Lopez,CT,06836,Greenwich,None,None,Multi-2,IMM
+2022-01-10 12:26:09,Sell,341958,MMKBX,Mutual Funds,Peter Williams,CT,06836,Greenwich,None,None,Multi-3,Front Load Fund
+2022-02-08 12:09:31,Sell,719790,AAATX,Mutual Funds,Mary Shelly,NY,10021,New York,43631,107907,Multi-2,Offshore
+2022-02-06 10:43:01,Sell,747509,AAATX,Mutual Funds,Nicro Brown,NJ,07078,Short Hills,13250,223214,Multi-4,Offshore
+2021-05-11 13:16:34,Buy,262491,COST,Equity,John Smith,NJ,07010,Cliffside Park,23594,62364,Single,Day
+2021-01-06 13:24:05,Buy,310517,AAAAX,Mutual Funds,Jay Miller,NY,10023,New York,60998,103534,Single,IMM
+2021-09-06 13:56:05,Buy,842134,AAAAX,Mutual Funds,John Smith,CT,06901,Stamford,6828,59118,Single,IMM
+2021-11-17 13:34:16,Buy,814251,COST,Equity,Jane Davis,NJ,07024,Fort Lee,35353,71949,Multi-3,At The Opening
+2022-01-22 12:40:17,Sell,551175,ASRAX,Mutual Funds,Jay Miller,NJ,07097,Jersey City,None,None,Single,Offshore
+2022-02-23 14:49:22,Sell,331561,BAC,Equity,Mary Shelly,NJ,07020,Edgewater,11513,101934,Multi-2,GTC
+2022-01-05 10:40:04,Sell,401343,MS,Equity,Jay Miller,NJ,07097,Jersey City,None,None,Single,Day
+2021-01-27 13:12:54,Buy,742854,COST,Equity,Jay Miller,NY,11946,Hampton Bays,14068,72023,Single,Day
+2021-02-01 11:25:28,Buy,904002,C,Equity,Mary Shelly,NJ,07020,Edgewater,11513,101934,Multi-2,GTC
+2022-01-23 10:44:18,Sell,847471,MS,Equity,Jay Miller,CT,06807,Cos Cob,7150,141371,Single,Day
+2022-01-13 12:34:40,Sell,365069,GOOG,Equity,Jane Davis,NJ,07024,Fort Lee,35353,71949,Multi-3,At The Opening
+2022-01-03 10:50:26,Sell,853910,MS,Equity,Peter Williams,CT,06830,Greenwich,24027,109860,Multi-3,At The Opening
+2021-09-06 09:44:01,Buy,847130,AAATX,Mutual Funds,Jay Miller,CT,06070,Simsbury,15104,119188,Single,Money Market
+2021-12-12 13:59:11,Buy,77018,AAATX,Mutual Funds,Nicro Brown,CT,06901,Stamford,6828,59118,Multi-4,IMM
+2022-02-21 14:47:16,Sell,244366,BAC,Equity,Cathy Jones,CT,06510,New Haven,2737,42656,Multi-4,Market On Close
+2021-06-14 11:17:09,Buy,732734,MMKBX,Mutual Funds,David Lopez,CT,06836,Greenwich,None,None,Multi-2,Money Market
+2021-01-14 11:36:37,Buy,947779,ASRAX,Mutual Funds,Jay Miller,NY,11946,Hampton Bays,14068,72023,Single,IMM
+2021-11-10 09:46:05,Buy,139361,AAAAX,Mutual Funds,Jane Davis,NJ,07024,Fort Lee,35353,71949,Multi-3,Money Market
+2021-06-08 09:41:35,Buy,794171,AAAAX,Mutual Funds,Mary Shelly,CT,06901,Stamford,6828,59118,Multi-2,IMM
+2021-03-13 13:14:40,Buy,993894,COST,Equity,Jane Davis,CT,06510,New Haven,2737,42656,Multi-3,At The Opening
+2022-01-05 14:08:00,Sell,697114,BAC,Equity,John Smith,CT,06807,Cos Cob,7150,141371,Single,Day
+2021-07-04 09:18:27,Buy,817747,ASRAX,Mutual Funds,Peter Williams,NY,10007,New York,6988,216037,Multi-3,Money Market
+2021-05-03 11:04:26,Buy,604866,C,Equity,John Smith,NJ,07010,Cliffside Park,23594,62364,Single,Day
+2022-01-20 14:08:47,Sell,612788,ASRAX,Mutual Funds,Jay Miller,CT,06901,Stamford,6828,59118,Single,Offshore
+2022-02-08 12:29:35,Sell,59761,AAAAX,Mutual Funds,Mary Shelly,CT,06901,Stamford,6828,59118,Multi-2,Offshore
+2022-02-08 10:51:07,Sell,427449,ASRAX,Mutual Funds,Nicro Brown,NY,11753,Jericho,12014,153438,Multi-4,Offshore
+2022-01-19 10:36:46,Sell,862420,MS,Equity,John Smith,NY,10006,New York,3011,119274,Single,Day
+2021-01-17 13:24:16,Buy,804902,COST,Equity,John Smith,NY,11030,Manhasset,17962,172266,Single,Day
+2022-01-02 14:04:01,Sell,454921,AAATX,Mutual Funds,Jay Miller,NJ,07097,Jersey City,None,None,Single,Front Load Fund
+2022-01-09 14:22:08,Sell,843816,BAC,Equity,Jane Davis,NJ,07024,Fort Lee,35353,71949,Multi-3,At The Opening
+2022-02-05 10:11:32,Sell,145822,MS,Equity,Cathy Jones,CT,06830,Greenwich,24027,109860,Multi-4,Market On Close
+2021-01-13 13:12:08,Buy,968081,COST,Equity,Jay Miller,NY,11030,Manhasset,17962,172266,Single,Day
+2022-01-24 12:06:51,Sell,696887,AAATX,Mutual Funds,Peter Williams,NY,11753,Jericho,12014,153438,Multi-3,Front Load Fund
+2021-12-21 11:11:48,Buy,200701,C,Equity,Cathy Jones,CT,06807,Cos Cob,7150,141371,Multi-4,Market On Close
+2021-02-16 13:25:43,Buy,176438,CALCI,Mutual Funds,David Lopez,NJ,07632,Englewood Cliffs,5309,113802,Multi-2,IMM
+2022-02-01 12:19:28,Sell,913908,GOOG,Equity,Nicro Brown,NJ,07078,Short Hills,13250,223214,Multi-4,Market On Close
+2021-04-16 11:39:15,Buy,283211,AAAAX,Mutual Funds,Nicro Brown,NY,10023,New York,60998,103534,Multi-4,Money Market
+2021-09-09 11:20:32,Buy,104426,C,Equity,John Smith,CT,06830,Greenwich,24027,109860,Single,Day
+2021-11-12 09:10:35,Buy,624610,AAAAX,Mutual Funds,Peter Williams,NJ,07050,Orange,30074,34965,Multi-3,Money Market
+2021-08-20 13:31:19,Buy,929447,MMKBX,Mutual Funds,Cathy Jones,NJ,08540,Princeton,47115,125439,Multi-4,Money Market
+2022-02-11 14:07:38,Sell,691174,BAC,Equity,Cathy Jones,NJ,08540,Princeton,47115,125439,Multi-4,Market On Close
+2021-04-22 13:03:49,Buy,636776,MMKBX,Mutual Funds,Nicro Brown,NY,10023,New York,60998,103534,Multi-4,IMM
+2021-06-01 11:17:24,Buy,107229,C,Equity,David Lopez,CT,06807,Cos Cob,7150,141371,Multi-2,GTC
+2022-02-15 10:37:10,Sell,888021,MS,Equity,David Lopez,NJ,07632,Englewood Cliffs,5309,113802,Multi-2,GTC
+2021-04-22 11:15:21,Buy,590601,AAATX,Mutual Funds,Cathy Jones,NY,11030,Manhasset,17962,172266,Multi-4,IMM
+2021-09-26 13:44:53,Buy,519395,CALCI,Mutual Funds,Jay Miller,CT,06901,Stamford,6828,59118,Single,IMM
+2021-04-26 13:27:25,Buy,459495,AAAAX,Mutual Funds,Cathy Jones,NY,11946,Hampton Bays,14068,72023,Multi-4,Money Market
+2021-02-08 11:37:31,Buy,615244,AAATX,Mutual Funds,Mary Shelly,NJ,07020,Edgewater,11513,101934,Multi-2,Money Market
+2021-09-27 11:44:22,Buy,287663,C,Equity,Jay Miller,CT,06510,New Haven,2737,42656,Single,Day
+2021-06-25 11:29:52,Buy,441559,C,Equity,Mary Shelly,CT,06510,New Haven,2737,42656,Multi-2,GTC
+2021-06-13 11:05:40,Buy,459740,C,Equity,David Lopez,CT,06510,New Haven,2737,42656,Multi-2,GTC
+2022-01-21 14:16:48,Sell,402670,BAC,Equity,John Smith,NJ,07010,Cliffside Park,23594,62364,Single,Day
+2022-02-25 10:19:52,Sell,720407,MS,Equity,Nicro Brown,NJ,07078,Short Hills,13250,223214,Multi-4,Market On Close
+2021-08-14 13:55:09,Buy,179581,MMKBX,Mutual Funds,Cathy Jones,NJ,08540,Princeton,47115,125439,Multi-4,IMM
+2021-04-17 09:27:40,Buy,139717,AAPL,Equity,Nicro Brown,NY,11530,Garden City,27273,135370,Multi-4,Market On Close
+2021-03-16 09:02:15,Buy,312801,AAAAX,Mutual Funds,Peter Williams,CT,06836,Greenwich,None,None,Multi-3,IMM
+2022-02-05 10:35:04,Sell,583065,MS,Equity,Nicro Brown,CT,06510,New Haven,2737,42656,Multi-4,Market On Close
+2022-02-12 10:23:07,Sell,977483,ASRAX,Mutual Funds,Cathy Jones,CT,06070,Simsbury,15104,119188,Multi-4,Front Load Fund
+2021-07-15 11:30:10,Buy,326048,C,Equity,Peter Williams,NY,10007,New York,6988,216037,Multi-3,At The Opening
+2021-08-26 11:55:53,Buy,617243,CALCI,Mutual Funds,Cathy Jones,NJ,08540,Princeton,47115,125439,Multi-4,IMM
+2022-02-03 12:43:26,Sell,635513,GOOG,Equity,Nicro Brown,NJ,07078,Short Hills,13250,223214,Multi-4,Market On Close
+2022-01-18 10:36:17,Sell,792134,ASRAX,Mutual Funds,Jay Miller,NY,10021,New York,43631,107907,Single,Offshore
+2021-10-14 13:09:41,Buy,326682,AAATX,Mutual Funds,David Lopez,NY,10007,New York,6988,216037,Multi-2,IMM
+2022-02-04 14:01:03,Sell,322252,CALCI,Mutual Funds,David Lopez,NJ,07632,Englewood Cliffs,5309,113802,Multi-2,Offshore
+2021-12-06 13:35:05,Buy,127821,AAAAX,Mutual Funds,Nicro Brown,CT,06901,Stamford,6828,59118,Multi-4,IMM
+2022-01-24 12:06:51,Sell,884619,AAATX,Mutual Funds,Jane Davis,NY,10021,New York,43631,107907,Multi-3,Front Load Fund
+2022-02-28 12:29:27,Sell,397481,ASRAX,Mutual Funds,Mary Shelly,CT,06836,Greenwich,None,None,Multi-2,Offshore
+2022-02-03 14:13:02,Sell,828533,BAC,Equity,Mary Shelly,NJ,07020,Edgewater,11513,101934,Multi-2,GTC
+2021-12-12 09:59:39,Buy,982311,MMKBX,Mutual Funds,Nicro Brown,CT,06836,Greenwich,None,None,Multi-4,Money Market
+2022-02-01 10:21:56,Sell,904184,MS,Equity,David Lopez,NY,10021,New York,43631,107907,Multi-2,GTC
+2021-07-15 09:06:10,Buy,62744,AAPL,Equity,Peter Williams,NY,11530,Garden City,27273,135370,Multi-3,At The Opening
+2021-08-01 11:43:00,Buy,198981,C,Equity,Nicro Brown,NJ,07078,Short Hills,13250,223214,Multi-4,Market On Close
+2021-02-28 09:49:23,Buy,205401,CALCI,Mutual Funds,Mary Shelly,NJ,07020,Edgewater,11513,101934,Multi-2,Money Market
+2021-02-15 13:25:38,Buy,911360,COST,Equity,Mary Shelly,NJ,07020,Edgewater,11513,101934,Multi-2,GTC
+2022-01-20 12:24:15,Sell,743142,AAAAX,Mutual Funds,Jay Miller,NY,11576,Roslyn,12366,150161,Single,Front Load Fund
+2022-02-27 10:37:22,Sell,270744,MS,Equity,Mary Shelly,NJ,07020,Edgewater,11513,101934,Multi-2,GTC
+2021-08-01 11:55:28,Buy,931827,C,Equity,Cathy Jones,NJ,08540,Princeton,47115,125439,Multi-4,Market On Close
+2022-01-23 14:28:22,Sell,37522,BAC,Equity,Jay Miller,NJ,07097,Jersey City,None,None,Single,Day
+2022-02-24 12:29:51,Sell,447126,AAATX,Mutual Funds,Mary Shelly,CT,06836,Greenwich,None,None,Multi-2,Front Load Fund
+2022-01-05 10:14:32,Sell,682078,MS,Equity,Jane Davis,CT,06830,Greenwich,24027,109860,Multi-3,At The Opening
+2022-01-02 12:10:01,Sell,21295,AAATX,Mutual Funds,Peter Williams,NJ,07050,Orange,30074,34965,Multi-3,Offshore
+2022-01-12 12:04:07,Sell,835695,ASRAX,Mutual Funds,Jay Miller,NJ,07097,Jersey City,None,None,Single,Offshore
+2021-01-10 11:36:33,Buy,169180,CALCI,Mutual Funds,John Smith,NY,10023,New York,60998,103534,Single,IMM
+2022-02-15 12:25:14,Sell,718396,GOOG,Equity,Mary Shelly,NJ,07020,Edgewater,11513,101934,Multi-2,GTC
+2022-01-05 14:40:32,Sell,500763,BAC,Equity,Jay Miller,NJ,07097,Jersey City,None,None,Single,Day
+2022-02-12 12:21:07,Sell,529974,ASRAX,Mutual Funds,David Lopez,NY,11753,Jericho,12014,153438,Multi-2,Front Load Fund
+2022-02-04 12:11:59,Sell,359291,MMKBX,Mutual Funds,Nicro Brown,CT,06901,Stamford,6828,59118,Multi-4,Front Load Fund
+2021-08-03 09:19:58,Buy,834222,AAPL,Equity,Cathy Jones,NJ,08540,Princeton,47115,125439,Multi-4,Market On Close
+2022-02-02 10:15:25,Sell,168551,AAAAX,Mutual Funds,Cathy Jones,NY,11753,Jericho,12014,153438,Multi-4,Front Load Fund
+2021-10-06 11:57:05,Buy,529621,AAAAX,Mutual Funds,Mary Shelly,NY,11030,Manhasset,17962,172266,Multi-2,Money Market
+2022-02-13 14:15:12,Sell,47708,BAC,Equity,Cathy Jones,NY,10006,New York,3011,119274,Multi-4,Market On Close
+2021-10-08 11:21:07,Buy,862945,ASRAX,Mutual Funds,David Lopez,NY,10007,New York,6988,216037,Multi-2,Money Market
+2022-01-21 12:32:20,Sell,866956,GOOG,Equity,John Smith,CT,06830,Greenwich,24027,109860,Single,Day
+2022-01-14 10:04:37,Sell,768452,ASRAX,Mutual Funds,Jay Miller,NJ,07097,Jersey City,None,None,Single,Front Load Fund
+2022-02-04 10:17:59,Sell,260859,MMKBX,Mutual Funds,Mary Shelly,CT,06901,Stamford,6828,59118,Multi-2,Offshore
+2021-03-07 11:26:30,Buy,300776,C,Equity,Jane Davis,CT,06807,Cos Cob,7150,141371,Multi-3,At The Opening
+2022-02-28 12:53:27,Sell,98995,ASRAX,Mutual Funds,David Lopez,CT,06836,Greenwich,None,None,Multi-2,Offshore
+2021-05-11 09:28:38,Buy,369759,AAPL,Equity,John Smith,NJ,07010,Cliffside Park,23594,62364,Single,Day
+2021-02-26 13:13:21,Buy,183724,AAATX,Mutual Funds,Mary Shelly,NJ,07020,Edgewater,11513,101934,Multi-2,Money Market
+2021-05-06 11:40:01,Buy,807889,AAATX,Mutual Funds,John Smith,NJ,07010,Cliffside Park,23594,62364,Single,IMM
+2022-01-01 12:16:00,Sell,907803,GOOG,Equity,John Smith,NJ,07010,Cliffside Park,23594,62364,Single,Day
+2021-09-22 11:20:49,Buy,691153,MMKBX,Mutual Funds,John Smith,CT,06070,Simsbury,15104,119188,Single,Money Market
+2021-08-15 11:55:42,Buy,545938,C,Equity,Cathy Jones,NJ,08540,Princeton,47115,125439,Multi-4,Market On Close
+2022-02-15 14:07:14,Sell,994764,BAC,Equity,Cathy Jones,NJ,08540,Princeton,47115,125439,Multi-4,Market On Close
+2022-02-02 10:37:01,Sell,452165,AAATX,Mutual Funds,Mary Shelly,NJ,07020,Edgewater,11513,101934,Multi-2,Offshore
+2021-05-19 13:16:18,Buy,608137,COST,Equity,Jay Miller,NJ,07097,Jersey City,None,None,Single,Day
+2022-01-18 12:30:13,Sell,825910,CALCI,Mutual Funds,Peter Williams,NY,10021,New York,43631,107907,Multi-3,Front Load Fund
+2021-03-09 13:14:36,Buy,624952,COST,Equity,Jane Davis,CT,06807,Cos Cob,7150,141371,Multi-3,At The Opening
+2022-02-07 10:01:02,Sell,708904,MS,Equity,David Lopez,NJ,07632,Englewood Cliffs,5309,113802,Multi-2,GTC
+2022-01-19 12:04:46,Sell,40242,GOOG,Equity,Jay Miller,NJ,07097,Jersey City,None,None,Single,Day
+2021-11-08 09:34:07,Buy,709399,ASRAX,Mutual Funds,Jane Davis,NJ,07024,Fort Lee,35353,71949,Multi-3,Money Market
+2022-02-13 10:03:36,Sell,112417,MS,Equity,Nicro Brown,NY,10024,New York,59283,109956,Multi-4,Market On Close
+2022-02-04 12:01:03,Sell,416137,CALCI,Mutual Funds,David Lopez,NJ,07632,Englewood Cliffs,5309,113802,Multi-2,Offshore
+2022-01-16 14:20:11,Sell,837460,AAATX,Mutual Funds,Jay Miller,CT,06901,Stamford,6828,59118,Single,Front Load Fund
+2022-02-09 14:05:08,Sell,686403,BAC,Equity,David Lopez,CT,06830,Greenwich,24027,109860,Multi-2,GTC
+2022-01-09 12:04:36,Sell,419268,GOOG,Equity,John Smith,NJ,07010,Cliffside Park,23594,62364,Single,Day
+2022-01-02 12:46:57,Sell,400376,ASRAX,Mutual Funds,Jane Davis,NJ,07024,Fort Lee,35353,71949,Multi-3,Offshore
+2022-02-16 14:29:43,Sell,349693,CALCI,Mutual Funds,David Lopez,CT,06070,Simsbury,15104,119188,Multi-2,Front Load Fund
+2022-02-10 10:57:09,Sell,440478,MMKBX,Mutual Funds,Mary Shelly,NY,10021,New York,43631,107907,Multi-2,Front Load Fund
+2021-05-09 11:04:36,Buy,148037,C,Equity,Jay Miller,NJ,07097,Jersey City,None,None,Single,Day
+2022-02-20 10:45:19,Sell,646402,MMKBX,Mutual Funds,David Lopez,NY,11576,Roslyn,12366,150161,Multi-2,Front Load Fund
+2021-05-07 13:04:06,Buy,192204,COST,Equity,John Smith,NJ,07010,Cliffside Park,23594,62364,Single,Day
+2022-01-17 14:58:12,Sell,492354,BAC,Equity,Peter Williams,NJ,07050,Orange,30074,34965,Multi-3,At The Opening
+2021-04-04 11:51:31,Buy,116738,AAATX,Mutual Funds,Nicro Brown,NY,10007,New York,6988,216037,Multi-4,IMM
+2021-09-24 09:44:19,Buy,587373,MMKBX,Mutual Funds,Jay Miller,CT,06070,Simsbury,15104,119188,Single,Money Market
+2021-12-19 11:35:18,Buy,964405,C,Equity,Nicro Brown,CT,06807,Cos Cob,7150,141371,Multi-4,Market On Close
+2021-01-25 11:36:52,Buy,912943,C,Equity,John Smith,NY,10007,New York,6988,216037,Single,Day
+2021-04-25 13:27:20,Buy,636708,COST,Equity,Nicro Brown,NY,11946,Hampton Bays,14068,72023,Multi-4,Market On Close
+2021-08-22 13:43:21,Buy,300212,AAATX,Mutual Funds,Nicro Brown,NJ,07078,Short Hills,13250,223214,Multi-4,IMM
+2021-05-13 09:04:12,Buy,606613,AAPL,Equity,John Smith,NJ,07010,Cliffside Park,23594,62364,Single,Day
+2022-02-13 14:29:40,Sell,489072,BAC,Equity,David Lopez,CT,06510,New Haven,2737,42656,Multi-2,GTC
+2021-08-18 13:31:13,Buy,663859,CALCI,Mutual Funds,Cathy Jones,NJ,08540,Princeton,47115,125439,Multi-4,Money Market
+2021-10-07 13:21:02,Buy,233041,COST,Equity,David Lopez,NY,11030,Manhasset,17962,172266,Multi-2,GTC
+2021-01-12 13:00:39,Buy,187231,MMKBX,Mutual Funds,Jay Miller,NY,10007,New York,6988,216037,Single,IMM
+2021-10-03 13:21:58,Buy,304524,COST,Equity,Mary Shelly,NY,10007,New York,6988,216037,Multi-2,GTC
+2021-07-20 09:30:47,Buy,781471,ASRAX,Mutual Funds,Peter Williams,NY,11530,Garden City,27273,135370,Multi-3,IMM
+2021-07-24 13:18:19,Buy,527950,MMKBX,Mutual Funds,Jane Davis,NY,10023,New York,60998,103534,Multi-3,Money Market
+2022-02-16 10:37:39,Sell,524693,MMKBX,Mutual Funds,David Lopez,NJ,07632,Englewood Cliffs,5309,113802,Multi-2,Front Load Fund
+2022-02-22 12:13:49,Sell,152866,MMKBX,Mutual Funds,Mary Shelly,NJ,07020,Edgewater,11513,101934,Multi-2,Offshore
+2022-02-15 12:17:10,Sell,160785,GOOG,Equity,Mary Shelly,CT,06510,New Haven,2737,42656,Multi-2,GTC
+2021-02-05 13:25:32,Buy,60096,COST,Equity,Mary Shelly,NJ,07020,Edgewater,11513,101934,Multi-2,GTC
+2021-10-28 13:57:55,Buy,289346,AAAAX,Mutual Funds,Mary Shelly,NY,11530,Garden City,27273,135370,Multi-2,Money Market
+2021-04-23 11:39:18,Buy,276832,C,Equity,Cathy Jones,NY,11030,Manhasset,17962,172266,Multi-4,Market On Close
+2022-02-17 14:23:40,Sell,296037,BAC,Equity,Cathy Jones,CT,06510,New Haven,2737,42656,Multi-4,Market On Close
+2022-01-24 10:26:19,Sell,164793,MMKBX,Mutual Funds,Jane Davis,CT,06070,Simsbury,15104,119188,Multi-3,Offshore
+2021-10-05 09:09:28,Buy,383616,AAPL,Equity,Mary Shelly,NY,11946,Hampton Bays,14068,72023,Multi-2,GTC
+2021-11-03 09:22:02,Buy,49665,AAPL,Equity,Jane Davis,NJ,07024,Fort Lee,35353,71949,Multi-3,At The Opening
+2022-01-26 10:08:21,Sell,767475,AAATX,Mutual Funds,John Smith,CT,06836,Greenwich,None,None,Single,Offshore
+2022-02-05 14:29:32,Sell,650308,BAC,Equity,Mary Shelly,CT,06830,Greenwich,24027,109860,Multi-2,GTC
+2021-01-05 13:48:32,Buy,170279,COST,Equity,John Smith,NY,11946,Hampton Bays,14068,72023,Single,Day
+2021-05-27 13:16:26,Buy,382232,COST,Equity,John Smith,NJ,07010,Cliffside Park,23594,62364,Single,Day
+2021-01-08 11:36:07,Buy,791771,ASRAX,Mutual Funds,John Smith,NY,11530,Garden City,27273,135370,Single,Money Market
+2021-09-05 13:20:32,Buy,131376,COST,Equity,Jay Miller,CT,06830,Greenwich,24027,109860,Single,Day
+2021-10-15 09:09:10,Buy,789220,AAPL,Equity,Mary Shelly,NY,11030,Manhasset,17962,172266,Multi-2,GTC
+2021-03-06 09:38:05,Buy,630163,AAAAX,Mutual Funds,Peter Williams,CT,06901,Stamford,6828,59118,Multi-3,Money Market
+2021-04-26 09:15:25,Buy,260835,AAAAX,Mutual Funds,Cathy Jones,NY,10007,New York,6988,216037,Multi-4,Money Market
+2022-01-13 14:54:36,Sell,639543,BAC,Equity,Jane Davis,NY,10024,New York,59283,109956,Multi-3,At The Opening
+2022-02-05 10:27:00,Sell,297436,MS,Equity,Cathy Jones,NY,11576,Roslyn,12366,150161,Multi-4,Market On Close
+2022-02-06 14:31:01,Sell,792075,AAATX,Mutual Funds,Nicro Brown,NJ,07078,Short Hills,13250,223214,Multi-4,Front Load Fund
+2021-04-14 11:15:13,Buy,230873,CALCI,Mutual Funds,Nicro Brown,NY,11030,Manhasset,17962,172266,Multi-4,Money Market
+2022-02-01 14:13:56,Sell,405197,BAC,Equity,Mary Shelly,NJ,07020,Edgewater,11513,101934,Multi-2,GTC
+2021-04-10 11:39:05,Buy,245087,AAAAX,Mutual Funds,Nicro Brown,NY,11530,Garden City,27273,135370,Multi-4,IMM
+2022-01-25 12:22:20,Sell,496711,GOOG,Equity,Jane Davis,NJ,07024,Fort Lee,35353,71949,Multi-3,At The Opening
+2022-02-13 10:01:08,Sell,467520,MS,Equity,David Lopez,NJ,07632,Englewood Cliffs,5309,113802,Multi-2,GTC
+2022-02-10 10:13:37,Sell,168581,ASRAX,Mutual Funds,David Lopez,NJ,07632,Englewood Cliffs,5309,113802,Multi-2,Offshore
+2021-02-23 11:49:22,Buy,719457,C,Equity,Mary Shelly,NJ,07020,Edgewater,11513,101934,Multi-2,GTC
+2022-02-04 10:15:31,Sell,669371,AAATX,Mutual Funds,Nicro Brown,NY,10006,New York,3011,119274,Multi-4,Front Load Fund
+2021-12-28 11:59:55,Buy,491226,AAAAX,Mutual Funds,Nicro Brown,CT,06070,Simsbury,15104,119188,Multi-4,Money Market
+2021-07-02 09:06:01,Buy,751577,AAATX,Mutual Funds,Jane Davis,NY,11946,Hampton Bays,14068,72023,Multi-3,Money Market
+2021-01-19 13:36:18,Buy,924579,COST,Equity,Jay Miller,NY,10023,New York,60998,103534,Single,Day
+2022-02-25 12:11:24,Sell,337625,GOOG,Equity,Cathy Jones,CT,06807,Cos Cob,7150,141371,Multi-4,Market On Close
+2021-03-09 13:02:08,Buy,417875,COST,Equity,Peter Williams,CT,06830,Greenwich,24027,109860,Multi-3,At The Opening
+2022-02-10 12:01:09,Sell,458873,MMKBX,Mutual Funds,Mary Shelly,NJ,07020,Edgewater,11513,101934,Multi-2,Offshore
+2022-02-13 10:43:12,Sell,22243,MS,Equity,Nicro Brown,NJ,07078,Short Hills,13250,223214,Multi-4,Market On Close
+2021-11-08 13:58:07,Buy,293576,ASRAX,Mutual Funds,Peter Williams,NJ,07050,Orange,30074,34965,Multi-3,IMM
+2021-10-22 13:57:17,Buy,407637,ASRAX,Mutual Funds,Mary Shelly,NY,11530,Garden City,27273,135370,Multi-2,Money Market
+2022-01-03 14:06:26,Sell,554653,BAC,Equity,Jane Davis,NY,11576,Roslyn,12366,150161,Multi-3,At The Opening
+2022-01-02 14:26:25,Sell,674711,AAAAX,Mutual Funds,Jane Davis,CT,06070,Simsbury,15104,119188,Multi-3,Front Load Fund
+2021-07-12 13:18:11,Buy,535581,AAATX,Mutual Funds,Jane Davis,NY,11530,Garden City,27273,135370,Multi-3,Money Market
+2022-02-17 12:23:44,Sell,361194,GOOG,Equity,Cathy Jones,CT,06830,Greenwich,24027,109860,Multi-4,Market On Close
+2021-04-20 13:39:47,Buy,296637,ASRAX,Mutual Funds,Cathy Jones,NY,11946,Hampton Bays,14068,72023,Multi-4,IMM
+2021-04-08 13:03:31,Buy,103727,AAATX,Mutual Funds,Nicro Brown,NY,11030,Manhasset,17962,172266,Multi-4,Money Market
+2022-02-08 10:33:35,Sell,391432,AAAAX,Mutual Funds,David Lopez,NY,11576,Roslyn,12366,150161,Multi-2,Offshore
+2021-02-09 09:13:32,Buy,872276,AAPL,Equity,Mary Shelly,NJ,07020,Edgewater,11513,101934,Multi-2,GTC
+2021-07-24 13:54:23,Buy,442755,CALCI,Mutual Funds,Jane Davis,NY,10007,New York,6988,216037,Multi-3,IMM
+2021-11-28 13:58:23,Buy,531004,CALCI,Mutual Funds,Peter Williams,NJ,07050,Orange,30074,34965,Multi-3,IMM
+2022-02-06 10:21:33,Sell,926467,CALCI,Mutual Funds,David Lopez,NY,11576,Roslyn,12366,150161,Multi-2,Offshore
+2022-01-26 10:48:21,Sell,863409,AAATX,Mutual Funds,John Smith,NY,11576,Roslyn,12366,150161,Single,Offshore
+2021-07-11 11:06:34,Buy,789505,C,Equity,Peter Williams,NY,10023,New York,60998,103534,Multi-3,At The Opening
+2022-02-15 12:09:38,Sell,275081,GOOG,Equity,David Lopez,NY,11576,Roslyn,12366,150161,Multi-2,GTC
+2021-09-16 09:56:11,Buy,430830,AAATX,Mutual Funds,John Smith,CT,06901,Stamford,6828,59118,Single,IMM
+2021-01-15 09:12:38,Buy,548850,AAPL,Equity,Jay Miller,NY,10007,New York,6988,216037,Single,Day
+2022-02-08 12:29:07,Sell,131763,ASRAX,Mutual Funds,Mary Shelly,CT,06070,Simsbury,15104,119188,Multi-2,Offshore
+2021-10-23 11:45:22,Buy,520256,C,Equity,David Lopez,NY,10007,New York,6988,216037,Multi-2,GTC
+2022-02-16 12:57:15,Sell,628632,AAAAX,Mutual Funds,Mary Shelly,NY,10006,New York,3011,119274,Multi-2,Front Load Fund
+2021-01-27 09:12:22,Buy,897032,AAPL,Equity,Jay Miller,NY,10007,New York,6988,216037,Single,Day
+2022-02-06 12:35:33,Sell,214509,CALCI,Mutual Funds,Nicro Brown,CT,06836,Greenwich,None,None,Multi-4,Front Load Fund
+2021-12-15 13:35:10,Buy,909929,COST,Equity,Cathy Jones,CT,06510,New Haven,2737,42656,Multi-4,Market On Close
+2021-12-23 11:47:18,Buy,370897,C,Equity,Cathy Jones,CT,06807,Cos Cob,7150,141371,Multi-4,Market On Close
+2022-01-03 12:06:02,Sell,690513,GOOG,Equity,Peter Williams,NY,11576,Roslyn,12366,150161,Multi-3,At The Opening
+2022-01-17 12:22:44,Sell,51390,GOOG,Equity,Jane Davis,NJ,07024,Fort Lee,35353,71949,Multi-3,At The Opening
+2022-02-10 10:37:33,Sell,748356,CALCI,Mutual Funds,Mary Shelly,NJ,07020,Edgewater,11513,101934,Multi-2,Front Load Fund
+2022-02-03 12:39:30,Sell,219077,GOOG,Equity,Cathy Jones,NY,11576,Roslyn,12366,150161,Multi-4,Market On Close
+2021-08-26 13:19:25,Buy,540180,AAAAX,Mutual Funds,Cathy Jones,NJ,08540,Princeton,47115,125439,Multi-4,IMM
+2022-01-17 14:38:12,Sell,748282,BAC,Equity,Peter Williams,CT,06807,Cos Cob,7150,141371,Multi-3,At The Opening
+2022-02-18 10:15:17,Sell,839717,ASRAX,Mutual Funds,Cathy Jones,NY,10021,New York,43631,107907,Multi-4,Offshore
+2022-02-11 10:31:10,Sell,987472,MS,Equity,Cathy Jones,NJ,08540,Princeton,47115,125439,Multi-4,Market On Close
+2021-09-24 11:32:23,Buy,458153,CALCI,Mutual Funds,John Smith,CT,06901,Stamford,6828,59118,Single,Money Market
+2021-03-04 09:38:03,Buy,381974,CALCI,Mutual Funds,Jane Davis,CT,06836,Greenwich,None,None,Multi-3,IMM
+2021-11-12 11:46:11,Buy,197663,AAATX,Mutual Funds,Jane Davis,NJ,07024,Fort Lee,35353,71949,Multi-3,IMM
+2021-10-11 09:21:10,Buy,504692,AAPL,Equity,Mary Shelly,NY,11530,Garden City,27273,135370,Multi-2,GTC
+2022-01-18 14:20:17,Sell,304658,ASRAX,Mutual Funds,John Smith,CT,06901,Stamford,6828,59118,Single,Offshore
+2022-02-05 14:17:32,Sell,847201,BAC,Equity,Mary Shelly,CT,06830,Greenwich,24027,109860,Multi-2,GTC
+2022-01-01 14:08:24,Sell,989651,BAC,Equity,Jay Miller,CT,06807,Cos Cob,7150,141371,Single,Day
+2022-01-11 14:38:34,Sell,257619,BAC,Equity,Peter Williams,CT,06510,New Haven,2737,42656,Multi-3,At The Opening
+2022-01-04 12:48:59,Sell,744512,MMKBX,Mutual Funds,John Smith,NY,10006,New York,3011,119274,Single,Offshore
+2022-02-19 10:11:18,Sell,742617,MS,Equity,Nicro Brown,CT,06807,Cos Cob,7150,141371,Multi-4,Market On Close
+2021-05-03 09:28:30,Buy,923438,AAPL,Equity,Jay Miller,NJ,07097,Jersey City,None,None,Single,Day
+2021-01-15 09:48:38,Buy,468879,AAPL,Equity,John Smith,NY,10023,New York,60998,103534,Single,Day
+2022-01-12 12:08:11,Sell,470832,AAATX,Mutual Funds,Jay Miller,CT,06901,Stamford,6828,59118,Single,Offshore
+2021-11-11 09:34:34,Buy,890562,AAPL,Equity,Jane Davis,NJ,07024,Fort Lee,35353,71949,Multi-3,At The Opening
+2022-02-12 10:19:39,Sell,20499,MMKBX,Mutual Funds,Cathy Jones,NJ,08540,Princeton,47115,125439,Multi-4,Front Load Fund
+2022-01-28 10:28:23,Sell,496071,CALCI,Mutual Funds,Jay Miller,NJ,07097,Jersey City,None,None,Single,Offshore
+2021-02-03 11:25:02,Buy,630878,C,Equity,Mary Shelly,NJ,07020,Edgewater,11513,101934,Multi-2,GTC
+2021-07-14 13:18:37,Buy,828992,ASRAX,Mutual Funds,Peter Williams,NY,10023,New York,60998,103534,Multi-3,IMM
+2021-01-14 09:00:13,Buy,161240,CALCI,Mutual Funds,Jay Miller,NY,11030,Manhasset,17962,172266,Single,Money Market
+2022-02-02 12:33:01,Sell,89862,AAATX,Mutual Funds,David Lopez,NY,11576,Roslyn,12366,150161,Multi-2,Front Load Fund
+2022-01-09 10:46:36,Sell,954174,MS,Equity,Jane Davis,NJ,07024,Fort Lee,35353,71949,Multi-3,At The Opening
+2022-01-23 12:52:18,Sell,91553,GOOG,Equity,Jay Miller,NJ,07097,Jersey City,None,None,Single,Day
+2022-02-24 12:15:19,Sell,302324,MMKBX,Mutual Funds,Cathy Jones,NY,10006,New York,3011,119274,Multi-4,Offshore
+2022-01-11 14:44:34,Sell,285777,BAC,Equity,Jay Miller,CT,06510,New Haven,2737,42656,Single,Day
+2022-01-13 12:38:36,Sell,496782,GOOG,Equity,Jane Davis,CT,06807,Cos Cob,7150,141371,Multi-3,At The Opening
+2021-03-23 11:26:18,Buy,189395,C,Equity,Jane Davis,CT,06807,Cos Cob,7150,141371,Multi-3,At The Opening
+2022-01-16 14:24:11,Sell,430108,AAATX,Mutual Funds,Jay Miller,NY,10024,New York,59283,109956,Single,Front Load Fund
+2022-01-04 10:44:27,Sell,678550,ASRAX,Mutual Funds,Jay Miller,CT,06836,Greenwich,None,None,Single,Front Load Fund
+2022-02-26 10:45:53,Sell,987696,CALCI,Mutual Funds,David Lopez,NY,11753,Jericho,12014,153438,Multi-2,Front Load Fund
+2022-02-07 14:05:34,Sell,681550,BAC,Equity,Mary Shelly,CT,06510,New Haven,2737,42656,Multi-2,GTC
+2021-12-06 09:23:33,Buy,519433,CALCI,Mutual Funds,Nicro Brown,CT,06836,Greenwich,None,None,Multi-4,Money Market
+2021-11-26 13:58:53,Buy,807056,CALCI,Mutual Funds,Peter Williams,NJ,07050,Orange,30074,34965,Multi-3,IMM
+2021-12-09 09:11:08,Buy,846129,AAPL,Equity,Nicro Brown,CT,06830,Greenwich,24027,109860,Multi-4,Market On Close
+2022-01-12 14:04:07,Sell,933915,ASRAX,Mutual Funds,John Smith,NJ,07010,Cliffside Park,23594,62364,Single,Offshore
+2021-01-26 13:48:53,Buy,476621,CALCI,Mutual Funds,John Smith,NY,11530,Garden City,27273,135370,Single,IMM
+2022-02-12 12:09:35,Sell,467215,AAAAX,Mutual Funds,Mary Shelly,NY,10006,New York,3011,119274,Multi-2,Offshore
+2022-01-02 12:10:01,Sell,239730,AAATX,Mutual Funds,Peter Williams,NJ,07050,Orange,30074,34965,Multi-3,Front Load Fund
+2022-02-10 10:21:33,Sell,521953,CALCI,Mutual Funds,Mary Shelly,NY,10021,New York,43631,107907,Multi-2,Front Load Fund
+2022-02-03 10:03:02,Sell,555748,MS,Equity,Nicro Brown,NY,11753,Jericho,12014,153438,Multi-4,Market On Close
+2022-01-24 10:10:51,Sell,997845,AAATX,Mutual Funds,Peter Williams,NJ,07050,Orange,30074,34965,Multi-3,Offshore
+2022-02-18 12:09:45,Sell,846334,AAAAX,Mutual Funds,David Lopez,NY,11753,Jericho,12014,153438,Multi-2,Offshore
+2021-09-20 11:32:19,Buy,499601,MMKBX,Mutual Funds,Jay Miller,CT,06070,Simsbury,15104,119188,Single,Money Market
+2022-02-20 12:39:15,Sell,931134,AAAAX,Mutual Funds,Nicro Brown,NY,11576,Roslyn,12366,150161,Multi-4,Offshore
+2021-07-11 09:06:06,Buy,810505,AAPL,Equity,Peter Williams,NY,11030,Manhasset,17962,172266,Multi-3,At The Opening
+2022-02-12 14:15:39,Sell,964221,MMKBX,Mutual Funds,Nicro Brown,NY,10024,New York,59283,109956,Multi-4,Offshore
+2022-01-08 14:16:31,Sell,543539,AAATX,Mutual Funds,Jay Miller,NJ,07097,Jersey City,None,None,Single,Offshore
+2022-02-13 14:43:12,Sell,807800,BAC,Equity,Nicro Brown,NJ,07078,Short Hills,13250,223214,Multi-4,Market On Close
+2022-02-09 14:31:04,Sell,336267,BAC,Equity,Cathy Jones,NJ,08540,Princeton,47115,125439,Multi-4,Market On Close
+2022-02-24 14:31:23,Sell,877620,CALCI,Mutual Funds,Nicro Brown,NJ,07078,Short Hills,13250,223214,Multi-4,Offshore
+2022-01-15 14:52:42,Sell,519311,BAC,Equity,Jay Miller,NJ,07097,Jersey City,None,None,Single,Day
+2021-01-11 11:36:34,Buy,917060,C,Equity,John Smith,NY,10023,New York,60998,103534,Single,Day
+2021-11-19 09:10:46,Buy,426451,AAPL,Equity,Peter Williams,NJ,07050,Orange,30074,34965,Multi-3,At The Opening
+2022-01-08 14:22:31,Sell,557572,AAATX,Mutual Funds,Peter Williams,NJ,07050,Orange,30074,34965,Multi-3,Offshore
+2021-11-06 09:10:29,Buy,919051,MMKBX,Mutual Funds,Peter Williams,NJ,07050,Orange,30074,34965,Multi-3,Money Market
+2021-08-10 13:31:33,Buy,13137,CALCI,Mutual Funds,Cathy Jones,NJ,08540,Princeton,47115,125439,Multi-4,Money Market
+2022-02-12 10:25:07,Sell,273307,ASRAX,Mutual Funds,Mary Shelly,NJ,07020,Edgewater,11513,101934,Multi-2,Front Load Fund
+2022-02-16 14:09:39,Sell,619883,MMKBX,Mutual Funds,David Lopez,NY,11753,Jericho,12014,153438,Multi-2,Offshore
+2021-01-06 09:12:29,Buy,215645,MMKBX,Mutual Funds,Jay Miller,NY,11946,Hampton Bays,14068,72023,Single,Money Market
+2021-10-25 11:09:24,Buy,361892,C,Equity,David Lopez,NY,11030,Manhasset,17962,172266,Multi-2,GTC
+2021-02-28 11:01:27,Buy,199771,ASRAX,Mutual Funds,David Lopez,NJ,07632,Englewood Cliffs,5309,113802,Multi-2,IMM
+2021-05-11 13:40:06,Buy,505534,COST,Equity,John Smith,NJ,07010,Cliffside Park,23594,62364,Single,Day
+2021-02-14 09:01:09,Buy,973412,MMKBX,Mutual Funds,David Lopez,NJ,07632,Englewood Cliffs,5309,113802,Multi-2,Money Market
+2021-01-10 13:24:37,Buy,709180,ASRAX,Mutual Funds,John Smith,NY,10007,New York,6988,216037,Single,IMM
+2021-07-21 13:30:20,Buy,642886,COST,Equity,Peter Williams,NY,11030,Manhasset,17962,172266,Multi-3,At The Opening
+2021-09-27 13:08:26,Buy,995647,COST,Equity,John Smith,CT,06830,Greenwich,24027,109860,Single,Day
+2021-01-13 11:12:40,Buy,453233,C,Equity,Jay Miller,NY,11030,Manhasset,17962,172266,Single,Day
+2022-02-04 12:07:03,Sell,837265,CALCI,Mutual Funds,Nicro Brown,NJ,07078,Short Hills,13250,223214,Multi-4,Offshore
+2021-06-23 13:05:18,Buy,956307,COST,Equity,David Lopez,CT,06807,Cos Cob,7150,141371,Multi-2,GTC
+2021-07-26 13:18:25,Buy,393984,AAAAX,Mutual Funds,Jane Davis,NY,11030,Manhasset,17962,172266,Multi-3,Money Market
+2021-08-23 11:43:18,Buy,796773,C,Equity,Nicro Brown,NJ,07078,Short Hills,13250,223214,Multi-4,Market On Close
+2021-04-03 11:15:30,Buy,117788,C,Equity,Nicro Brown,NY,10023,New York,60998,103534,Multi-4,Market On Close
+2022-01-11 14:04:34,Sell,800088,BAC,Equity,John Smith,NJ,07010,Cliffside Park,23594,62364,Single,Day
+2021-01-06 11:00:33,Buy,572763,CALCI,Mutual Funds,Jay Miller,NY,10007,New York,6988,216037,Single,IMM
+2022-01-06 10:40:05,Sell,632593,AAAAX,Mutual Funds,Jay Miller,NJ,07097,Jersey City,None,None,Single,Offshore
+2022-01-27 10:22:26,Sell,439868,MS,Equity,Peter Williams,NJ,07050,Orange,30074,34965,Multi-3,At The Opening
+2021-08-21 11:07:20,Buy,199992,C,Equity,Cathy Jones,NJ,08540,Princeton,47115,125439,Multi-4,Market On Close
+2021-05-01 13:04:28,Buy,565819,COST,Equity,John Smith,NJ,07010,Cliffside Park,23594,62364,Single,Day
+2022-01-10 14:20:09,Sell,231925,MMKBX,Mutual Funds,John Smith,CT,06836,Greenwich,None,None,Single,Offshore
+2022-01-26 14:16:25,Sell,973949,AAAAX,Mutual Funds,John Smith,NJ,07010,Cliffside Park,23594,62364,Single,Offshore
+2022-01-25 14:18:52,Sell,475437,BAC,Equity,Peter Williams,NY,10024,New York,59283,109956,Multi-3,At The Opening
+2022-02-12 14:19:35,Sell,404820,AAAAX,Mutual Funds,Nicro Brown,NJ,07078,Short Hills,13250,223214,Multi-4,Front Load Fund
+2022-02-07 12:59:30,Sell,284002,GOOG,Equity,Nicro Brown,CT,06807,Cos Cob,7150,141371,Multi-4,Market On Close
+2021-03-09 13:26:36,Buy,666176,COST,Equity,Peter Williams,CT,06807,Cos Cob,7150,141371,Multi-3,At The Opening
+2021-07-21 11:18:48,Buy,1758,C,Equity,Peter Williams,NY,10007,New York,6988,216037,Multi-3,At The Opening
+2022-02-09 14:25:32,Sell,893328,BAC,Equity,Mary Shelly,NJ,07020,Edgewater,11513,101934,Multi-2,GTC
+2021-09-02 11:44:25,Buy,985936,AAAAX,Mutual Funds,Jay Miller,CT,06070,Simsbury,15104,119188,Single,IMM
+2021-10-12 13:21:39,Buy,662598,MMKBX,Mutual Funds,Mary Shelly,NY,11030,Manhasset,17962,172266,Multi-2,Money Market
+2022-01-26 12:28:53,Sell,211802,CALCI,Mutual Funds,John Smith,NJ,07010,Cliffside Park,23594,62364,Single,Front Load Fund
+2022-01-05 12:00:32,Sell,716060,GOOG,Equity,John Smith,NY,11576,Roslyn,12366,150161,Single,Day
+2022-02-28 10:19:55,Sell,112996,AAAAX,Mutual Funds,Cathy Jones,NJ,08540,Princeton,47115,125439,Multi-4,Offshore
+2021-03-22 11:26:49,Buy,526846,MMKBX,Mutual Funds,Peter Williams,CT,06070,Simsbury,15104,119188,Multi-3,Money Market
+2021-01-10 13:12:33,Buy,148826,CALCI,Mutual Funds,Jay Miller,NY,11030,Manhasset,17962,172266,Single,IMM
+2022-01-13 10:48:12,Sell,656456,MS,Equity,John Smith,NY,11576,Roslyn,12366,150161,Single,Day
+2022-01-09 10:28:32,Sell,433094,MS,Equity,Jay Miller,NJ,07097,Jersey City,None,None,Single,Day
+2022-01-23 10:22:18,Sell,389241,MS,Equity,Peter Williams,NJ,07050,Orange,30074,34965,Multi-3,At The Opening
+2021-11-28 09:34:27,Buy,149365,ASRAX,Mutual Funds,Peter Williams,NJ,07050,Orange,30074,34965,Multi-3,IMM
+2022-02-01 12:29:24,Sell,943577,GOOG,Equity,Mary Shelly,CT,06807,Cos Cob,7150,141371,Multi-2,GTC
+2022-01-20 14:34:19,Sell,748687,MMKBX,Mutual Funds,Peter Williams,NJ,07050,Orange,30074,34965,Multi-3,Offshore
+2022-02-22 12:23:21,Sell,594630,AAATX,Mutual Funds,Nicro Brown,CT,06836,Greenwich,None,None,Multi-4,Offshore
+2022-02-09 14:17:04,Sell,42396,BAC,Equity,David Lopez,CT,06510,New Haven,2737,42656,Multi-2,GTC
+2022-02-18 12:41:17,Sell,953823,ASRAX,Mutual Funds,Mary Shelly,CT,06901,Stamford,6828,59118,Multi-2,Offshore
+2022-01-17 10:32:44,Sell,690921,MS,Equity,John Smith,CT,06830,Greenwich,24027,109860,Single,Day
+2021-01-07 11:24:02,Buy,684931,C,Equity,John Smith,NY,11530,Garden City,27273,135370,Single,Day
+2021-11-09 13:10:04,Buy,792111,COST,Equity,Peter Williams,NJ,07050,Orange,30074,34965,Multi-3,At The Opening
+2022-02-16 10:17:11,Sell,232151,AAATX,Mutual Funds,David Lopez,CT,06901,Stamford,6828,59118,Multi-2,Front Load Fund
+2022-01-14 10:36:13,Sell,362605,CALCI,Mutual Funds,Jay Miller,NY,10006,New York,3011,119274,Single,Offshore
+2022-01-13 14:46:12,Sell,298273,BAC,Equity,Jane Davis,NJ,07024,Fort Lee,35353,71949,Multi-3,At The Opening
+2021-08-26 13:07:25,Buy,718343,AAAAX,Mutual Funds,Nicro Brown,NJ,07078,Short Hills,13250,223214,Multi-4,IMM
+2021-01-02 13:48:25,Buy,206589,AAAAX,Mutual Funds,John Smith,NY,10023,New York,60998,103534,Single,IMM
+2022-01-23 10:08:22,Sell,52686,MS,Equity,John Smith,CT,06510,New Haven,2737,42656,Single,Day
+2021-03-04 11:14:59,Buy,344440,MMKBX,Mutual Funds,Jane Davis,CT,06901,Stamford,6828,59118,Multi-3,IMM
+2022-02-07 10:31:34,Sell,760728,MS,Equity,Cathy Jones,NJ,08540,Princeton,47115,125439,Multi-4,Market On Close
+2021-03-08 13:02:03,Buy,461739,CALCI,Mutual Funds,Jane Davis,CT,06836,Greenwich,None,None,Multi-3,Money Market
+2022-02-25 14:31:52,Sell,65476,BAC,Equity,Nicro Brown,NJ,07078,Short Hills,13250,223214,Multi-4,Market On Close
+2021-07-05 13:42:00,Buy,183300,COST,Equity,Peter Williams,NY,10007,New York,6988,216037,Multi-3,At The Opening
+2022-01-28 12:58:27,Sell,477485,ASRAX,Mutual Funds,Peter Williams,NJ,07050,Orange,30074,34965,Multi-3,Front Load Fund
+2021-02-15 13:25:10,Buy,612981,COST,Equity,David Lopez,NJ,07632,Englewood Cliffs,5309,113802,Multi-2,GTC
+2021-03-22 09:26:21,Buy,950075,AAATX,Mutual Funds,Jane Davis,CT,06836,Greenwich,None,None,Multi-3,Money Market
+2021-10-21 11:09:20,Buy,953042,C,Equity,David Lopez,NY,11030,Manhasset,17962,172266,Multi-2,GTC
+2022-01-05 14:38:28,Sell,904455,BAC,Equity,Jane Davis,CT,06510,New Haven,2737,42656,Multi-3,At The Opening
+2021-06-22 13:29:49,Buy,314191,MMKBX,Mutual Funds,Mary Shelly,CT,06070,Simsbury,15104,119188,Multi-2,IMM
+2021-02-20 13:25:15,Buy,324203,AAAAX,Mutual Funds,David Lopez,NJ,07632,Englewood Cliffs,5309,113802,Multi-2,Money Market
+2021-08-05 11:31:00,Buy,52644,C,Equity,Nicro Brown,NJ,07078,Short Hills,13250,223214,Multi-4,Market On Close
+2021-01-13 09:12:12,Buy,637681,AAPL,Equity,Jay Miller,NY,11530,Garden City,27273,135370,Single,Day
+2021-09-08 09:56:35,Buy,5152,AAAAX,Mutual Funds,John Smith,CT,06901,Stamford,6828,59118,Single,IMM
+2021-08-04 13:31:03,Buy,473750,CALCI,Mutual Funds,Cathy Jones,NJ,08540,Princeton,47115,125439,Multi-4,IMM
+2021-03-19 09:38:14,Buy,659793,AAPL,Equity,Peter Williams,CT,06830,Greenwich,24027,109860,Multi-3,At The Opening
+2021-04-03 13:39:02,Buy,26326,COST,Equity,Nicro Brown,NY,11030,Manhasset,17962,172266,Multi-4,Market On Close
+2021-03-25 13:14:20,Buy,997350,COST,Equity,Peter Williams,CT,06830,Greenwich,24027,109860,Multi-3,At The Opening
+2021-02-20 13:25:47,Buy,554075,ASRAX,Mutual Funds,Mary Shelly,NJ,07020,Edgewater,11513,101934,Multi-2,IMM
+2021-02-06 09:01:29,Buy,907786,MMKBX,Mutual Funds,Mary Shelly,NJ,07020,Edgewater,11513,101934,Multi-2,Money Market
+2022-01-14 14:40:41,Sell,547173,AAATX,Mutual Funds,John Smith,NJ,07010,Cliffside Park,23594,62364,Single,Front Load Fund
+2021-06-14 13:29:09,Buy,72870,MMKBX,Mutual Funds,David Lopez,CT,06836,Greenwich,None,None,Multi-2,Money Market
+2021-01-09 09:24:32,Buy,196019,AAPL,Equity,Jay Miller,NY,10007,New York,6988,216037,Single,Day
+2021-04-08 13:27:35,Buy,127040,AAAAX,Mutual Funds,Nicro Brown,NY,11946,Hampton Bays,14068,72023,Multi-4,IMM
+2021-06-20 09:29:19,Buy,787615,MMKBX,Mutual Funds,Mary Shelly,CT,06070,Simsbury,15104,119188,Multi-2,Money Market
+2022-02-27 12:07:22,Sell,603016,GOOG,Equity,Cathy Jones,NJ,08540,Princeton,47115,125439,Multi-4,Market On Close
+2022-02-19 10:13:46,Sell,538992,MS,Equity,David Lopez,NJ,07632,Englewood Cliffs,5309,113802,Multi-2,GTC
+2022-01-01 14:26:28,Sell,188279,BAC,Equity,Peter Williams,CT,06510,New Haven,2737,42656,Multi-3,At The Opening
+2021-12-17 13:23:40,Buy,338141,COST,Equity,Nicro Brown,CT,06510,New Haven,2737,42656,Multi-4,Market On Close
+2022-02-03 12:29:58,Sell,21698,GOOG,Equity,Mary Shelly,CT,06510,New Haven,2737,42656,Multi-2,GTC
+2022-02-15 10:51:42,Sell,258580,MS,Equity,Nicro Brown,NY,11753,Jericho,12014,153438,Multi-4,Market On Close
+2021-01-18 13:48:17,Buy,936968,ASRAX,Mutual Funds,John Smith,NY,10007,New York,6988,216037,Single,Money Market
+2021-03-14 13:02:13,Buy,615119,CALCI,Mutual Funds,Peter Williams,CT,06070,Simsbury,15104,119188,Multi-3,Money Market
+2021-01-16 11:48:39,Buy,431460,MMKBX,Mutual Funds,John Smith,NY,11530,Garden City,27273,135370,Single,IMM
+2021-05-19 13:04:46,Buy,192563,COST,Equity,Jay Miller,NJ,07097,Jersey City,None,None,Single,Day
+2022-01-21 14:00:16,Sell,963878,BAC,Equity,Jay Miller,NY,10024,New York,59283,109956,Single,Day
+2021-11-06 11:22:01,Buy,524878,AAATX,Mutual Funds,Peter Williams,NJ,07050,Orange,30074,34965,Multi-3,Money Market
+2021-12-09 11:23:36,Buy,588572,C,Equity,Nicro Brown,CT,06807,Cos Cob,7150,141371,Multi-4,Market On Close
+2022-02-16 10:29:15,Sell,319065,AAAAX,Mutual Funds,David Lopez,CT,06836,Greenwich,None,None,Multi-2,Front Load Fund
+2021-04-17 11:27:40,Buy,755841,C,Equity,Cathy Jones,NY,10007,New York,6988,216037,Multi-4,Market On Close
+2021-11-13 13:22:08,Buy,838715,COST,Equity,Peter Williams,NJ,07050,Orange,30074,34965,Multi-3,At The Opening
+2022-02-13 10:17:12,Sell,994075,MS,Equity,Mary Shelly,CT,06807,Cos Cob,7150,141371,Multi-2,GTC
+2022-01-18 10:48:17,Sell,736000,ASRAX,Mutual Funds,John Smith,NY,10006,New York,3011,119274,Single,Front Load Fund
+2021-05-04 13:52:31,Buy,519213,AAATX,Mutual Funds,Jay Miller,NJ,07097,Jersey City,None,None,Single,IMM
+2022-02-08 14:03:31,Sell,295591,AAATX,Mutual Funds,Nicro Brown,NY,10006,New York,3011,119274,Multi-4,Offshore
+2021-01-09 11:48:36,Buy,641490,C,Equity,John Smith,NY,10007,New York,6988,216037,Single,Day
+2021-12-13 09:23:36,Buy,248540,AAPL,Equity,Cathy Jones,CT,06807,Cos Cob,7150,141371,Multi-4,Market On Close
+2022-01-13 10:36:08,Sell,68056,MS,Equity,Jay Miller,NY,10006,New York,3011,119274,Single,Day
+2022-02-04 10:09:27,Sell,511163,ASRAX,Mutual Funds,David Lopez,NY,10021,New York,43631,107907,Multi-2,Front Load Fund
+2021-08-06 11:07:33,Buy,100935,CALCI,Mutual Funds,Cathy Jones,NJ,08540,Princeton,47115,125439,Multi-4,IMM
+2021-08-11 09:19:10,Buy,646137,AAPL,Equity,Cathy Jones,NJ,08540,Princeton,47115,125439,Multi-4,Market On Close
+2021-06-07 09:17:30,Buy,136343,AAPL,Equity,Mary Shelly,CT,06807,Cos Cob,7150,141371,Multi-2,GTC
+2022-02-09 12:29:04,Sell,466143,GOOG,Equity,Mary Shelly,CT,06510,New Haven,2737,42656,Multi-2,GTC
+2022-01-19 10:26:14,Sell,83394,MS,Equity,Peter Williams,CT,06830,Greenwich,24027,109860,Multi-3,At The Opening
+2022-01-28 10:08:55,Sell,542967,AAAAX,Mutual Funds,Jay Miller,CT,06070,Simsbury,15104,119188,Single,Offshore
+2022-01-14 14:56:37,Sell,252660,ASRAX,Mutual Funds,John Smith,CT,06070,Simsbury,15104,119188,Single,Front Load Fund
+2021-07-18 11:42:13,Buy,477531,CALCI,Mutual Funds,Peter Williams,NY,10007,New York,6988,216037,Multi-3,IMM
+2021-03-11 13:38:34,Buy,661183,COST,Equity,Jane Davis,CT,06510,New Haven,2737,42656,Multi-3,At The Opening
+2022-01-25 14:40:24,Sell,751670,BAC,Equity,Jay Miller,NJ,07097,Jersey City,None,None,Single,Day
+2022-02-28 10:09:27,Sell,612736,ASRAX,Mutual Funds,Mary Shelly,NY,10024,New York,59283,109956,Multi-2,Offshore
+2022-01-28 10:48:23,Sell,709418,CALCI,Mutual Funds,John Smith,NY,11753,Jericho,12014,153438,Single,Offshore
+2021-10-24 11:09:23,Buy,248099,CALCI,Mutual Funds,David Lopez,NY,10023,New York,60998,103534,Multi-2,Money Market
+2021-12-28 13:11:27,Buy,469223,ASRAX,Mutual Funds,Cathy Jones,CT,06836,Greenwich,None,None,Multi-4,Money Market
+2021-02-25 11:13:20,Buy,992407,C,Equity,Mary Shelly,NJ,07020,Edgewater,11513,101934,Multi-2,GTC
+2021-10-12 13:33:11,Buy,768985,AAATX,Mutual Funds,Mary Shelly,NY,11030,Manhasset,17962,172266,Multi-2,IMM
+2021-08-03 11:19:58,Buy,24047,C,Equity,Nicro Brown,NJ,07078,Short Hills,13250,223214,Multi-4,Market On Close
+2022-02-17 10:37:16,Sell,748418,MS,Equity,David Lopez,NJ,07632,Englewood Cliffs,5309,113802,Multi-2,GTC
+2022-01-20 12:22:47,Sell,136419,ASRAX,Mutual Funds,Jane Davis,NJ,07024,Fort Lee,35353,71949,Multi-3,Offshore
+2021-08-21 13:31:16,Buy,225669,COST,Equity,Nicro Brown,NJ,07078,Short Hills,13250,223214,Multi-4,Market On Close
+2021-04-25 11:03:20,Buy,752021,C,Equity,Nicro Brown,NY,10023,New York,60998,103534,Multi-4,Market On Close
+2021-04-01 11:03:00,Buy,721919,C,Equity,Cathy Jones,NY,11946,Hampton Bays,14068,72023,Multi-4,Market On Close
+2021-06-28 09:17:27,Buy,426423,ASRAX,Mutual Funds,David Lopez,CT,06836,Greenwich,None,None,Multi-2,IMM
+2022-02-25 10:31:20,Sell,851010,MS,Equity,Cathy Jones,NJ,08540,Princeton,47115,125439,Multi-4,Market On Close
+2022-01-17 12:38:16,Sell,801308,GOOG,Equity,Jane Davis,CT,06510,New Haven,2737,42656,Multi-3,At The Opening
+2021-01-01 13:12:24,Buy,544273,COST,Equity,John Smith,NY,10023,New York,60998,103534,Single,Day
+2022-01-07 12:14:02,Sell,571061,GOOG,Equity,Jane Davis,CT,06830,Greenwich,24027,109860,Multi-3,At The Opening
+2021-03-08 11:50:03,Buy,196132,CALCI,Mutual Funds,Peter Williams,CT,06836,Greenwich,None,None,Multi-3,Money Market
+2021-04-04 13:27:31,Buy,475236,AAATX,Mutual Funds,Cathy Jones,NY,10007,New York,6988,216037,Multi-4,IMM
+2022-01-09 12:30:32,Sell,722277,GOOG,Equity,Jane Davis,NY,10021,New York,43631,107907,Multi-3,At The Opening
+2022-01-12 10:04:07,Sell,491442,ASRAX,Mutual Funds,John Smith,NJ,07010,Cliffside Park,23594,62364,Single,Front Load Fund
+2021-05-23 11:16:50,Buy,210220,C,Equity,John Smith,NJ,07010,Cliffside Park,23594,62364,Single,Day
+2021-04-12 11:03:07,Buy,827872,ASRAX,Mutual Funds,Nicro Brown,NY,10007,New York,6988,216037,Multi-4,IMM
+2021-11-16 11:34:11,Buy,560299,AAATX,Mutual Funds,Jane Davis,NJ,07024,Fort Lee,35353,71949,Multi-3,Money Market
+2021-09-13 09:08:40,Buy,411838,AAPL,Equity,Jay Miller,CT,06510,New Haven,2737,42656,Single,Day
+2021-02-13 13:37:12,Buy,467120,COST,Equity,David Lopez,NJ,07632,Englewood Cliffs,5309,113802,Multi-2,GTC
+2022-02-06 10:47:33,Sell,137445,CALCI,Mutual Funds,Cathy Jones,CT,06836,Greenwich,None,None,Multi-4,Offshore
+2021-11-23 13:58:18,Buy,665793,COST,Equity,Peter Williams,NJ,07050,Orange,30074,34965,Multi-3,At The Opening
+2021-06-25 11:29:52,Buy,416939,C,Equity,Mary Shelly,CT,06510,New Haven,2737,42656,Multi-2,GTC
+2022-02-26 10:11:25,Sell,560459,AAAAX,Mutual Funds,Nicro Brown,CT,06070,Simsbury,15104,119188,Multi-4,Offshore
+2022-01-02 10:36:29,Sell,588213,MMKBX,Mutual Funds,Jay Miller,NY,10006,New York,3011,119274,Single,Front Load Fund
+2021-03-06 09:02:29,Buy,627740,MMKBX,Mutual Funds,Jane Davis,CT,06901,Stamford,6828,59118,Multi-3,IMM
+2021-11-26 09:34:25,Buy,696567,AAAAX,Mutual Funds,Jane Davis,NJ,07024,Fort Lee,35353,71949,Multi-3,IMM
+2021-01-02 13:24:29,Buy,668420,MMKBX,Mutual Funds,Jay Miller,NY,11530,Garden City,27273,135370,Single,IMM
+2021-11-21 09:10:20,Buy,914915,AAPL,Equity,Jane Davis,NJ,07024,Fort Lee,35353,71949,Multi-3,At The Opening
+2021-02-19 09:37:18,Buy,528936,AAPL,Equity,Mary Shelly,NJ,07020,Edgewater,11513,101934,Multi-2,GTC
+2022-01-13 10:52:08,Sell,238074,MS,Equity,Jay Miller,NJ,07097,Jersey City,None,None,Single,Day
+2021-04-17 09:27:44,Buy,698353,AAPL,Equity,Nicro Brown,NY,10023,New York,60998,103534,Multi-4,Market On Close
+2022-02-05 14:21:32,Sell,240979,BAC,Equity,Mary Shelly,NY,11753,Jericho,12014,153438,Multi-2,GTC
+2022-02-27 14:03:26,Sell,422446,BAC,Equity,Cathy Jones,NY,11576,Roslyn,12366,150161,Multi-4,Market On Close
+2021-01-09 09:12:04,Buy,142636,AAPL,Equity,John Smith,NY,11530,Garden City,27273,135370,Single,Day
+2022-02-05 10:07:00,Sell,40109,MS,Equity,Nicro Brown,NJ,07078,Short Hills,13250,223214,Multi-4,Market On Close
+2022-01-25 12:10:24,Sell,582878,GOOG,Equity,Peter Williams,NJ,07050,Orange,30074,34965,Multi-3,At The Opening
+2022-01-09 12:52:08,Sell,675475,GOOG,Equity,Jay Miller,NJ,07097,Jersey City,None,None,Single,Day
+2021-02-21 09:49:16,Buy,555289,AAPL,Equity,Mary Shelly,NJ,07020,Edgewater,11513,101934,Multi-2,GTC
+2022-01-19 14:08:46,Sell,908643,BAC,Equity,Jay Miller,CT,06510,New Haven,2737,42656,Single,Day
+2021-06-04 09:29:59,Buy,72447,MMKBX,Mutual Funds,Mary Shelly,CT,06901,Stamford,6828,59118,Multi-2,IMM
+2022-02-11 12:25:38,Sell,915018,GOOG,Equity,Mary Shelly,NJ,07020,Edgewater,11513,101934,Multi-2,GTC
+2022-01-04 12:34:27,Sell,621166,ASRAX,Mutual Funds,Jane Davis,NJ,07024,Fort Lee,35353,71949,Multi-3,Offshore
+2022-02-12 12:29:07,Sell,414154,ASRAX,Mutual Funds,David Lopez,CT,06070,Simsbury,15104,119188,Multi-2,Front Load Fund
+2021-07-02 11:42:29,Buy,413736,MMKBX,Mutual Funds,Peter Williams,NY,11030,Manhasset,17962,172266,Multi-3,Money Market
+2022-02-14 12:09:09,Sell,700379,MMKBX,Mutual Funds,David Lopez,NY,10021,New York,43631,107907,Multi-2,Offshore
+2021-09-15 09:32:42,Buy,357356,AAPL,Equity,John Smith,CT,06807,Cos Cob,7150,141371,Single,Day
+2021-02-19 11:37:46,Buy,962504,C,Equity,Mary Shelly,NJ,07020,Edgewater,11513,101934,Multi-2,GTC
+2021-05-13 09:52:36,Buy,848117,AAPL,Equity,Jay Miller,NJ,07097,Jersey City,None,None,Single,Day
+2022-01-15 12:30:38,Sell,174948,GOOG,Equity,Peter Williams,NY,10024,New York,59283,109956,Multi-3,At The Opening
+2021-09-16 11:32:11,Buy,714848,AAATX,Mutual Funds,John Smith,CT,06901,Stamford,6828,59118,Single,Money Market
+2021-11-02 11:10:01,Buy,49667,AAATX,Mutual Funds,Jane Davis,NJ,07024,Fort Lee,35353,71949,Multi-3,IMM
+2021-05-08 09:16:03,Buy,842323,CALCI,Mutual Funds,Jay Miller,NJ,07097,Jersey City,None,None,Single,IMM
+2022-01-26 12:18:21,Sell,626701,AAATX,Mutual Funds,Peter Williams,NY,10021,New York,43631,107907,Multi-3,Front Load Fund
+2021-03-13 13:14:08,Buy,928762,COST,Equity,Peter Williams,CT,06830,Greenwich,24027,109860,Multi-3,At The Opening
+2022-01-04 10:30:27,Sell,284981,ASRAX,Mutual Funds,Peter Williams,NY,10006,New York,3011,119274,Multi-3,Front Load Fund
+2021-05-07 11:28:34,Buy,842982,C,Equity,John Smith,NJ,07010,Cliffside Park,23594,62364,Single,Day
+2022-02-19 12:03:18,Sell,806215,GOOG,Equity,Cathy Jones,NY,11576,Roslyn,12366,150161,Multi-4,Market On Close
+2022-01-12 12:38:07,Sell,659295,ASRAX,Mutual Funds,Peter Williams,CT,06070,Simsbury,15104,119188,Multi-3,Front Load Fund
+2021-05-07 09:28:34,Buy,784463,AAPL,Equity,John Smith,NJ,07010,Cliffside Park,23594,62364,Single,Day
+2021-06-01 11:05:24,Buy,627150,C,Equity,David Lopez,CT,06807,Cos Cob,7150,141371,Multi-2,GTC
+2022-02-04 10:43:03,Sell,348764,CALCI,Mutual Funds,Nicro Brown,NJ,07078,Short Hills,13250,223214,Multi-4,Front Load Fund
+2021-07-22 09:30:49,Buy,391774,MMKBX,Mutual Funds,Peter Williams,NY,11530,Garden City,27273,135370,Multi-3,IMM
+2021-02-01 09:37:28,Buy,404055,AAPL,Equity,David Lopez,NJ,07632,Englewood Cliffs,5309,113802,Multi-2,GTC
+2021-05-17 09:40:12,Buy,687122,AAPL,Equity,John Smith,NJ,07010,Cliffside Park,23594,62364,Single,Day
+2021-12-04 11:35:27,Buy,264695,ASRAX,Mutual Funds,Cathy Jones,CT,06836,Greenwich,None,None,Multi-4,IMM
+2021-07-21 11:30:16,Buy,511449,C,Equity,Jane Davis,NY,11030,Manhasset,17962,172266,Multi-3,At The Opening
+2022-02-26 14:15:21,Sell,442521,AAATX,Mutual Funds,Nicro Brown,NY,10021,New York,43631,107907,Multi-4,Offshore
+2022-02-13 10:47:12,Sell,51061,MS,Equity,Cathy Jones,CT,06807,Cos Cob,7150,141371,Multi-4,Market On Close
+2022-02-03 10:23:02,Sell,975001,MS,Equity,Cathy Jones,CT,06830,Greenwich,24027,109860,Multi-4,Market On Close
+2022-01-06 10:24:29,Sell,262794,MMKBX,Mutual Funds,Jay Miller,NY,10024,New York,59283,109956,Single,Offshore
+2021-06-02 11:05:29,Buy,529820,MMKBX,Mutual Funds,David Lopez,CT,06901,Stamford,6828,59118,Multi-2,IMM
+2022-01-03 12:04:58,Sell,347237,GOOG,Equity,Jay Miller,NJ,07097,Jersey City,None,None,Single,Day
+2022-01-01 10:26:56,Sell,201851,MS,Equity,Peter Williams,CT,06830,Greenwich,24027,109860,Multi-3,At The Opening
+2021-06-14 13:05:13,Buy,847172,CALCI,Mutual Funds,David Lopez,CT,06070,Simsbury,15104,119188,Multi-2,IMM
+2022-01-18 10:38:17,Sell,494448,ASRAX,Mutual Funds,Peter Williams,CT,06901,Stamford,6828,59118,Multi-3,Front Load Fund
+2022-02-13 12:19:12,Sell,987587,GOOG,Equity,Nicro Brown,NJ,07078,Short Hills,13250,223214,Multi-4,Market On Close
+2021-02-14 11:25:41,Buy,429906,AAATX,Mutual Funds,David Lopez,NJ,07632,Englewood Cliffs,5309,113802,Multi-2,IMM
+2021-12-20 09:11:47,Buy,948665,ASRAX,Mutual Funds,Nicro Brown,CT,06901,Stamford,6828,59118,Multi-4,Money Market
+2021-07-10 13:06:33,Buy,671398,CALCI,Mutual Funds,Peter Williams,NY,11530,Garden City,27273,135370,Multi-3,IMM
+2021-12-09 09:35:32,Buy,434680,AAPL,Equity,Nicro Brown,CT,06830,Greenwich,24027,109860,Multi-4,Market On Close
+2021-01-19 13:00:46,Buy,274241,COST,Equity,Jay Miller,NY,11030,Manhasset,17962,172266,Single,Day
+2022-02-01 12:11:56,Sell,745533,GOOG,Equity,Nicro Brown,CT,06830,Greenwich,24027,109860,Multi-4,Market On Close
+2021-03-03 09:26:02,Buy,673141,AAPL,Equity,Jane Davis,CT,06830,Greenwich,24027,109860,Multi-3,At The Opening
+2022-02-19 14:57:18,Sell,565710,BAC,Equity,Mary Shelly,NY,10024,New York,59283,109956,Multi-2,GTC
+2021-06-12 11:05:39,Buy,437334,MMKBX,Mutual Funds,Mary Shelly,CT,06836,Greenwich,None,None,Multi-2,Money Market
+2021-08-09 11:43:04,Buy,652978,C,Equity,Nicro Brown,NJ,07078,Short Hills,13250,223214,Multi-4,Market On Close
+2022-02-28 10:37:23,Sell,459200,CALCI,Mutual Funds,David Lopez,NJ,07632,Englewood Cliffs,5309,113802,Multi-2,Offshore
+2021-02-24 11:01:23,Buy,70357,CALCI,Mutual Funds,David Lopez,NJ,07632,Englewood Cliffs,5309,113802,Multi-2,IMM
+2022-01-09 12:08:32,Sell,127925,GOOG,Equity,Jay Miller,CT,06830,Greenwich,24027,109860,Single,Day
+2022-01-20 14:20:47,Sell,238159,ASRAX,Mutual Funds,John Smith,CT,06901,Stamford,6828,59118,Single,Front Load Fund
+2021-05-04 13:40:31,Buy,630266,AAATX,Mutual Funds,John Smith,NJ,07010,Cliffside Park,23594,62364,Single,Money Market
+2021-04-24 13:39:19,Buy,689231,MMKBX,Mutual Funds,Nicro Brown,NY,11946,Hampton Bays,14068,72023,Multi-4,Money Market
+2022-01-09 12:28:32,Sell,805834,GOOG,Equity,Jay Miller,NJ,07097,Jersey City,None,None,Single,Day
+2021-03-10 09:02:05,Buy,151748,AAAAX,Mutual Funds,Jane Davis,CT,06901,Stamford,6828,59118,Multi-3,IMM
+2021-04-11 11:51:10,Buy,453998,C,Equity,Nicro Brown,NY,11030,Manhasset,17962,172266,Multi-4,Market On Close
+2021-02-15 13:37:42,Buy,733783,COST,Equity,David Lopez,NJ,07632,Englewood Cliffs,5309,113802,Multi-2,GTC
+2021-08-12 09:31:11,Buy,343160,AAATX,Mutual Funds,Nicro Brown,NJ,07078,Short Hills,13250,223214,Multi-4,Money Market
+2021-01-12 09:24:07,Buy,879802,ASRAX,Mutual Funds,Jay Miller,NY,10023,New York,60998,103534,Single,IMM
+2021-10-04 11:33:59,Buy,217503,MMKBX,Mutual Funds,David Lopez,NY,11030,Manhasset,17962,172266,Multi-2,Money Market
+2022-01-03 12:06:30,Sell,747973,GOOG,Equity,Jane Davis,NY,10024,New York,59283,109956,Multi-3,At The Opening
+2022-01-10 12:36:09,Sell,498280,MMKBX,Mutual Funds,Jay Miller,NY,10024,New York,59283,109956,Single,Front Load Fund
+2021-10-05 13:21:04,Buy,355132,COST,Equity,David Lopez,NY,11030,Manhasset,17962,172266,Multi-2,GTC
+2021-05-14 13:16:41,Buy,269744,AAATX,Mutual Funds,Jay Miller,NJ,07097,Jersey City,None,None,Single,IMM
+2021-07-06 09:30:05,Buy,943404,AAAAX,Mutual Funds,Jane Davis,NY,11030,Manhasset,17962,172266,Multi-3,IMM
+2021-07-06 09:42:05,Buy,395910,AAAAX,Mutual Funds,Peter Williams,NY,11530,Garden City,27273,135370,Multi-3,Money Market
+2021-07-08 13:18:07,Buy,61860,ASRAX,Mutual Funds,Peter Williams,NY,10023,New York,60998,103534,Multi-3,IMM
+2022-02-02 14:37:57,Sell,366208,ASRAX,Mutual Funds,Mary Shelly,NJ,07020,Edgewater,11513,101934,Multi-2,Front Load Fund
+2022-01-09 10:00:36,Sell,303049,MS,Equity,Jay Miller,NY,10021,New York,43631,107907,Single,Day
+2022-02-03 10:19:58,Sell,822944,MS,Equity,Cathy Jones,NJ,08540,Princeton,47115,125439,Multi-4,Market On Close
+2022-02-08 14:17:35,Sell,172226,AAAAX,Mutual Funds,Mary Shelly,CT,06901,Stamford,6828,59118,Multi-2,Offshore
+2022-02-06 10:53:05,Sell,847313,AAAAX,Mutual Funds,David Lopez,CT,06901,Stamford,6828,59118,Multi-2,Offshore
+2021-04-03 13:15:30,Buy,301726,COST,Equity,Nicro Brown,NY,11530,Garden City,27273,135370,Multi-4,Market On Close
+2021-11-15 13:10:38,Buy,981384,COST,Equity,Jane Davis,NJ,07024,Fort Lee,35353,71949,Multi-3,At The Opening
+2022-01-17 12:00:44,Sell,676036,GOOG,Equity,John Smith,NY,11576,Roslyn,12366,150161,Single,Day
+2022-02-10 10:01:37,Sell,130785,ASRAX,Mutual Funds,Mary Shelly,NJ,07020,Edgewater,11513,101934,Multi-2,Front Load Fund
+2022-01-09 12:48:04,Sell,468958,GOOG,Equity,John Smith,NY,10021,New York,43631,107907,Single,Day
+2022-01-08 12:28:35,Sell,985210,AAAAX,Mutual Funds,Jay Miller,NJ,07097,Jersey City,None,None,Single,Offshore
+2021-10-27 11:21:22,Buy,23888,C,Equity,David Lopez,NY,10023,New York,60998,103534,Multi-2,GTC
+2021-05-22 09:40:17,Buy,192139,ASRAX,Mutual Funds,Jay Miller,NJ,07097,Jersey City,None,None,Single,IMM
+2022-01-15 14:34:38,Sell,829136,BAC,Equity,Peter Williams,NJ,07050,Orange,30074,34965,Multi-3,At The Opening
+2021-08-23 09:07:50,Buy,782129,AAPL,Equity,Cathy Jones,NJ,08540,Princeton,47115,125439,Multi-4,Market On Close
+2022-01-06 10:08:29,Sell,582126,MMKBX,Mutual Funds,Jay Miller,CT,06901,Stamford,6828,59118,Single,Front Load Fund
+2022-02-17 10:55:44,Sell,232622,MS,Equity,Cathy Jones,NJ,08540,Princeton,47115,125439,Multi-4,Market On Close
+2022-02-12 12:15:39,Sell,498029,MMKBX,Mutual Funds,Cathy Jones,NY,11576,Roslyn,12366,150161,Multi-4,Front Load Fund
+2021-04-01 13:27:28,Buy,736263,COST,Equity,Cathy Jones,NY,11530,Garden City,27273,135370,Multi-4,Market On Close
+2022-01-07 14:40:30,Sell,373281,BAC,Equity,John Smith,NJ,07010,Cliffside Park,23594,62364,Single,Day
+2022-01-14 10:28:37,Sell,697854,ASRAX,Mutual Funds,Jay Miller,NJ,07097,Jersey City,None,None,Single,Front Load Fund
+2022-01-17 10:50:16,Sell,36925,MS,Equity,Peter Williams,CT,06510,New Haven,2737,42656,Multi-3,At The Opening
+2021-07-06 09:06:05,Buy,547262,AAAAX,Mutual Funds,Peter Williams,NY,11030,Manhasset,17962,172266,Multi-3,IMM
+2021-08-25 11:43:24,Buy,51936,C,Equity,Nicro Brown,NJ,07078,Short Hills,13250,223214,Multi-4,Market On Close
+2021-03-07 09:26:02,Buy,371466,AAPL,Equity,Peter Williams,CT,06830,Greenwich,24027,109860,Multi-3,At The Opening
+2021-02-18 13:13:45,Buy,910266,AAAAX,Mutual Funds,David Lopez,NJ,07632,Englewood Cliffs,5309,113802,Multi-2,IMM
+2022-01-02 14:54:25,Sell,336933,AAAAX,Mutual Funds,Jane Davis,NY,10021,New York,43631,107907,Multi-3,Front Load Fund
+2021-03-04 09:38:27,Buy,673591,ASRAX,Mutual Funds,Peter Williams,CT,06836,Greenwich,None,None,Multi-3,Money Market
+2021-11-03 13:58:02,Buy,454855,COST,Equity,Peter Williams,NJ,07050,Orange,30074,34965,Multi-3,At The Opening
+2022-01-10 10:32:09,Sell,490350,MMKBX,Mutual Funds,John Smith,CT,06836,Greenwich,None,None,Single,Offshore
+2022-01-16 10:42:43,Sell,762296,CALCI,Mutual Funds,Peter Williams,NY,11753,Jericho,12014,153438,Multi-3,Front Load Fund
+2022-01-19 10:00:46,Sell,651539,MS,Equity,Jay Miller,NY,10021,New York,43631,107907,Single,Day
+2021-01-17 09:24:40,Buy,899633,AAPL,Equity,Jay Miller,NY,11946,Hampton Bays,14068,72023,Single,Day
+2022-01-19 14:18:14,Sell,560015,BAC,Equity,Jane Davis,NY,11753,Jericho,12014,153438,Multi-3,At The Opening
+2021-01-05 09:48:04,Buy,517419,AAPL,Equity,John Smith,NY,11530,Garden City,27273,135370,Single,Day
+2022-01-10 12:44:09,Sell,280711,MMKBX,Mutual Funds,Jay Miller,CT,06836,Greenwich,None,None,Single,Offshore
+2021-08-06 13:07:05,Buy,674444,AAAAX,Mutual Funds,Nicro Brown,NJ,07078,Short Hills,13250,223214,Multi-4,IMM
+2022-02-18 14:51:13,Sell,383528,CALCI,Mutual Funds,Nicro Brown,NY,10006,New York,3011,119274,Multi-4,Offshore
+2021-08-24 13:19:23,Buy,940871,CALCI,Mutual Funds,Cathy Jones,NJ,08540,Princeton,47115,125439,Multi-4,IMM
+2022-02-26 12:09:25,Sell,206843,AAAAX,Mutual Funds,David Lopez,NY,11753,Jericho,12014,153438,Multi-2,Front Load Fund
+2021-01-10 13:24:37,Buy,128992,ASRAX,Mutual Funds,Jay Miller,NY,11530,Garden City,27273,135370,Single,IMM
+2021-01-15 11:24:10,Buy,660152,C,Equity,Jay Miller,NY,10023,New York,60998,103534,Single,Day
+2022-01-20 14:38:19,Sell,644355,MMKBX,Mutual Funds,Jane Davis,CT,06070,Simsbury,15104,119188,Multi-3,Front Load Fund
+2021-11-16 13:34:39,Buy,438313,MMKBX,Mutual Funds,Jane Davis,NJ,07024,Fort Lee,35353,71949,Multi-3,IMM
+2022-01-04 10:40:03,Sell,647191,CALCI,Mutual Funds,John Smith,NJ,07010,Cliffside Park,23594,62364,Single,Offshore
+2022-02-08 14:51:07,Sell,235101,ASRAX,Mutual Funds,Nicro Brown,NY,10006,New York,3011,119274,Multi-4,Front Load Fund
+2022-02-05 12:19:04,Sell,841078,GOOG,Equity,Cathy Jones,NJ,08540,Princeton,47115,125439,Multi-4,Market On Close
+2021-01-07 13:24:06,Buy,196257,COST,Equity,Jay Miller,NY,10007,New York,6988,216037,Single,Day
+2022-01-13 10:02:12,Sell,757588,MS,Equity,Jane Davis,CT,06807,Cos Cob,7150,141371,Multi-3,At The Opening
+2022-02-16 12:57:39,Sell,653335,MMKBX,Mutual Funds,Mary Shelly,NY,10024,New York,59283,109956,Multi-2,Front Load Fund
+2022-01-09 10:28:08,Sell,506338,MS,Equity,John Smith,NJ,07010,Cliffside Park,23594,62364,Single,Day
+2021-01-05 09:00:32,Buy,893811,AAPL,Equity,John Smith,NY,11030,Manhasset,17962,172266,Single,Day
+2021-10-20 09:09:47,Buy,822882,ASRAX,Mutual Funds,David Lopez,NY,11530,Garden City,27273,135370,Multi-2,IMM
+2022-02-08 14:35:03,Sell,228608,CALCI,Mutual Funds,Cathy Jones,CT,06836,Greenwich,None,None,Multi-4,Front Load Fund
+2021-07-08 11:06:03,Buy,549871,CALCI,Mutual Funds,Jane Davis,NY,10023,New York,60998,103534,Multi-3,Money Market
+2021-09-16 11:20:43,Buy,380381,CALCI,Mutual Funds,John Smith,CT,06070,Simsbury,15104,119188,Single,Money Market
+2021-11-22 09:46:17,Buy,989308,ASRAX,Mutual Funds,Jane Davis,NJ,07024,Fort Lee,35353,71949,Multi-3,IMM
+2021-01-10 09:36:05,Buy,828145,AAAAX,Mutual Funds,Jay Miller,NY,11030,Manhasset,17962,172266,Single,IMM
+2022-01-09 14:02:04,Sell,278922,BAC,Equity,Jane Davis,CT,06510,New Haven,2737,42656,Multi-3,At The Opening
+2022-02-02 14:21:25,Sell,388528,AAAAX,Mutual Funds,David Lopez,NY,10024,New York,59283,109956,Multi-2,Offshore
+2021-08-17 13:19:40,Buy,991408,COST,Equity,Cathy Jones,NJ,08540,Princeton,47115,125439,Multi-4,Market On Close
+2022-01-22 10:04:17,Sell,443139,ASRAX,Mutual Funds,Jay Miller,NJ,07097,Jersey City,None,None,Single,Front Load Fund
+2022-01-20 10:54:47,Sell,92210,ASRAX,Mutual Funds,Jane Davis,NY,10021,New York,43631,107907,Multi-3,Offshore
+2021-01-17 13:24:44,Buy,245524,COST,Equity,Jay Miller,NY,11946,Hampton Bays,14068,72023,Single,Day
+2021-10-15 11:21:10,Buy,96746,C,Equity,Mary Shelly,NY,10023,New York,60998,103534,Multi-2,GTC
+2022-02-24 14:23:51,Sell,91715,AAATX,Mutual Funds,Cathy Jones,CT,06836,Greenwich,None,None,Multi-4,Offshore
+2022-02-02 12:15:57,Sell,641004,ASRAX,Mutual Funds,Nicro Brown,NY,11576,Roslyn,12366,150161,Multi-4,Offshore
+2021-10-06 09:33:29,Buy,880095,MMKBX,Mutual Funds,David Lopez,NY,11946,Hampton Bays,14068,72023,Multi-2,IMM
+2022-01-25 12:30:24,Sell,563353,GOOG,Equity,Jane Davis,NY,10021,New York,43631,107907,Multi-3,At The Opening
+2021-10-16 13:57:43,Buy,506377,CALCI,Mutual Funds,Mary Shelly,NY,11030,Manhasset,17962,172266,Multi-2,IMM
+2021-10-07 13:33:30,Buy,764505,COST,Equity,Mary Shelly,NY,10023,New York,60998,103534,Multi-2,GTC
+2022-01-08 10:32:31,Sell,374845,AAATX,Mutual Funds,John Smith,CT,06070,Simsbury,15104,119188,Single,Front Load Fund
+2022-01-14 12:56:13,Sell,919981,CALCI,Mutual Funds,John Smith,CT,06070,Simsbury,15104,119188,Single,Offshore
+2021-10-19 09:09:14,Buy,991957,AAPL,Equity,David Lopez,NY,11530,Garden City,27273,135370,Multi-2,GTC
+2021-04-28 09:03:27,Buy,811049,ASRAX,Mutual Funds,Cathy Jones,NY,11030,Manhasset,17962,172266,Multi-4,Money Market
+2021-07-13 11:18:08,Buy,670335,C,Equity,Peter Williams,NY,11030,Manhasset,17962,172266,Multi-3,At The Opening
+2022-02-12 14:27:07,Sell,985385,ASRAX,Mutual Funds,Nicro Brown,NY,11753,Jericho,12014,153438,Multi-4,Offshore
+2022-01-25 12:48:20,Sell,247885,GOOG,Equity,John Smith,NY,10021,New York,43631,107907,Single,Day
+2022-02-25 10:49:24,Sell,691532,MS,Equity,Mary Shelly,NJ,07020,Edgewater,11513,101934,Multi-2,GTC
+2022-02-04 12:35:59,Sell,590825,MMKBX,Mutual Funds,Cathy Jones,CT,06901,Stamford,6828,59118,Multi-4,Front Load Fund
+2021-05-27 09:16:22,Buy,302515,AAPL,Equity,Jay Miller,NJ,07097,Jersey City,None,None,Single,Day
+2021-09-10 11:32:37,Buy,258772,ASRAX,Mutual Funds,Jay Miller,CT,06070,Simsbury,15104,119188,Single,Money Market
+2021-04-18 13:27:13,Buy,173676,CALCI,Mutual Funds,Nicro Brown,NY,11530,Garden City,27273,135370,Multi-4,IMM
+2022-01-06 14:40:33,Sell,935415,CALCI,Mutual Funds,John Smith,NJ,07010,Cliffside Park,23594,62364,Single,Front Load Fund
+2022-02-07 14:27:02,Sell,618619,BAC,Equity,Nicro Brown,NY,10006,New York,3011,119274,Multi-4,Market On Close
+2021-09-03 13:20:58,Buy,73033,COST,Equity,John Smith,CT,06510,New Haven,2737,42656,Single,Day
+2021-06-15 13:17:14,Buy,186513,COST,Equity,Mary Shelly,CT,06830,Greenwich,24027,109860,Multi-2,GTC
+2021-05-24 11:40:23,Buy,205554,CALCI,Mutual Funds,Jay Miller,NJ,07097,Jersey City,None,None,Single,IMM
+2021-07-21 09:54:16,Buy,810656,AAPL,Equity,Jane Davis,NY,11530,Garden City,27273,135370,Multi-3,At The Opening
+2022-02-23 12:13:50,Sell,731587,GOOG,Equity,David Lopez,NJ,07632,Englewood Cliffs,5309,113802,Multi-2,GTC
+2021-10-07 09:45:06,Buy,847315,AAPL,Equity,David Lopez,NY,11530,Garden City,27273,135370,Multi-2,GTC
+2022-01-04 10:20:03,Sell,593489,CALCI,Mutual Funds,John Smith,CT,06836,Greenwich,None,None,Single,Front Load Fund
+2021-03-02 11:38:25,Buy,672402,AAAAX,Mutual Funds,Jane Davis,CT,06070,Simsbury,15104,119188,Multi-3,Money Market
+2021-06-09 11:29:36,Buy,977708,C,Equity,Mary Shelly,CT,06807,Cos Cob,7150,141371,Multi-2,GTC
+2022-01-22 10:24:49,Sell,70733,MMKBX,Mutual Funds,John Smith,NY,10006,New York,3011,119274,Single,Front Load Fund
+2021-08-18 11:07:45,Buy,451725,AAAAX,Mutual Funds,Cathy Jones,NJ,08540,Princeton,47115,125439,Multi-4,IMM
+2021-10-03 13:57:30,Buy,647846,COST,Equity,Mary Shelly,NY,11530,Garden City,27273,135370,Multi-2,GTC
+2021-03-16 11:14:39,Buy,112022,MMKBX,Mutual Funds,Jane Davis,CT,06836,Greenwich,None,None,Multi-3,IMM
+2022-02-06 12:35:33,Sell,622388,CALCI,Mutual Funds,Nicro Brown,CT,06836,Greenwich,None,None,Multi-4,Offshore
+2021-04-09 13:15:04,Buy,236496,COST,Equity,Nicro Brown,NY,10007,New York,6988,216037,Multi-4,Market On Close
+2021-02-17 11:37:16,Buy,424280,C,Equity,David Lopez,NJ,07632,Englewood Cliffs,5309,113802,Multi-2,GTC
+2022-02-05 12:17:32,Sell,249922,GOOG,Equity,Mary Shelly,CT,06830,Greenwich,24027,109860,Multi-2,GTC
+2021-08-13 11:55:12,Buy,481184,C,Equity,Cathy Jones,NJ,08540,Princeton,47115,125439,Multi-4,Market On Close
+2021-12-07 13:35:30,Buy,666703,COST,Equity,Cathy Jones,CT,06807,Cos Cob,7150,141371,Multi-4,Market On Close
+2021-01-13 13:00:08,Buy,573860,COST,Equity,Jay Miller,NY,10023,New York,60998,103534,Single,Day
+2021-06-16 13:05:11,Buy,499739,AAATX,Mutual Funds,Mary Shelly,CT,06901,Stamford,6828,59118,Multi-2,Money Market
+2021-06-18 11:29:17,Buy,625046,ASRAX,Mutual Funds,Mary Shelly,CT,06901,Stamford,6828,59118,Multi-2,Money Market
+2022-02-11 12:23:10,Sell,353099,GOOG,Equity,Nicro Brown,CT,06510,New Haven,2737,42656,Multi-4,Market On Close
+2022-02-13 10:13:12,Sell,496206,MS,Equity,Mary Shelly,NJ,07020,Edgewater,11513,101934,Multi-2,GTC
+2021-12-15 09:23:38,Buy,866996,AAPL,Equity,Nicro Brown,CT,06830,Greenwich,24027,109860,Multi-4,Market On Close
+2022-02-04 10:07:31,Sell,743288,AAATX,Mutual Funds,Cathy Jones,NJ,08540,Princeton,47115,125439,Multi-4,Offshore
+2021-07-01 09:06:28,Buy,680313,AAPL,Equity,Peter Williams,NY,10023,New York,60998,103534,Multi-3,At The Opening
+2022-02-05 12:37:04,Sell,485716,GOOG,Equity,David Lopez,NJ,07632,Englewood Cliffs,5309,113802,Multi-2,GTC
+2021-01-28 13:24:27,Buy,127203,ASRAX,Mutual Funds,Jay Miller,NY,11530,Garden City,27273,135370,Single,Money Market
+2021-07-05 11:06:28,Buy,293989,C,Equity,Jane Davis,NY,11946,Hampton Bays,14068,72023,Multi-3,At The Opening
+2021-03-14 11:38:13,Buy,996846,CALCI,Mutual Funds,Jane Davis,CT,06070,Simsbury,15104,119188,Multi-3,IMM
+2021-03-26 09:26:21,Buy,208025,AAATX,Mutual Funds,Peter Williams,CT,06836,Greenwich,None,None,Multi-3,IMM
+2021-04-07 13:39:34,Buy,715841,COST,Equity,Nicro Brown,NY,11530,Garden City,27273,135370,Multi-4,Market On Close
+2022-01-03 10:30:30,Sell,712034,MS,Equity,Peter Williams,NY,11753,Jericho,12014,153438,Multi-3,At The Opening
+2021-02-17 09:25:16,Buy,73671,AAPL,Equity,Mary Shelly,NJ,07020,Edgewater,11513,101934,Multi-2,GTC
+2021-07-15 13:30:10,Buy,251372,COST,Equity,Jane Davis,NY,11946,Hampton Bays,14068,72023,Multi-3,At The Opening
+2022-02-07 10:21:30,Sell,235419,MS,Equity,Mary Shelly,NY,11753,Jericho,12014,153438,Multi-2,GTC
+2021-01-22 11:36:17,Buy,299140,ASRAX,Mutual Funds,John Smith,NY,11030,Manhasset,17962,172266,Single,IMM
+2021-10-24 13:57:51,Buy,286072,AAATX,Mutual Funds,Mary Shelly,NY,11946,Hampton Bays,14068,72023,Multi-2,Money Market
+2021-09-19 09:44:18,Buy,683890,AAPL,Equity,Jay Miller,CT,06807,Cos Cob,7150,141371,Single,Day
+2021-10-20 09:21:47,Buy,509690,ASRAX,Mutual Funds,David Lopez,NY,11946,Hampton Bays,14068,72023,Multi-2,IMM
+2021-01-11 11:12:38,Buy,895837,C,Equity,John Smith,NY,11530,Garden City,27273,135370,Single,Day
+2022-01-25 12:16:24,Sell,112544,GOOG,Equity,Jay Miller,NJ,07097,Jersey City,None,None,Single,Day
+2021-11-17 13:34:16,Buy,805438,COST,Equity,Jane Davis,NJ,07024,Fort Lee,35353,71949,Multi-3,At The Opening
+2022-01-24 10:32:51,Sell,156373,AAATX,Mutual Funds,John Smith,CT,06836,Greenwich,None,None,Single,Front Load Fund
+2022-01-28 12:46:27,Sell,516291,ASRAX,Mutual Funds,Jane Davis,NJ,07024,Fort Lee,35353,71949,Multi-3,Front Load Fund
+2021-11-08 11:34:31,Buy,351468,AAATX,Mutual Funds,Jane Davis,NJ,07024,Fort Lee,35353,71949,Multi-3,Money Market
+2022-01-05 14:10:28,Sell,701616,BAC,Equity,Jane Davis,NJ,07024,Fort Lee,35353,71949,Multi-3,At The Opening
+2022-01-26 10:06:25,Sell,13403,AAAAX,Mutual Funds,Peter Williams,NY,10021,New York,43631,107907,Multi-3,Front Load Fund
+2021-03-24 11:14:19,Buy,166740,MMKBX,Mutual Funds,Peter Williams,CT,06070,Simsbury,15104,119188,Multi-3,Money Market
+2022-01-12 10:36:35,Sell,625355,AAAAX,Mutual Funds,John Smith,NY,10024,New York,59283,109956,Single,Front Load Fund
+2022-02-06 10:19:01,Sell,286952,AAATX,Mutual Funds,Cathy Jones,NJ,08540,Princeton,47115,125439,Multi-4,Offshore
+2022-01-14 12:54:37,Sell,301141,ASRAX,Mutual Funds,Jane Davis,NY,11576,Roslyn,12366,150161,Multi-3,Front Load Fund
+2021-02-28 11:13:23,Buy,349794,CALCI,Mutual Funds,Mary Shelly,NJ,07020,Edgewater,11513,101934,Multi-2,IMM
+2022-01-07 12:02:30,Sell,994057,GOOG,Equity,Peter Williams,CT,06807,Cos Cob,7150,141371,Multi-3,At The Opening
+2022-01-07 14:10:06,Sell,135453,BAC,Equity,Peter Williams,NJ,07050,Orange,30074,34965,Multi-3,At The Opening
+2021-06-17 13:41:12,Buy,483674,COST,Equity,Mary Shelly,CT,06807,Cos Cob,7150,141371,Multi-2,GTC
+2021-02-16 11:13:43,Buy,873408,CALCI,Mutual Funds,Mary Shelly,NJ,07020,Edgewater,11513,101934,Multi-2,Money Market
+2022-01-05 14:36:28,Sell,13363,BAC,Equity,Jay Miller,NY,10006,New York,3011,119274,Single,Day
+2021-09-17 13:32:16,Buy,463881,COST,Equity,John Smith,CT,06510,New Haven,2737,42656,Single,Day
+2022-02-16 10:37:11,Sell,157070,AAATX,Mutual Funds,Mary Shelly,NJ,07020,Edgewater,11513,101934,Multi-2,Front Load Fund
+2022-01-25 12:16:24,Sell,866820,GOOG,Equity,John Smith,NJ,07010,Cliffside Park,23594,62364,Single,Day
+2022-01-10 14:14:37,Sell,598694,ASRAX,Mutual Funds,Peter Williams,CT,06070,Simsbury,15104,119188,Multi-3,Front Load Fund
+2021-05-07 09:16:30,Buy,251740,AAPL,Equity,Jay Miller,NJ,07097,Jersey City,None,None,Single,Day
+2021-09-28 13:44:27,Buy,197173,ASRAX,Mutual Funds,Jay Miller,CT,06836,Greenwich,None,None,Single,IMM
+2022-01-24 10:22:23,Sell,325128,CALCI,Mutual Funds,Peter Williams,NJ,07050,Orange,30074,34965,Multi-3,Offshore
+2021-01-02 13:24:29,Buy,228936,MMKBX,Mutual Funds,Jay Miller,NY,10023,New York,60998,103534,Single,Money Market
+2022-02-19 10:21:46,Sell,424565,MS,Equity,David Lopez,NY,11753,Jericho,12014,153438,Multi-2,GTC
+2022-01-04 14:32:27,Sell,800506,ASRAX,Mutual Funds,John Smith,CT,06836,Greenwich,None,None,Single,Offshore
+2022-02-12 12:17:35,Sell,599179,AAAAX,Mutual Funds,Mary Shelly,CT,06901,Stamford,6828,59118,Multi-2,Front Load Fund
+2021-03-01 09:38:24,Buy,433115,AAPL,Equity,Peter Williams,CT,06807,Cos Cob,7150,141371,Multi-3,At The Opening
+2022-02-04 12:47:03,Sell,583951,CALCI,Mutual Funds,Cathy Jones,CT,06836,Greenwich,None,None,Multi-4,Offshore
+2021-02-28 09:25:55,Buy,434091,AAAAX,Mutual Funds,David Lopez,NJ,07632,Englewood Cliffs,5309,113802,Multi-2,Money Market
+2022-02-02 14:35:57,Sell,893652,ASRAX,Mutual Funds,Nicro Brown,CT,06836,Greenwich,None,None,Multi-4,Offshore
+2021-06-12 13:41:11,Buy,963059,AAATX,Mutual Funds,Mary Shelly,CT,06901,Stamford,6828,59118,Multi-2,IMM
+2022-02-04 14:13:03,Sell,259137,CALCI,Mutual Funds,Mary Shelly,NJ,07020,Edgewater,11513,101934,Multi-2,Offshore
+2021-10-22 11:33:17,Buy,880770,ASRAX,Mutual Funds,David Lopez,NY,11030,Manhasset,17962,172266,Multi-2,IMM
+2022-02-01 12:43:56,Sell,657554,GOOG,Equity,Nicro Brown,NJ,07078,Short Hills,13250,223214,Multi-4,Market On Close
+2021-12-10 09:59:09,Buy,702004,MMKBX,Mutual Funds,Nicro Brown,CT,06836,Greenwich,None,None,Multi-4,Money Market
+2022-02-23 12:43:22,Sell,395310,GOOG,Equity,Nicro Brown,NJ,07078,Short Hills,13250,223214,Multi-4,Market On Close
+2022-01-10 10:06:37,Sell,452276,ASRAX,Mutual Funds,Peter Williams,NY,10024,New York,59283,109956,Multi-3,Offshore
+2022-01-21 10:18:16,Sell,208123,MS,Equity,Peter Williams,NY,10006,New York,3011,119274,Multi-3,At The Opening
+2022-01-09 10:22:36,Sell,79556,MS,Equity,Jane Davis,NJ,07024,Fort Lee,35353,71949,Multi-3,At The Opening
+2021-05-24 11:16:23,Buy,716576,CALCI,Mutual Funds,John Smith,NJ,07010,Cliffside Park,23594,62364,Single,IMM
+2021-05-08 13:16:31,Buy,403983,AAATX,Mutual Funds,John Smith,NJ,07010,Cliffside Park,23594,62364,Single,Money Market
+2022-01-02 14:12:25,Sell,355637,AAAAX,Mutual Funds,Jay Miller,NY,11753,Jericho,12014,153438,Single,Front Load Fund
+2022-01-06 10:42:33,Sell,491820,CALCI,Mutual Funds,Peter Williams,NY,11753,Jericho,12014,153438,Multi-3,Offshore
+2022-02-25 12:35:24,Sell,747332,GOOG,Equity,Cathy Jones,CT,06807,Cos Cob,7150,141371,Multi-4,Market On Close
+2022-02-22 10:35:21,Sell,392808,AAATX,Mutual Funds,Cathy Jones,CT,06836,Greenwich,None,None,Multi-4,Front Load Fund
+2022-02-19 14:55:18,Sell,914407,BAC,Equity,Cathy Jones,NJ,08540,Princeton,47115,125439,Multi-4,Market On Close
+2021-11-08 13:58:03,Buy,513914,CALCI,Mutual Funds,Peter Williams,NJ,07050,Orange,30074,34965,Multi-3,IMM
+2021-06-15 11:17:38,Buy,946531,C,Equity,David Lopez,CT,06830,Greenwich,24027,109860,Multi-2,GTC
+2022-02-05 10:27:28,Sell,804481,MS,Equity,Nicro Brown,NY,10021,New York,43631,107907,Multi-4,Market On Close
+2021-03-14 13:50:41,Buy,961868,AAATX,Mutual Funds,Peter Williams,CT,06901,Stamford,6828,59118,Multi-3,Money Market
+2022-02-04 12:25:31,Sell,217451,AAATX,Mutual Funds,David Lopez,NJ,07632,Englewood Cliffs,5309,113802,Multi-2,Offshore
+2022-01-03 12:18:30,Sell,235213,GOOG,Equity,Jane Davis,NY,11753,Jericho,12014,153438,Multi-3,At The Opening
+2022-02-11 12:33:38,Sell,868036,GOOG,Equity,Mary Shelly,NY,10024,New York,59283,109956,Multi-2,GTC
+2022-01-18 10:40:17,Sell,849232,ASRAX,Mutual Funds,Jay Miller,NJ,07097,Jersey City,None,None,Single,Front Load Fund
+2022-02-07 10:09:02,Sell,902207,MS,Equity,David Lopez,NY,10006,New York,3011,119274,Multi-2,GTC
+2021-01-18 13:36:17,Buy,342186,ASRAX,Mutual Funds,John Smith,NY,10023,New York,60998,103534,Single,IMM
+2021-05-08 13:16:35,Buy,777125,AAAAX,Mutual Funds,Jay Miller,NJ,07097,Jersey City,None,None,Single,Money Market
+2021-03-07 11:50:30,Buy,354707,C,Equity,Peter Williams,CT,06807,Cos Cob,7150,141371,Multi-3,At The Opening
+2022-01-20 10:06:15,Sell,812431,AAAAX,Mutual Funds,Peter Williams,NY,10006,New York,3011,119274,Multi-3,Offshore
+2022-01-10 10:46:33,Sell,755842,CALCI,Mutual Funds,Jane Davis,NJ,07024,Fort Lee,35353,71949,Multi-3,Front Load Fund
+2021-03-08 13:02:07,Buy,61282,ASRAX,Mutual Funds,Peter Williams,CT,06070,Simsbury,15104,119188,Multi-3,Money Market
+2021-10-10 09:33:33,Buy,119319,CALCI,Mutual Funds,David Lopez,NY,11030,Manhasset,17962,172266,Multi-2,Money Market
+2022-01-12 14:14:07,Sell,222054,ASRAX,Mutual Funds,Peter Williams,CT,06070,Simsbury,15104,119188,Multi-3,Offshore
+2022-01-12 14:30:39,Sell,180925,MMKBX,Mutual Funds,Jane Davis,NY,10021,New York,43631,107907,Multi-3,Offshore
+2021-01-07 13:48:02,Buy,443707,COST,Equity,John Smith,NY,10007,New York,6988,216037,Single,Day
+2022-01-23 12:32:50,Sell,51779,GOOG,Equity,John Smith,CT,06830,Greenwich,24027,109860,Single,Day
+2021-12-01 09:23:56,Buy,424226,AAPL,Equity,Cathy Jones,CT,06830,Greenwich,24027,109860,Multi-4,Market On Close
+2022-02-01 10:29:00,Sell,762744,MS,Equity,David Lopez,CT,06807,Cos Cob,7150,141371,Multi-2,GTC
+2021-09-12 13:08:35,Buy,940324,AAAAX,Mutual Funds,John Smith,CT,06901,Stamford,6828,59118,Single,IMM
+2021-12-09 09:59:04,Buy,828693,AAPL,Equity,Nicro Brown,CT,06510,New Haven,2737,42656,Multi-4,Market On Close
+2021-10-04 13:21:59,Buy,779032,MMKBX,Mutual Funds,Mary Shelly,NY,11030,Manhasset,17962,172266,Multi-2,Money Market

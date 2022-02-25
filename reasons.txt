@@ -1,0 +1,1000 @@
+2022-02-19 12:27:18,Mutual Funds,Trade blocked by Lydia as security is held below the line (e.g. MS securities, ineligible ETFs or restricted securities)
+2021-07-03 13:18:26,Options,Account opened today (and therefore blocked at order entry)
+2022-01-14 14:06:13,Fixed Income,Security symbol is invalid / not applicable / new (and therefore blocked at order entry)
+2021-10-18 11:21:45,Options,Trade blocked by Lydia as security is held below the line (e.g. MS securities, ineligible ETFs or restricted securities)
+2022-01-14 12:02:41,Options,Account opened today (and therefore blocked at order entry)
+2022-02-10 10:07:33,UIT,System outage
+2022-01-23 12:30:50,Fixed Income,Account opened today (and therefore blocked at order entry)
+2022-01-07 10:04:34,Equity,Trade blocked by CGA portal (e.g. MS securities)
+2021-05-03 11:16:30,Equity,System outage
+2021-02-22 09:37:49,Mutual Funds,Security symbol is invalid / not applicable / new (and therefore blocked at order entry)
+2022-01-17 14:10:12,Options,Trade blocked by Lydia as security is held below the line (e.g. MS securities, ineligible ETFs or restricted securities)
+2021-10-11 13:09:34,Equity,Security symbol is invalid / not applicable / new (and therefore blocked at order entry)
+2021-01-11 11:12:34,Equity,Security symbol is invalid / not applicable / new (and therefore blocked at order entry)
+2022-01-05 12:10:04,Fixed Income,Security symbol is invalid / not applicable / new (and therefore blocked at order entry)
+2022-01-03 12:02:02,Options,An approved PEPE exception exists for this trade (please provide exception #)
+2021-08-03 11:07:58,Equity,Security symbol is invalid / not applicable / new (and therefore blocked at order entry)
+2022-02-08 14:57:35,UIT,Solicited Inverse or Leveraged ETF trade in an employee or employee related account
+2021-08-13 11:19:12,Fixed Income,System outage
+2021-10-04 09:21:59,Mutual Funds,Account opened today (and therefore blocked at order entry)
+2021-02-10 09:49:05,Equity,An approved PEPE exception exists for this trade (please provide exception #)
+2022-02-18 10:35:17,Options,Solicited Inverse or Leveraged ETF trade in an employee or employee related account
+2021-01-10 13:48:09,Mutual Funds,Trade blocked by Lydia as security is held below the line (e.g. MS securities, ineligible ETFs or restricted securities)
+2022-02-18 14:17:17,Options,Solicited Inverse or Leveraged ETF trade in an employee or employee related account
+2021-03-15 13:14:10,Fixed Income,Trade blocked by CGA portal (e.g. MS securities)
+2022-01-24 10:00:19,Options,Trade blocked by CGA portal (e.g. MS securities)
+2022-02-04 10:39:03,Fixed Income,System outage
+2022-01-17 12:16:44,Mutual Funds,Solicited Inverse or Leveraged ETF trade in an employee or employee related account
+2022-01-23 10:40:50,UIT,Account opened today (and therefore blocked at order entry)
+2022-01-21 12:44:48,Mutual Funds,System outage
+2022-02-16 12:03:43,Options,Trade blocked by CGA portal (e.g. MS securities)
+2022-01-13 14:10:40,Fixed Income,Security symbol is invalid / not applicable / new (and therefore blocked at order entry)
+2021-03-13 09:26:12,Options,System outage
+2021-05-07 13:40:02,Options,Solicited Inverse or Leveraged ETF trade in an employee or employee related account
+2021-08-08 11:31:07,Mutual Funds,Trade blocked by CGA portal (e.g. MS securities)
+2022-02-19 10:23:18,UIT,Trade blocked by Lydia as security is held below the line (e.g. MS securities, ineligible ETFs or restricted securities)
+2021-06-26 09:17:53,Equity,Solicited Inverse or Leveraged ETF trade in an employee or employee related account
+2022-01-10 12:30:05,Equity,An approved PEPE exception exists for this trade (please provide exception #)
+2022-02-28 10:51:23,Mutual Funds,An approved PEPE exception exists for this trade (please provide exception #)
+2022-02-13 12:25:08,Options,Account opened today (and therefore blocked at order entry)
+2021-11-10 11:22:05,UIT,An approved PEPE exception exists for this trade (please provide exception #)
+2021-01-16 11:00:43,Mutual Funds,Trade blocked by CGA portal (e.g. MS securities)
+2021-03-12 09:02:39,Equity,System outage
+2022-01-01 14:40:56,Options,An approved PEPE exception exists for this trade (please provide exception #)
+2022-02-07 12:57:30,Fixed Income,Trade blocked by Lydia as security is held below the line (e.g. MS securities, ineligible ETFs or restricted securities)
+2022-01-01 14:38:56,Equity,An approved PEPE exception exists for this trade (please provide exception #)
+2022-02-04 10:45:31,Equity,Security symbol is invalid / not applicable / new (and therefore blocked at order entry)
+2021-10-09 09:21:04,UIT,FA/CSA registration process not refreshed real time
+2021-05-10 13:28:33,Mutual Funds,System outage
+2021-10-14 11:09:41,UIT,Account opened today (and therefore blocked at order entry)
+2022-01-14 14:42:41,UIT,Account opened today (and therefore blocked at order entry)
+2021-06-07 09:53:30,Options,Trade blocked by Lydia as security is held below the line (e.g. MS securities, ineligible ETFs or restricted securities)
+2021-05-08 11:40:35,Mutual Funds,Solicited Inverse or Leveraged ETF trade in an employee or employee related account
+2021-05-02 13:52:29,UIT,An approved PEPE exception exists for this trade (please provide exception #)
+2022-02-07 12:17:02,Fixed Income,Solicited Inverse or Leveraged ETF trade in an employee or employee related account
+2022-01-15 12:32:10,UIT,Trade blocked by CGA portal (e.g. MS securities)
+2022-01-11 14:50:10,Mutual Funds,FA/CSA registration process not refreshed real time
+2022-01-06 10:06:05,Equity,Account opened today (and therefore blocked at order entry)
+2021-10-16 13:09:15,Equity,Account Red Flagged for escheatment. Security sold to cover a cash debit
+2022-02-09 14:25:32,Options,An approved PEPE exception exists for this trade (please provide exception #)
+2021-10-22 11:33:17,Equity,Account opened today (and therefore blocked at order entry)
+2022-01-08 12:36:03,UIT,Trade blocked by Lydia as security is held below the line (e.g. MS securities, ineligible ETFs or restricted securities)
+2021-04-03 09:15:26,UIT,Account opened today (and therefore blocked at order entry)
+2022-01-18 14:00:17,Options,Solicited Inverse or Leveraged ETF trade in an employee or employee related account
+2022-01-10 12:02:09,Fixed Income,Trade blocked by Lydia as security is held below the line (e.g. MS securities, ineligible ETFs or restricted securities)
+2022-01-22 10:26:17,Equity,Account opened today (and therefore blocked at order entry)
+2021-04-27 09:03:22,Mutual Funds,FA/CSA registration process not refreshed real time
+2022-02-17 12:07:12,Equity,Trade blocked by Lydia as security is held below the line (e.g. MS securities, ineligible ETFs or restricted securities)
+2021-03-11 09:02:38,Equity,An approved PEPE exception exists for this trade (please provide exception #)
+2022-02-18 12:21:17,Fixed Income,Solicited Inverse or Leveraged ETF trade in an employee or employee related account
+2021-02-22 13:25:21,Options,System outage
+2022-01-09 10:04:36,Fixed Income,Trade blocked by Lydia as security is held below the line (e.g. MS securities, ineligible ETFs or restricted securities)
+2022-02-11 14:19:34,UIT,Security symbol is invalid / not applicable / new (and therefore blocked at order entry)
+2021-09-13 13:20:12,UIT,System outage
+2022-01-22 14:56:49,Mutual Funds,Security symbol is invalid / not applicable / new (and therefore blocked at order entry)
+2022-01-17 10:52:16,Options,Trade blocked by CGA portal (e.g. MS securities)
+2022-02-06 10:19:29,Equity,Solicited Inverse or Leveraged ETF trade in an employee or employee related account
+2021-04-16 13:15:11,Equity,Solicited Inverse or Leveraged ETF trade in an employee or employee related account
+2021-04-08 11:51:31,UIT,FA/CSA registration process not refreshed real time
+2022-02-08 12:15:31,Fixed Income,FA/CSA registration process not refreshed real time
+2021-03-10 09:14:37,Equity,FA/CSA registration process not refreshed real time
+2021-09-03 13:56:26,Equity,Account opened today (and therefore blocked at order entry)
+2021-12-12 13:59:39,UIT,System outage
+2021-06-06 09:53:01,Mutual Funds,Trade blocked by CGA portal (e.g. MS securities)
+2021-05-24 13:16:19,UIT,Trade blocked by CGA portal (e.g. MS securities)
+2022-02-28 12:01:27,Options,Trade blocked by Lydia as security is held below the line (e.g. MS securities, ineligible ETFs or restricted securities)
+2021-04-21 09:03:16,Mutual Funds,Security symbol is invalid / not applicable / new (and therefore blocked at order entry)
+2021-08-20 11:07:19,Fixed Income,FA/CSA registration process not refreshed real time
+2022-02-21 10:49:48,Options,System outage
+2021-08-19 13:19:46,Equity,FA/CSA registration process not refreshed real time
+2021-11-05 09:34:04,Mutual Funds,Security symbol is invalid / not applicable / new (and therefore blocked at order entry)
+2021-01-14 11:12:41,Mutual Funds,Account opened today (and therefore blocked at order entry)
+2022-01-22 12:28:17,Mutual Funds,Account opened today (and therefore blocked at order entry)
+2022-02-15 12:29:42,Mutual Funds,Account Red Flagged for escheatment. Security sold to cover a cash debit
+2022-01-04 10:16:31,Equity,Security symbol is invalid / not applicable / new (and therefore blocked at order entry)
+2022-02-19 14:23:18,Mutual Funds,Trade blocked by Lydia as security is held below the line (e.g. MS securities, ineligible ETFs or restricted securities)
+2021-07-03 09:54:30,Mutual Funds,System outage
+2022-02-03 14:57:58,Fixed Income,Security symbol is invalid / not applicable / new (and therefore blocked at order entry)
+2022-01-13 12:28:40,UIT,Security symbol is invalid / not applicable / new (and therefore blocked at order entry)
+2022-01-06 10:56:29,UIT,Solicited Inverse or Leveraged ETF trade in an employee or employee related account
+2021-07-13 11:18:12,UIT,System outage
+2022-02-19 10:35:46,Options,FA/CSA registration process not refreshed real time
+2021-12-14 13:47:13,UIT,Security symbol is invalid / not applicable / new (and therefore blocked at order entry)
+2021-05-21 11:16:48,Fixed Income,System outage
+2022-02-15 10:01:42,Mutual Funds,Account Red Flagged for escheatment. Security sold to cover a cash debit
+2021-08-22 09:07:21,Options,System outage
+2021-11-20 09:34:19,Mutual Funds,FA/CSA registration process not refreshed real time
+2022-01-11 12:42:10,Fixed Income,FA/CSA registration process not refreshed real time
+2022-02-16 10:17:39,Equity,Trade blocked by Lydia as security is held below the line (e.g. MS securities, ineligible ETFs or restricted securities)
+2022-02-01 12:39:00,Equity,Trade blocked by Lydia as security is held below the line (e.g. MS securities, ineligible ETFs or restricted securities)
+2022-02-15 10:05:14,Options,Account opened today (and therefore blocked at order entry)
+2022-01-05 10:40:04,Mutual Funds,Security symbol is invalid / not applicable / new (and therefore blocked at order entry)
+2022-01-07 12:20:02,Equity,Solicited Inverse or Leveraged ETF trade in an employee or employee related account
+2021-01-04 09:00:31,Equity,Security symbol is invalid / not applicable / new (and therefore blocked at order entry)
+2022-02-23 14:39:18,Equity,Account Red Flagged for escheatment. Security sold to cover a cash debit
+2021-05-15 09:52:42,UIT,Account Red Flagged for escheatment. Security sold to cover a cash debit
+2022-01-24 12:22:23,UIT,Account opened today (and therefore blocked at order entry)
+2021-04-16 09:27:43,UIT,Trade blocked by CGA portal (e.g. MS securities)
+2021-04-26 09:27:21,Fixed Income,Trade blocked by Lydia as security is held below the line (e.g. MS securities, ineligible ETFs or restricted securities)
+2021-06-21 13:41:16,Fixed Income,Security symbol is invalid / not applicable / new (and therefore blocked at order entry)
+2022-01-13 10:36:40,UIT,Security symbol is invalid / not applicable / new (and therefore blocked at order entry)
+2022-01-02 12:16:01,Mutual Funds,FA/CSA registration process not refreshed real time
+2022-02-03 10:13:26,Mutual Funds,Account opened today (and therefore blocked at order entry)
+2022-02-22 14:15:49,Mutual Funds,Security symbol is invalid / not applicable / new (and therefore blocked at order entry)
+2021-09-10 11:08:09,Options,Trade blocked by Lydia as security is held below the line (e.g. MS securities, ineligible ETFs or restricted securities)
+2021-12-02 11:23:01,Fixed Income,FA/CSA registration process not refreshed real time
+2021-08-12 11:19:35,Fixed Income,Account opened today (and therefore blocked at order entry)
+2022-01-21 14:20:48,Fixed Income,System outage
+2021-01-26 09:36:53,Equity,Solicited Inverse or Leveraged ETF trade in an employee or employee related account
+2022-02-02 12:09:29,Fixed Income,An approved PEPE exception exists for this trade (please provide exception #)
+2022-02-26 14:19:25,Equity,Trade blocked by CGA portal (e.g. MS securities)
+2021-04-03 11:03:30,Mutual Funds,System outage
+2022-01-17 14:20:40,Options,FA/CSA registration process not refreshed real time
+2022-01-15 10:08:38,Mutual Funds,Solicited Inverse or Leveraged ETF trade in an employee or employee related account
+2021-07-02 13:30:25,Options,Security symbol is invalid / not applicable / new (and therefore blocked at order entry)
+2021-05-06 11:28:29,Options,Solicited Inverse or Leveraged ETF trade in an employee or employee related account
+2022-02-09 12:19:32,Mutual Funds,An approved PEPE exception exists for this trade (please provide exception #)
+2022-01-05 14:54:28,Fixed Income,Trade blocked by CGA portal (e.g. MS securities)
+2022-01-21 14:26:20,UIT,An approved PEPE exception exists for this trade (please provide exception #)
+2022-01-17 12:40:44,Fixed Income,Solicited Inverse or Leveraged ETF trade in an employee or employee related account
+2022-01-22 10:16:21,Options,System outage
+2021-07-06 13:18:01,Equity,Trade blocked by CGA portal (e.g. MS securities)
+2021-05-16 11:04:11,Equity,Solicited Inverse or Leveraged ETF trade in an employee or employee related account
+2022-01-10 12:26:05,Mutual Funds,An approved PEPE exception exists for this trade (please provide exception #)
+2021-11-25 09:46:52,Fixed Income,Trade blocked by CGA portal (e.g. MS securities)
+2021-06-02 09:29:25,Equity,Security symbol is invalid / not applicable / new (and therefore blocked at order entry)
+2021-12-27 09:35:26,Fixed Income,Solicited Inverse or Leveraged ETF trade in an employee or employee related account
+2021-04-20 11:39:19,Options,FA/CSA registration process not refreshed real time
+2021-06-17 09:41:44,Options,Solicited Inverse or Leveraged ETF trade in an employee or employee related account
+2021-06-10 11:05:37,Mutual Funds,FA/CSA registration process not refreshed real time
+2021-10-10 13:21:05,Equity,An approved PEPE exception exists for this trade (please provide exception #)
+2021-05-03 13:04:02,Mutual Funds,An approved PEPE exception exists for this trade (please provide exception #)
+2022-02-16 12:31:15,Fixed Income,Account Red Flagged for escheatment. Security sold to cover a cash debit
+2022-01-01 12:14:00,Mutual Funds,Trade blocked by Lydia as security is held below the line (e.g. MS securities, ineligible ETFs or restricted securities)
+2021-04-01 13:39:28,UIT,FA/CSA registration process not refreshed real time
+2022-02-24 12:09:51,Mutual Funds,Account Red Flagged for escheatment. Security sold to cover a cash debit
+2021-01-15 11:36:42,Fixed Income,Account Red Flagged for escheatment. Security sold to cover a cash debit
+2022-01-18 14:12:45,UIT,Trade blocked by Lydia as security is held below the line (e.g. MS securities, ineligible ETFs or restricted securities)
+2021-11-03 13:46:58,Options,Security symbol is invalid / not applicable / new (and therefore blocked at order entry)
+2022-02-17 10:53:16,Mutual Funds,Trade blocked by CGA portal (e.g. MS securities)
+2022-01-27 10:52:26,Mutual Funds,Solicited Inverse or Leveraged ETF trade in an employee or employee related account
+2021-02-26 13:37:25,Mutual Funds,Trade blocked by CGA portal (e.g. MS securities)
+2021-05-07 11:40:30,Mutual Funds,Trade blocked by Lydia as security is held below the line (e.g. MS securities, ineligible ETFs or restricted securities)
+2022-02-12 14:51:35,Equity,Account opened today (and therefore blocked at order entry)
+2021-07-02 11:18:29,UIT,An approved PEPE exception exists for this trade (please provide exception #)
+2021-03-06 11:38:33,Options,Account Red Flagged for escheatment. Security sold to cover a cash debit
+2022-02-04 14:05:03,Fixed Income,System outage
+2021-09-22 09:44:49,Mutual Funds,Security symbol is invalid / not applicable / new (and therefore blocked at order entry)
+2022-01-17 12:34:12,Mutual Funds,Trade blocked by Lydia as security is held below the line (e.g. MS securities, ineligible ETFs or restricted securities)
+2021-10-03 09:21:02,Equity,An approved PEPE exception exists for this trade (please provide exception #)
+2021-04-15 11:15:42,Equity,Account Red Flagged for escheatment. Security sold to cover a cash debit
+2022-01-04 10:34:59,Mutual Funds,Account opened today (and therefore blocked at order entry)
+2021-02-06 11:37:05,Options,Account opened today (and therefore blocked at order entry)
+2021-09-16 13:20:11,Mutual Funds,Solicited Inverse or Leveraged ETF trade in an employee or employee related account
+2021-02-24 11:37:51,Options,Account Red Flagged for escheatment. Security sold to cover a cash debit
+2022-02-18 12:21:17,UIT,Solicited Inverse or Leveraged ETF trade in an employee or employee related account
+2022-02-25 10:21:20,UIT,Solicited Inverse or Leveraged ETF trade in an employee or employee related account
+2021-01-16 11:36:15,Mutual Funds,Account Red Flagged for escheatment. Security sold to cover a cash debit
+2022-02-20 10:35:15,Options,System outage
+2021-05-22 11:16:49,UIT,Security symbol is invalid / not applicable / new (and therefore blocked at order entry)
+2021-11-02 13:34:57,Options,System outage
+2022-01-14 10:00:09,Options,Account Red Flagged for escheatment. Security sold to cover a cash debit
+2022-02-20 14:37:19,Options,FA/CSA registration process not refreshed real time
+2021-09-20 09:44:19,Options,FA/CSA registration process not refreshed real time
+2022-01-08 14:06:07,UIT,Trade blocked by CGA portal (e.g. MS securities)
+2022-01-25 10:16:24,Equity,Account Red Flagged for escheatment. Security sold to cover a cash debit
+2021-08-15 13:19:14,Fixed Income,Account opened today (and therefore blocked at order entry)
+2022-01-23 10:56:18,Mutual Funds,Account Red Flagged for escheatment. Security sold to cover a cash debit
+2022-02-18 14:19:45,Fixed Income,Trade blocked by Lydia as security is held below the line (e.g. MS securities, ineligible ETFs or restricted securities)
+2021-10-26 11:21:21,Mutual Funds,Trade blocked by Lydia as security is held below the line (e.g. MS securities, ineligible ETFs or restricted securities)
+2021-05-26 13:16:53,Options,Solicited Inverse or Leveraged ETF trade in an employee or employee related account
+2021-06-21 11:05:20,Fixed Income,An approved PEPE exception exists for this trade (please provide exception #)
+2021-05-19 13:40:14,Mutual Funds,An approved PEPE exception exists for this trade (please provide exception #)
+2021-12-10 13:47:37,Equity,FA/CSA registration process not refreshed real time
+2021-10-03 11:21:58,Equity,Security symbol is invalid / not applicable / new (and therefore blocked at order entry)
+2022-01-05 14:06:32,UIT,Account opened today (and therefore blocked at order entry)
+2021-06-13 11:05:40,Fixed Income,Security symbol is invalid / not applicable / new (and therefore blocked at order entry)
+2022-02-12 10:45:35,UIT,Account opened today (and therefore blocked at order entry)
+2022-02-17 12:29:40,Options,FA/CSA registration process not refreshed real time
+2021-12-10 09:23:09,UIT,Trade blocked by Lydia as security is held below the line (e.g. MS securities, ineligible ETFs or restricted securities)
+2021-12-02 13:11:29,UIT,An approved PEPE exception exists for this trade (please provide exception #)
+2021-11-04 09:22:31,UIT,Security symbol is invalid / not applicable / new (and therefore blocked at order entry)
+2021-02-15 13:13:38,UIT,Solicited Inverse or Leveraged ETF trade in an employee or employee related account
+2021-04-08 09:39:35,Fixed Income,Solicited Inverse or Leveraged ETF trade in an employee or employee related account
+2022-02-23 12:47:50,Equity,Account opened today (and therefore blocked at order entry)
+2022-02-27 10:37:22,Equity,FA/CSA registration process not refreshed real time
+2021-05-08 09:28:35,Fixed Income,Solicited Inverse or Leveraged ETF trade in an employee or employee related account
+2022-02-28 12:27:55,Fixed Income,FA/CSA registration process not refreshed real time
+2022-02-23 14:31:50,Mutual Funds,Account opened today (and therefore blocked at order entry)
+2022-02-07 10:39:34,Equity,Trade blocked by CGA portal (e.g. MS securities)
+2022-01-12 14:14:39,Mutual Funds,System outage
+2021-09-02 09:32:01,UIT,FA/CSA registration process not refreshed real time
+2022-02-06 10:11:05,Options,Account opened today (and therefore blocked at order entry)
+2021-03-16 13:14:15,Equity,Account Red Flagged for escheatment. Security sold to cover a cash debit
+2021-05-14 09:04:09,Equity,Account Red Flagged for escheatment. Security sold to cover a cash debit
+2022-01-24 12:32:51,UIT,Account Red Flagged for escheatment. Security sold to cover a cash debit
+2021-12-27 09:23:54,Mutual Funds,Trade blocked by Lydia as security is held below the line (e.g. MS securities, ineligible ETFs or restricted securities)
+2021-02-18 11:25:13,Equity,FA/CSA registration process not refreshed real time
+2021-11-09 13:10:32,Equity,An approved PEPE exception exists for this trade (please provide exception #)
+2022-02-11 10:11:38,Equity,An approved PEPE exception exists for this trade (please provide exception #)
+2022-02-01 10:27:28,Options,FA/CSA registration process not refreshed real time
+2021-08-24 13:19:19,UIT,Trade blocked by CGA portal (e.g. MS securities)
+2021-04-27 13:27:54,Options,Trade blocked by Lydia as security is held below the line (e.g. MS securities, ineligible ETFs or restricted securities)
+2022-02-13 12:07:08,Fixed Income,Account opened today (and therefore blocked at order entry)
+2022-02-02 12:17:57,Fixed Income,System outage
+2022-01-21 14:46:20,UIT,An approved PEPE exception exists for this trade (please provide exception #)
+2021-04-14 11:15:13,Options,Security symbol is invalid / not applicable / new (and therefore blocked at order entry)
+2022-02-08 14:01:07,UIT,Trade blocked by CGA portal (e.g. MS securities)
+2021-04-24 13:03:51,UIT,Account Red Flagged for escheatment. Security sold to cover a cash debit
+2022-01-13 12:02:36,Equity,Account Red Flagged for escheatment. Security sold to cover a cash debit
+2021-12-13 13:23:08,Mutual Funds,Account opened today (and therefore blocked at order entry)
+2022-02-03 10:11:02,UIT,An approved PEPE exception exists for this trade (please provide exception #)
+2022-02-09 10:39:04,UIT,FA/CSA registration process not refreshed real time
+2022-02-08 10:19:31,Fixed Income,FA/CSA registration process not refreshed real time
+2021-06-10 13:17:37,Fixed Income,FA/CSA registration process not refreshed real time
+2021-08-23 11:43:18,Equity,Account Red Flagged for escheatment. Security sold to cover a cash debit
+2021-12-07 09:35:34,Fixed Income,Trade blocked by CGA portal (e.g. MS securities)
+2021-06-17 11:05:44,UIT,Solicited Inverse or Leveraged ETF trade in an employee or employee related account
+2021-10-16 09:21:11,UIT,Solicited Inverse or Leveraged ETF trade in an employee or employee related account
+2022-01-06 12:22:01,Mutual Funds,Trade blocked by CGA portal (e.g. MS securities)
+2022-01-18 12:34:45,Options,Trade blocked by Lydia as security is held below the line (e.g. MS securities, ineligible ETFs or restricted securities)
+2021-05-11 11:04:38,UIT,An approved PEPE exception exists for this trade (please provide exception #)
+2021-11-15 11:34:38,Equity,Solicited Inverse or Leveraged ETF trade in an employee or employee related account
+2022-02-01 10:19:00,Equity,Trade blocked by Lydia as security is held below the line (e.g. MS securities, ineligible ETFs or restricted securities)
+2022-01-09 12:08:04,Mutual Funds,FA/CSA registration process not refreshed real time
+2022-01-05 10:32:32,UIT,Account opened today (and therefore blocked at order entry)
+2021-06-10 11:05:33,Equity,System outage
+2022-01-01 10:08:24,Options,System outage
+2021-07-07 11:30:30,Equity,Trade blocked by Lydia as security is held below the line (e.g. MS securities, ineligible ETFs or restricted securities)
+2022-01-04 10:26:31,Options,Security symbol is invalid / not applicable / new (and therefore blocked at order entry)
+2021-11-02 09:46:57,Equity,System outage
+2022-02-21 12:15:20,UIT,An approved PEPE exception exists for this trade (please provide exception #)
+2022-01-02 14:54:01,Mutual Funds,FA/CSA registration process not refreshed real time
+2021-10-05 11:33:04,Mutual Funds,Security symbol is invalid / not applicable / new (and therefore blocked at order entry)
+2022-02-14 10:13:41,UIT,Account opened today (and therefore blocked at order entry)
+2021-03-19 11:02:18,Mutual Funds,Trade blocked by Lydia as security is held below the line (e.g. MS securities, ineligible ETFs or restricted securities)
+2022-02-13 10:35:12,Fixed Income,System outage
+2021-02-12 13:13:39,Equity,System outage
+2021-10-28 09:09:55,Options,FA/CSA registration process not refreshed real time
+2021-02-04 09:37:31,Equity,Security symbol is invalid / not applicable / new (and therefore blocked at order entry)
+2021-12-15 11:11:42,Fixed Income,Account Red Flagged for escheatment. Security sold to cover a cash debit
+2022-02-05 14:31:04,UIT,Security symbol is invalid / not applicable / new (and therefore blocked at order entry)
+2021-03-20 13:50:15,Equity,System outage
+2021-04-10 11:39:37,Options,FA/CSA registration process not refreshed real time
+2021-02-11 13:01:34,Fixed Income,Security symbol is invalid / not applicable / new (and therefore blocked at order entry)
+2021-05-06 11:28:01,Equity,Trade blocked by CGA portal (e.g. MS securities)
+2022-02-21 10:15:48,UIT,System outage
+2022-01-27 12:24:22,Options,FA/CSA registration process not refreshed real time
+2022-02-23 10:53:50,Mutual Funds,Account opened today (and therefore blocked at order entry)
+2022-02-13 10:07:40,Equity,Security symbol is invalid / not applicable / new (and therefore blocked at order entry)
+2021-05-14 13:28:37,Fixed Income,Trade blocked by CGA portal (e.g. MS securities)
+2021-10-06 09:45:05,Mutual Funds,Account opened today (and therefore blocked at order entry)
+2022-01-17 12:24:16,Fixed Income,Trade blocked by CGA portal (e.g. MS securities)
+2022-01-19 10:22:18,Options,Trade blocked by Lydia as security is held below the line (e.g. MS securities, ineligible ETFs or restricted securities)
+2021-10-13 09:33:36,Fixed Income,Account Red Flagged for escheatment. Security sold to cover a cash debit
+2022-02-10 12:27:09,Mutual Funds,Trade blocked by Lydia as security is held below the line (e.g. MS securities, ineligible ETFs or restricted securities)
+2021-08-03 09:31:02,Fixed Income,An approved PEPE exception exists for this trade (please provide exception #)
+2021-12-22 13:35:49,Options,Security symbol is invalid / not applicable / new (and therefore blocked at order entry)
+2021-08-11 11:07:06,Fixed Income,System outage
+2021-04-07 09:27:34,UIT,Trade blocked by CGA portal (e.g. MS securities)
+2022-01-07 12:18:30,Options,Trade blocked by Lydia as security is held below the line (e.g. MS securities, ineligible ETFs or restricted securities)
+2022-01-24 10:20:23,Options,Account opened today (and therefore blocked at order entry)
+2021-04-16 11:39:11,Fixed Income,Solicited Inverse or Leveraged ETF trade in an employee or employee related account
+2022-01-24 10:06:23,Equity,Account opened today (and therefore blocked at order entry)
+2022-02-26 12:19:21,Fixed Income,Trade blocked by Lydia as security is held below the line (e.g. MS securities, ineligible ETFs or restricted securities)
+2021-03-02 11:02:29,Mutual Funds,An approved PEPE exception exists for this trade (please provide exception #)
+2022-02-24 10:09:23,Options,Account opened today (and therefore blocked at order entry)
+2022-01-17 10:58:16,UIT,Trade blocked by CGA portal (e.g. MS securities)
+2021-10-19 11:33:14,Options,An approved PEPE exception exists for this trade (please provide exception #)
+2021-07-03 09:42:02,Equity,An approved PEPE exception exists for this trade (please provide exception #)
+2022-02-05 10:41:00,Options,Account Red Flagged for escheatment. Security sold to cover a cash debit
+2021-11-11 13:34:38,Equity,An approved PEPE exception exists for this trade (please provide exception #)
+2021-12-17 09:23:44,Mutual Funds,Solicited Inverse or Leveraged ETF trade in an employee or employee related account
+2021-06-01 09:29:28,UIT,FA/CSA registration process not refreshed real time
+2021-05-20 11:28:47,Mutual Funds,An approved PEPE exception exists for this trade (please provide exception #)
+2022-02-19 12:59:18,UIT,Trade blocked by Lydia as security is held below the line (e.g. MS securities, ineligible ETFs or restricted securities)
+2022-02-17 10:39:40,UIT,FA/CSA registration process not refreshed real time
+2022-02-19 10:59:46,Mutual Funds,FA/CSA registration process not refreshed real time
+2021-05-16 11:04:43,Options,Trade blocked by CGA portal (e.g. MS securities)
+2021-11-19 09:10:14,UIT,An approved PEPE exception exists for this trade (please provide exception #)
+2022-02-28 10:17:55,UIT,FA/CSA registration process not refreshed real time
+2021-03-20 13:38:19,Options,FA/CSA registration process not refreshed real time
+2022-01-13 10:22:12,Equity,System outage
+2022-02-14 12:29:09,Fixed Income,Account Red Flagged for escheatment. Security sold to cover a cash debit
+2021-05-18 09:40:17,Fixed Income,Solicited Inverse or Leveraged ETF trade in an employee or employee related account
+2021-06-12 11:17:07,Equity,Security symbol is invalid / not applicable / new (and therefore blocked at order entry)
+2021-09-02 13:08:29,Mutual Funds,An approved PEPE exception exists for this trade (please provide exception #)
+2022-02-04 10:09:27,Equity,Account Red Flagged for escheatment. Security sold to cover a cash debit
+2022-01-10 10:30:33,Fixed Income,System outage
+2022-02-16 12:25:15,Fixed Income,Account Red Flagged for escheatment. Security sold to cover a cash debit
+2022-02-08 10:11:31,Options,FA/CSA registration process not refreshed real time
+2021-09-28 13:56:27,Mutual Funds,Trade blocked by Lydia as security is held below the line (e.g. MS securities, ineligible ETFs or restricted securities)
+2022-02-05 10:43:28,Options,Trade blocked by CGA portal (e.g. MS securities)
+2021-08-02 11:43:29,Equity,An approved PEPE exception exists for this trade (please provide exception #)
+2022-01-03 10:10:30,Equity,System outage
+2021-11-28 13:22:55,Fixed Income,FA/CSA registration process not refreshed real time
+2021-02-09 09:37:32,Fixed Income,An approved PEPE exception exists for this trade (please provide exception #)
+2021-02-15 09:01:14,Mutual Funds,Account opened today (and therefore blocked at order entry)
+2022-01-09 12:32:32,Options,An approved PEPE exception exists for this trade (please provide exception #)
+2022-02-14 14:23:13,Mutual Funds,Security symbol is invalid / not applicable / new (and therefore blocked at order entry)
+2022-02-18 10:51:45,UIT,Trade blocked by Lydia as security is held below the line (e.g. MS securities, ineligible ETFs or restricted securities)
+2021-06-09 09:17:32,UIT,An approved PEPE exception exists for this trade (please provide exception #)
+2021-01-07 11:00:30,Equity,Trade blocked by Lydia as security is held below the line (e.g. MS securities, ineligible ETFs or restricted securities)
+2022-01-01 10:16:56,Options,An approved PEPE exception exists for this trade (please provide exception #)
+2022-01-12 14:30:35,Fixed Income,Account opened today (and therefore blocked at order entry)
+2021-11-14 09:22:41,UIT,Account opened today (and therefore blocked at order entry)
+2021-10-12 09:21:11,UIT,An approved PEPE exception exists for this trade (please provide exception #)
+2021-09-20 09:44:47,Mutual Funds,An approved PEPE exception exists for this trade (please provide exception #)
+2022-01-15 12:50:10,UIT,Trade blocked by CGA portal (e.g. MS securities)
+2021-12-14 11:23:13,Fixed Income,Security symbol is invalid / not applicable / new (and therefore blocked at order entry)
+2021-09-05 11:08:04,UIT,Security symbol is invalid / not applicable / new (and therefore blocked at order entry)
+2021-08-13 11:07:12,UIT,System outage
+2022-02-02 14:03:01,Fixed Income,FA/CSA registration process not refreshed real time
+2021-09-11 09:20:34,Mutual Funds,Security symbol is invalid / not applicable / new (and therefore blocked at order entry)
+2021-12-17 13:59:40,Mutual Funds,FA/CSA registration process not refreshed real time
+2021-06-11 11:17:06,Options,System outage
+2022-02-09 12:01:32,Fixed Income,An approved PEPE exception exists for this trade (please provide exception #)
+2022-01-15 14:40:14,Equity,Account opened today (and therefore blocked at order entry)
+2021-05-22 09:28:21,Options,System outage
+2021-07-23 09:06:22,Options,Security symbol is invalid / not applicable / new (and therefore blocked at order entry)
+2021-01-06 11:00:29,Mutual Funds,Solicited Inverse or Leveraged ETF trade in an employee or employee related account
+2022-02-22 10:23:17,Equity,Account opened today (and therefore blocked at order entry)
+2021-12-12 09:23:35,UIT,Account opened today (and therefore blocked at order entry)
+2021-07-17 11:06:12,Equity,Trade blocked by Lydia as security is held below the line (e.g. MS securities, ineligible ETFs or restricted securities)
+2022-01-08 12:12:07,Fixed Income,Trade blocked by CGA portal (e.g. MS securities)
+2022-02-16 10:03:11,Options,Solicited Inverse or Leveraged ETF trade in an employee or employee related account
+2021-04-16 09:15:11,Options,Solicited Inverse or Leveraged ETF trade in an employee or employee related account
+2022-02-12 10:09:07,Mutual Funds,Security symbol is invalid / not applicable / new (and therefore blocked at order entry)
+2021-02-23 09:37:50,Options,Account opened today (and therefore blocked at order entry)
+2021-03-14 13:14:37,UIT,Trade blocked by CGA portal (e.g. MS securities)
+2022-02-19 14:59:46,Options,FA/CSA registration process not refreshed real time
+2022-02-22 10:07:49,Mutual Funds,Security symbol is invalid / not applicable / new (and therefore blocked at order entry)
+2021-11-24 13:34:23,UIT,Account opened today (and therefore blocked at order entry)
+2021-07-15 11:06:38,UIT,Solicited Inverse or Leveraged ETF trade in an employee or employee related account
+2021-09-01 09:20:56,UIT,An approved PEPE exception exists for this trade (please provide exception #)
+2022-02-19 12:21:18,Mutual Funds,Trade blocked by Lydia as security is held below the line (e.g. MS securities, ineligible ETFs or restricted securities)
+2021-01-03 09:48:30,Mutual Funds,System outage
+2021-09-13 11:32:08,Mutual Funds,Account opened today (and therefore blocked at order entry)
+2021-05-21 09:52:16,Equity,Security symbol is invalid / not applicable / new (and therefore blocked at order entry)
+2021-07-23 11:18:50,Fixed Income,Account opened today (and therefore blocked at order entry)
+2022-01-01 10:50:00,UIT,Trade blocked by Lydia as security is held below the line (e.g. MS securities, ineligible ETFs or restricted securities)
+2022-02-20 10:39:15,Options,System outage
+2021-02-28 13:13:27,Mutual Funds,Trade blocked by Lydia as security is held below the line (e.g. MS securities, ineligible ETFs or restricted securities)
+2021-07-22 09:42:21,Fixed Income,System outage
+2022-01-28 12:26:55,Fixed Income,FA/CSA registration process not refreshed real time
+2021-03-11 09:26:34,Fixed Income,Security symbol is invalid / not applicable / new (and therefore blocked at order entry)
+2022-02-20 14:13:47,Options,An approved PEPE exception exists for this trade (please provide exception #)
+2021-07-21 13:42:48,Equity,System outage
+2022-01-13 14:18:12,Options,System outage
+2022-02-26 14:49:25,UIT,Trade blocked by CGA portal (e.g. MS securities)
+2021-10-06 09:09:01,Options,Trade blocked by CGA portal (e.g. MS securities)
+2021-02-02 09:13:29,Options,An approved PEPE exception exists for this trade (please provide exception #)
+2021-03-14 09:14:13,Options,Security symbol is invalid / not applicable / new (and therefore blocked at order entry)
+2021-03-18 09:02:13,Mutual Funds,FA/CSA registration process not refreshed real time
+2022-01-06 14:40:05,UIT,Account opened today (and therefore blocked at order entry)
+2022-02-02 14:57:25,UIT,Security symbol is invalid / not applicable / new (and therefore blocked at order entry)
+2022-01-18 12:16:13,Fixed Income,FA/CSA registration process not refreshed real time
+2022-02-11 12:19:06,Fixed Income,System outage
+2022-02-20 10:07:47,Options,An approved PEPE exception exists for this trade (please provide exception #)
+2022-01-07 14:12:06,Equity,Account Red Flagged for escheatment. Security sold to cover a cash debit
+2022-01-20 10:28:47,Options,An approved PEPE exception exists for this trade (please provide exception #)
+2022-02-10 14:01:37,Fixed Income,FA/CSA registration process not refreshed real time
+2022-02-07 12:35:34,Equity,Trade blocked by CGA portal (e.g. MS securities)
+2021-09-11 09:08:34,Equity,Security symbol is invalid / not applicable / new (and therefore blocked at order entry)
+2022-02-21 14:55:16,Mutual Funds,Security symbol is invalid / not applicable / new (and therefore blocked at order entry)
+2022-01-20 14:32:19,Equity,FA/CSA registration process not refreshed real time
+2021-04-09 13:51:04,Equity,FA/CSA registration process not refreshed real time
+2022-01-16 14:38:15,Equity,Account Red Flagged for escheatment. Security sold to cover a cash debit
+2021-06-17 09:05:12,Options,Trade blocked by Lydia as security is held below the line (e.g. MS securities, ineligible ETFs or restricted securities)
+2021-03-24 09:26:51,Fixed Income,Account Red Flagged for escheatment. Security sold to cover a cash debit
+2021-01-11 11:00:10,UIT,FA/CSA registration process not refreshed real time
+2021-05-21 11:40:20,Mutual Funds,An approved PEPE exception exists for this trade (please provide exception #)
+2021-05-12 11:52:11,UIT,An approved PEPE exception exists for this trade (please provide exception #)
+2022-01-03 10:08:26,Mutual Funds,Account opened today (and therefore blocked at order entry)
+2022-01-28 14:36:55,Mutual Funds,FA/CSA registration process not refreshed real time
+2021-10-06 09:45:05,Fixed Income,Account opened today (and therefore blocked at order entry)
+2021-09-06 13:20:33,Fixed Income,Account Red Flagged for escheatment. Security sold to cover a cash debit
+2021-02-22 13:01:49,Fixed Income,Security symbol is invalid / not applicable / new (and therefore blocked at order entry)
+2021-07-14 11:30:13,Equity,Security symbol is invalid / not applicable / new (and therefore blocked at order entry)
+2022-01-15 10:28:14,Equity,Account opened today (and therefore blocked at order entry)
+2022-02-06 14:49:33,Options,Account Red Flagged for escheatment. Security sold to cover a cash debit
+2022-01-14 10:26:37,Equity,Trade blocked by CGA portal (e.g. MS securities)
+2021-06-02 09:05:25,Mutual Funds,Security symbol is invalid / not applicable / new (and therefore blocked at order entry)
+2021-09-06 13:32:33,UIT,Account Red Flagged for escheatment. Security sold to cover a cash debit
+2022-02-02 12:39:57,Fixed Income,System outage
+2021-02-21 13:37:48,UIT,System outage
+2021-11-24 13:58:51,Options,Account Red Flagged for escheatment. Security sold to cover a cash debit
+2022-01-18 14:40:17,Mutual Funds,Solicited Inverse or Leveraged ETF trade in an employee or employee related account
+2021-01-01 09:36:00,Equity,Trade blocked by Lydia as security is held below the line (e.g. MS securities, ineligible ETFs or restricted securities)
+2022-01-17 12:48:12,Options,Trade blocked by Lydia as security is held below the line (e.g. MS securities, ineligible ETFs or restricted securities)
+2021-05-19 11:40:46,Mutual Funds,FA/CSA registration process not refreshed real time
+2022-01-21 12:16:20,Options,An approved PEPE exception exists for this trade (please provide exception #)
+2022-01-19 10:14:46,Options,FA/CSA registration process not refreshed real time
+2021-07-19 09:06:46,Mutual Funds,FA/CSA registration process not refreshed real time
+2022-01-17 10:30:40,UIT,FA/CSA registration process not refreshed real time
+2021-01-01 13:36:24,Mutual Funds,System outage
+2022-02-17 14:37:12,UIT,Trade blocked by Lydia as security is held below the line (e.g. MS securities, ineligible ETFs or restricted securities)
+2021-04-16 11:39:39,Equity,Trade blocked by Lydia as security is held below the line (e.g. MS securities, ineligible ETFs or restricted securities)
+2021-01-26 13:36:53,Mutual Funds,Solicited Inverse or Leveraged ETF trade in an employee or employee related account
+2021-03-10 09:50:37,Mutual Funds,FA/CSA registration process not refreshed real time
+2021-06-13 09:53:40,Equity,Security symbol is invalid / not applicable / new (and therefore blocked at order entry)
+2021-03-02 11:38:29,Fixed Income,An approved PEPE exception exists for this trade (please provide exception #)
+2021-01-27 11:36:26,Options,Solicited Inverse or Leveraged ETF trade in an employee or employee related account
+2022-02-06 12:39:29,UIT,Solicited Inverse or Leveraged ETF trade in an employee or employee related account
+2021-02-26 13:25:21,UIT,Trade blocked by Lydia as security is held below the line (e.g. MS securities, ineligible ETFs or restricted securities)
+2022-02-17 14:11:44,UIT,Solicited Inverse or Leveraged ETF trade in an employee or employee related account
+2022-02-26 12:05:25,Mutual Funds,Trade blocked by CGA portal (e.g. MS securities)
+2021-01-16 13:24:39,Mutual Funds,Trade blocked by Lydia as security is held below the line (e.g. MS securities, ineligible ETFs or restricted securities)
+2021-12-13 09:59:12,Equity,System outage
+2022-01-09 10:12:04,Fixed Income,FA/CSA registration process not refreshed real time
+2021-05-18 13:04:45,UIT,Trade blocked by Lydia as security is held below the line (e.g. MS securities, ineligible ETFs or restricted securities)
+2022-01-09 12:52:08,Mutual Funds,Solicited Inverse or Leveraged ETF trade in an employee or employee related account
+2022-01-11 14:34:10,Mutual Funds,FA/CSA registration process not refreshed real time
+2021-05-07 11:04:02,Options,Solicited Inverse or Leveraged ETF trade in an employee or employee related account
+2021-03-05 11:38:32,Equity,Account opened today (and therefore blocked at order entry)
+2021-05-07 11:16:34,Options,Trade blocked by CGA portal (e.g. MS securities)
+2022-01-12 10:58:11,Options,An approved PEPE exception exists for this trade (please provide exception #)
+2021-09-11 09:56:06,Equity,System outage
+2022-01-24 12:16:19,Options,Trade blocked by CGA portal (e.g. MS securities)
+2022-02-22 12:17:49,Fixed Income,Security symbol is invalid / not applicable / new (and therefore blocked at order entry)
+2022-02-25 10:33:24,Options,Account Red Flagged for escheatment. Security sold to cover a cash debit
+2022-01-03 12:26:02,Options,An approved PEPE exception exists for this trade (please provide exception #)
+2022-01-10 10:32:37,Equity,FA/CSA registration process not refreshed real time
+2021-03-07 13:38:34,Mutual Funds,Trade blocked by CGA portal (e.g. MS securities)
+2022-02-15 10:23:10,UIT,Trade blocked by CGA portal (e.g. MS securities)
+2021-08-03 13:55:58,Options,Security symbol is invalid / not applicable / new (and therefore blocked at order entry)
+2021-05-05 11:28:28,Equity,Trade blocked by CGA portal (e.g. MS securities)
+2022-01-02 14:02:25,Mutual Funds,Security symbol is invalid / not applicable / new (and therefore blocked at order entry)
+2021-10-02 09:21:25,UIT,Security symbol is invalid / not applicable / new (and therefore blocked at order entry)
+2021-11-09 13:10:32,Mutual Funds,An approved PEPE exception exists for this trade (please provide exception #)
+2021-09-19 09:08:46,Fixed Income,FA/CSA registration process not refreshed real time
+2022-02-17 10:31:16,Options,Trade blocked by CGA portal (e.g. MS securities)
+2021-10-25 13:57:20,UIT,Solicited Inverse or Leveraged ETF trade in an employee or employee related account
+2022-02-26 12:47:53,Mutual Funds,Solicited Inverse or Leveraged ETF trade in an employee or employee related account
+2021-10-23 09:21:22,Mutual Funds,Security symbol is invalid / not applicable / new (and therefore blocked at order entry)
+2021-07-09 13:42:08,Mutual Funds,Solicited Inverse or Leveraged ETF trade in an employee or employee related account
+2022-01-08 12:08:07,UIT,Trade blocked by CGA portal (e.g. MS securities)
+2021-03-04 09:02:27,Mutual Funds,Account Red Flagged for escheatment. Security sold to cover a cash debit
+2021-08-12 09:19:11,Mutual Funds,An approved PEPE exception exists for this trade (please provide exception #)
+2022-01-05 12:16:28,Mutual Funds,Trade blocked by CGA portal (e.g. MS securities)
+2021-11-06 11:22:01,Options,Trade blocked by CGA portal (e.g. MS securities)
+2022-02-23 12:27:50,Mutual Funds,Account opened today (and therefore blocked at order entry)
+2022-01-14 14:24:37,Options,Trade blocked by CGA portal (e.g. MS securities)
+2021-11-28 11:58:23,Mutual Funds,An approved PEPE exception exists for this trade (please provide exception #)
+2022-02-11 10:11:38,UIT,An approved PEPE exception exists for this trade (please provide exception #)
+2021-09-16 13:08:15,Fixed Income,Account Red Flagged for escheatment. Security sold to cover a cash debit
+2021-05-12 13:16:07,Equity,Security symbol is invalid / not applicable / new (and therefore blocked at order entry)
+2021-01-18 13:24:17,UIT,Solicited Inverse or Leveraged ETF trade in an employee or employee related account
+2021-05-27 11:04:22,UIT,FA/CSA registration process not refreshed real time
+2021-12-15 13:35:10,Options,Trade blocked by CGA portal (e.g. MS securities)
+2021-05-15 11:28:38,UIT,Solicited Inverse or Leveraged ETF trade in an employee or employee related account
+2022-02-04 10:51:27,Equity,Account Red Flagged for escheatment. Security sold to cover a cash debit
+2021-07-26 09:18:21,Options,Trade blocked by Lydia as security is held below the line (e.g. MS securities, ineligible ETFs or restricted securities)
+2022-02-15 12:03:14,Mutual Funds,Account opened today (and therefore blocked at order entry)
+2021-11-02 09:34:01,Mutual Funds,FA/CSA registration process not refreshed real time
+2022-01-08 14:22:31,Equity,FA/CSA registration process not refreshed real time
+2022-02-15 14:53:42,Options,Account Red Flagged for escheatment. Security sold to cover a cash debit
+2021-01-09 09:24:36,Fixed Income,Trade blocked by Lydia as security is held below the line (e.g. MS securities, ineligible ETFs or restricted securities)
+2021-05-27 09:16:54,UIT,Trade blocked by Lydia as security is held below the line (e.g. MS securities, ineligible ETFs or restricted securities)
+2022-01-11 12:42:38,Mutual Funds,An approved PEPE exception exists for this trade (please provide exception #)
+2021-08-16 09:07:11,Mutual Funds,Solicited Inverse or Leveraged ETF trade in an employee or employee related account
+2022-01-09 12:30:32,Options,An approved PEPE exception exists for this trade (please provide exception #)
+2021-03-09 11:02:36,Equity,Trade blocked by Lydia as security is held below the line (e.g. MS securities, ineligible ETFs or restricted securities)
+2021-12-08 13:35:35,Fixed Income,Solicited Inverse or Leveraged ETF trade in an employee or employee related account
+2022-01-12 12:36:11,Equity,An approved PEPE exception exists for this trade (please provide exception #)
+2022-01-07 14:32:06,Options,Account Red Flagged for escheatment. Security sold to cover a cash debit
+2022-02-05 14:49:00,Options,Account Red Flagged for escheatment. Security sold to cover a cash debit
+2021-05-06 11:28:01,Mutual Funds,Trade blocked by CGA portal (e.g. MS securities)
+2021-10-13 11:57:12,UIT,System outage
+2021-01-18 13:24:13,UIT,FA/CSA registration process not refreshed real time
+2021-03-25 09:02:52,Equity,Trade blocked by CGA portal (e.g. MS securities)
+2021-09-27 11:20:26,Equity,Solicited Inverse or Leveraged ETF trade in an employee or employee related account
+2021-09-16 09:32:11,Equity,Solicited Inverse or Leveraged ETF trade in an employee or employee related account
+2021-04-26 11:03:53,Mutual Funds,Solicited Inverse or Leveraged ETF trade in an employee or employee related account
+2021-12-19 09:11:18,Options,Trade blocked by Lydia as security is held below the line (e.g. MS securities, ineligible ETFs or restricted securities)
+2022-01-21 14:18:20,Equity,An approved PEPE exception exists for this trade (please provide exception #)
+2022-01-21 14:16:48,Equity,System outage
+2022-01-21 10:22:20,Mutual Funds,An approved PEPE exception exists for this trade (please provide exception #)
+2021-07-14 09:42:09,UIT,Account Red Flagged for escheatment. Security sold to cover a cash debit
+2021-11-04 09:22:03,Mutual Funds,System outage
+2021-03-10 13:02:37,Fixed Income,FA/CSA registration process not refreshed real time
+2021-12-03 13:35:26,Equity,Account opened today (and therefore blocked at order entry)
+2021-04-21 11:03:16,UIT,Security symbol is invalid / not applicable / new (and therefore blocked at order entry)
+2022-01-16 10:06:11,Options,Solicited Inverse or Leveraged ETF trade in an employee or employee related account
+2021-02-13 13:37:40,Equity,Security symbol is invalid / not applicable / new (and therefore blocked at order entry)
+2021-07-14 13:18:13,Fixed Income,Security symbol is invalid / not applicable / new (and therefore blocked at order entry)
+2022-01-05 12:10:32,Mutual Funds,Account opened today (and therefore blocked at order entry)
+2022-02-21 10:07:16,Equity,Security symbol is invalid / not applicable / new (and therefore blocked at order entry)
+2022-02-22 12:31:21,Equity,System outage
+2022-02-13 14:57:08,UIT,Account opened today (and therefore blocked at order entry)
+2021-10-14 09:45:41,UIT,Account opened today (and therefore blocked at order entry)
+2022-01-21 14:10:20,Equity,An approved PEPE exception exists for this trade (please provide exception #)
+2022-01-27 14:22:54,Fixed Income,Trade blocked by Lydia as security is held below the line (e.g. MS securities, ineligible ETFs or restricted securities)
+2022-01-11 14:30:34,Fixed Income,Security symbol is invalid / not applicable / new (and therefore blocked at order entry)
+2021-06-02 09:29:25,Mutual Funds,Security symbol is invalid / not applicable / new (and therefore blocked at order entry)
+2022-02-06 10:25:33,Fixed Income,Account Red Flagged for escheatment. Security sold to cover a cash debit
+2022-01-23 10:06:22,Mutual Funds,Security symbol is invalid / not applicable / new (and therefore blocked at order entry)
+2022-02-08 14:27:07,UIT,Trade blocked by CGA portal (e.g. MS securities)
+2022-01-17 10:46:40,Fixed Income,FA/CSA registration process not refreshed real time
+2021-06-12 13:05:07,UIT,Security symbol is invalid / not applicable / new (and therefore blocked at order entry)
+2021-07-26 09:30:53,Equity,Solicited Inverse or Leveraged ETF trade in an employee or employee related account
+2022-01-05 14:56:28,Options,Trade blocked by CGA portal (e.g. MS securities)
+2021-02-28 09:13:55,Mutual Funds,FA/CSA registration process not refreshed real time
+2022-01-05 12:22:00,Fixed Income,Account Red Flagged for escheatment. Security sold to cover a cash debit
+2021-05-15 11:52:10,Options,Trade blocked by CGA portal (e.g. MS securities)
+2022-01-14 14:24:41,Fixed Income,Account opened today (and therefore blocked at order entry)
+2021-08-11 09:55:38,Mutual Funds,An approved PEPE exception exists for this trade (please provide exception #)
+2021-03-09 11:50:32,UIT,An approved PEPE exception exists for this trade (please provide exception #)
+2022-02-12 12:47:35,Fixed Income,Account opened today (and therefore blocked at order entry)
+2022-01-07 10:48:34,Fixed Income,Trade blocked by CGA portal (e.g. MS securities)
+2021-03-13 09:26:36,Fixed Income,Account Red Flagged for escheatment. Security sold to cover a cash debit
+2021-04-17 13:39:40,Fixed Income,FA/CSA registration process not refreshed real time
+2022-02-26 10:37:25,Options,Trade blocked by CGA portal (e.g. MS securities)
+2022-01-27 14:36:54,UIT,Trade blocked by Lydia as security is held below the line (e.g. MS securities, ineligible ETFs or restricted securities)
+2021-03-07 13:38:34,Equity,Trade blocked by CGA portal (e.g. MS securities)
+2021-03-27 11:26:54,Mutual Funds,Trade blocked by Lydia as security is held below the line (e.g. MS securities, ineligible ETFs or restricted securities)
+2021-05-24 11:28:23,Equity,Account opened today (and therefore blocked at order entry)
+2022-01-10 12:00:37,UIT,FA/CSA registration process not refreshed real time
+2022-01-08 14:54:07,UIT,Trade blocked by CGA portal (e.g. MS securities)
+2021-01-28 13:24:55,UIT,FA/CSA registration process not refreshed real time
+2022-01-10 10:26:09,Fixed Income,Trade blocked by Lydia as security is held below the line (e.g. MS securities, ineligible ETFs or restricted securities)
+2022-01-07 10:10:02,Equity,Solicited Inverse or Leveraged ETF trade in an employee or employee related account
+2021-02-04 09:25:27,UIT,Account Red Flagged for escheatment. Security sold to cover a cash debit
+2021-03-22 13:02:49,Fixed Income,Security symbol is invalid / not applicable / new (and therefore blocked at order entry)
+2021-12-04 13:59:27,UIT,Account Red Flagged for escheatment. Security sold to cover a cash debit
+2021-06-23 13:29:18,UIT,Account Red Flagged for escheatment. Security sold to cover a cash debit
+2022-02-06 10:31:29,Fixed Income,Solicited Inverse or Leveraged ETF trade in an employee or employee related account
+2022-01-25 12:20:52,Equity,Trade blocked by CGA portal (e.g. MS securities)
+2022-02-20 14:35:15,Equity,System outage
+2021-08-07 11:55:34,UIT,Trade blocked by CGA portal (e.g. MS securities)
+2022-01-09 12:06:32,Equity,An approved PEPE exception exists for this trade (please provide exception #)
+2021-03-04 11:26:27,Mutual Funds,Account Red Flagged for escheatment. Security sold to cover a cash debit
+2021-08-06 11:07:01,Equity,Trade blocked by CGA portal (e.g. MS securities)
+2021-04-05 11:15:00,Fixed Income,Account Red Flagged for escheatment. Security sold to cover a cash debit
+2022-01-18 14:28:45,Mutual Funds,Trade blocked by Lydia as security is held below the line (e.g. MS securities, ineligible ETFs or restricted securities)
+2022-02-05 12:41:04,Fixed Income,Security symbol is invalid / not applicable / new (and therefore blocked at order entry)
+2022-02-02 14:09:57,UIT,System outage
+2022-01-05 10:36:04,Options,Security symbol is invalid / not applicable / new (and therefore blocked at order entry)
+2021-01-14 09:12:37,Equity,Trade blocked by CGA portal (e.g. MS securities)
+2022-02-16 14:13:39,Fixed Income,Trade blocked by Lydia as security is held below the line (e.g. MS securities, ineligible ETFs or restricted securities)
+2022-01-11 10:36:06,UIT,System outage
+2021-11-10 09:46:37,Equity,FA/CSA registration process not refreshed real time
+2021-03-20 09:26:19,UIT,FA/CSA registration process not refreshed real time
+2021-02-11 11:37:10,Fixed Income,FA/CSA registration process not refreshed real time
+2022-02-22 12:45:49,Mutual Funds,Security symbol is invalid / not applicable / new (and therefore blocked at order entry)
+2021-10-10 09:21:37,Equity,FA/CSA registration process not refreshed real time
+2022-02-20 10:19:47,Mutual Funds,An approved PEPE exception exists for this trade (please provide exception #)
+2021-01-03 13:00:58,Equity,Security symbol is invalid / not applicable / new (and therefore blocked at order entry)
+2022-01-12 10:38:39,Fixed Income,System outage
+2022-01-15 10:08:14,Mutual Funds,Account opened today (and therefore blocked at order entry)
+2021-06-14 09:17:37,Options,Trade blocked by CGA portal (e.g. MS securities)
+2021-12-24 13:35:51,Equity,Account Red Flagged for escheatment. Security sold to cover a cash debit
+2021-05-25 13:04:52,Options,Trade blocked by CGA portal (e.g. MS securities)
+2022-02-10 10:33:33,Options,System outage
+2022-01-03 14:32:02,UIT,An approved PEPE exception exists for this trade (please provide exception #)
+2021-05-06 09:52:33,Fixed Income,Account Red Flagged for escheatment. Security sold to cover a cash debit
+2022-01-26 10:28:21,Mutual Funds,Trade blocked by Lydia as security is held below the line (e.g. MS securities, ineligible ETFs or restricted securities)
+2021-08-05 09:55:28,Mutual Funds,Trade blocked by CGA portal (e.g. MS securities)
+2021-02-03 13:37:26,UIT,Account opened today (and therefore blocked at order entry)
+2022-02-08 14:07:31,UIT,FA/CSA registration process not refreshed real time
+2021-07-21 13:42:16,Fixed Income,Security symbol is invalid / not applicable / new (and therefore blocked at order entry)
+2021-06-26 09:17:53,Equity,Solicited Inverse or Leveraged ETF trade in an employee or employee related account
+2021-03-14 13:14:13,Fixed Income,Security symbol is invalid / not applicable / new (and therefore blocked at order entry)
+2022-02-22 10:45:17,Fixed Income,Account opened today (and therefore blocked at order entry)
+2021-05-01 09:52:56,Mutual Funds,An approved PEPE exception exists for this trade (please provide exception #)
+2021-01-10 11:36:37,UIT,FA/CSA registration process not refreshed real time
+2021-07-04 09:06:31,Mutual Funds,Security symbol is invalid / not applicable / new (and therefore blocked at order entry)
+2022-02-12 10:09:07,Mutual Funds,Security symbol is invalid / not applicable / new (and therefore blocked at order entry)
+2021-11-26 11:10:21,Equity,Trade blocked by Lydia as security is held below the line (e.g. MS securities, ineligible ETFs or restricted securities)
+2022-02-15 10:57:14,Fixed Income,Account opened today (and therefore blocked at order entry)
+2022-01-21 10:04:48,Mutual Funds,System outage
+2022-01-18 10:14:45,Mutual Funds,Trade blocked by Lydia as security is held below the line (e.g. MS securities, ineligible ETFs or restricted securities)
+2021-08-23 13:31:50,Options,Account opened today (and therefore blocked at order entry)
+2021-07-21 09:18:16,Equity,Security symbol is invalid / not applicable / new (and therefore blocked at order entry)
+2021-11-14 09:22:13,Options,Security symbol is invalid / not applicable / new (and therefore blocked at order entry)
+2021-01-19 13:00:14,Mutual Funds,An approved PEPE exception exists for this trade (please provide exception #)
+2021-07-14 09:30:41,Options,Account opened today (and therefore blocked at order entry)
+2022-02-05 12:37:32,UIT,Account opened today (and therefore blocked at order entry)
+2022-01-11 10:36:10,Mutual Funds,FA/CSA registration process not refreshed real time
+2022-01-03 12:12:26,Options,Account opened today (and therefore blocked at order entry)
+2022-01-07 14:46:06,Options,Account Red Flagged for escheatment. Security sold to cover a cash debit
+2022-02-01 12:13:00,Equity,Trade blocked by Lydia as security is held below the line (e.g. MS securities, ineligible ETFs or restricted securities)
+2021-01-11 13:24:34,Fixed Income,Security symbol is invalid / not applicable / new (and therefore blocked at order entry)
+2022-02-15 14:09:10,Mutual Funds,Trade blocked by CGA portal (e.g. MS securities)
+2022-02-25 12:01:20,UIT,Solicited Inverse or Leveraged ETF trade in an employee or employee related account
+2021-05-08 13:04:03,Equity,Trade blocked by Lydia as security is held below the line (e.g. MS securities, ineligible ETFs or restricted securities)
+2022-01-27 10:16:26,Fixed Income,Solicited Inverse or Leveraged ETF trade in an employee or employee related account
+2022-01-27 14:38:22,UIT,FA/CSA registration process not refreshed real time
+2021-04-22 11:15:17,Fixed Income,Account opened today (and therefore blocked at order entry)
+2021-08-09 11:19:36,Equity,Trade blocked by Lydia as security is held below the line (e.g. MS securities, ineligible ETFs or restricted securities)
+2022-01-03 12:16:30,Fixed Income,System outage
+2021-04-21 09:39:48,Mutual Funds,System outage
+2021-09-02 11:08:29,Fixed Income,An approved PEPE exception exists for this trade (please provide exception #)
+2021-09-19 13:56:18,UIT,Trade blocked by Lydia as security is held below the line (e.g. MS securities, ineligible ETFs or restricted securities)
+2022-02-16 14:05:43,Options,Trade blocked by CGA portal (e.g. MS securities)
+2021-03-15 13:26:42,UIT,Account Red Flagged for escheatment. Security sold to cover a cash debit
+2021-12-04 13:47:27,UIT,Account Red Flagged for escheatment. Security sold to cover a cash debit
+2022-02-06 12:41:29,Equity,Solicited Inverse or Leveraged ETF trade in an employee or employee related account
+2022-02-22 14:59:21,Equity,System outage
+2022-02-21 12:11:48,Equity,System outage
+2022-02-27 14:45:26,Mutual Funds,Solicited Inverse or Leveraged ETF trade in an employee or employee related account
+2021-08-16 11:07:43,Mutual Funds,Trade blocked by CGA portal (e.g. MS securities)
+2022-01-06 14:32:01,Fixed Income,Trade blocked by CGA portal (e.g. MS securities)
+2021-03-03 09:26:30,UIT,System outage
+2021-12-23 09:35:22,Equity,Security symbol is invalid / not applicable / new (and therefore blocked at order entry)
+2022-01-24 12:06:19,UIT,Trade blocked by CGA portal (e.g. MS securities)
+2022-01-22 10:38:21,Equity,System outage
+2021-05-28 11:16:55,Mutual Funds,FA/CSA registration process not refreshed real time
+2022-01-20 10:38:19,Options,FA/CSA registration process not refreshed real time
+2022-01-16 12:00:39,Options,Trade blocked by Lydia as security is held below the line (e.g. MS securities, ineligible ETFs or restricted securities)
+2022-01-10 12:20:37,Mutual Funds,FA/CSA registration process not refreshed real time
+2022-01-06 12:16:33,Options,Account Red Flagged for escheatment. Security sold to cover a cash debit
+2021-04-05 11:15:04,Mutual Funds,Security symbol is invalid / not applicable / new (and therefore blocked at order entry)
+2022-01-08 12:36:35,Fixed Income,Solicited Inverse or Leveraged ETF trade in an employee or employee related account
+2022-02-07 10:43:02,Equity,Solicited Inverse or Leveraged ETF trade in an employee or employee related account
+2021-07-22 11:06:49,Fixed Income,Security symbol is invalid / not applicable / new (and therefore blocked at order entry)
+2021-06-03 09:41:02,UIT,An approved PEPE exception exists for this trade (please provide exception #)
+2022-01-11 12:06:34,Fixed Income,Security symbol is invalid / not applicable / new (and therefore blocked at order entry)
+2021-01-28 11:24:27,Fixed Income,Trade blocked by Lydia as security is held below the line (e.g. MS securities, ineligible ETFs or restricted securities)
+2021-09-10 11:08:37,UIT,FA/CSA registration process not refreshed real time
+2021-11-07 13:34:34,Fixed Income,Trade blocked by CGA portal (e.g. MS securities)
+2022-01-08 14:28:07,Mutual Funds,Trade blocked by CGA portal (e.g. MS securities)
+2022-02-23 10:51:18,Fixed Income,Account Red Flagged for escheatment. Security sold to cover a cash debit
+2022-01-22 12:20:49,Fixed Income,Security symbol is invalid / not applicable / new (and therefore blocked at order entry)
+2021-09-21 11:44:16,Fixed Income,Security symbol is invalid / not applicable / new (and therefore blocked at order entry)
+2021-11-07 13:10:30,Options,Trade blocked by Lydia as security is held below the line (e.g. MS securities, ineligible ETFs or restricted securities)
+2022-02-02 12:57:29,Mutual Funds,An approved PEPE exception exists for this trade (please provide exception #)
+2022-01-05 14:10:04,Equity,Security symbol is invalid / not applicable / new (and therefore blocked at order entry)
+2021-11-16 13:10:15,Mutual Funds,Account Red Flagged for escheatment. Security sold to cover a cash debit
+2022-02-04 10:29:27,Options,Account Red Flagged for escheatment. Security sold to cover a cash debit
+2022-02-03 12:11:26,Mutual Funds,Account opened today (and therefore blocked at order entry)
+2022-01-11 14:16:06,UIT,System outage
+2022-02-04 14:23:03,Equity,System outage
+2021-05-16 11:04:43,UIT,Trade blocked by CGA portal (e.g. MS securities)
+2022-01-16 10:32:43,Mutual Funds,Trade blocked by CGA portal (e.g. MS securities)
+2022-01-09 12:46:32,Fixed Income,An approved PEPE exception exists for this trade (please provide exception #)
+2021-04-07 11:27:30,Mutual Funds,Trade blocked by Lydia as security is held below the line (e.g. MS securities, ineligible ETFs or restricted securities)
+2021-08-25 11:55:24,UIT,Account Red Flagged for escheatment. Security sold to cover a cash debit
+2022-01-04 14:52:27,Equity,Account Red Flagged for escheatment. Security sold to cover a cash debit
+2022-01-12 12:32:39,UIT,System outage
+2021-09-14 13:32:41,Options,Account opened today (and therefore blocked at order entry)
+2022-01-16 12:52:15,UIT,Account Red Flagged for escheatment. Security sold to cover a cash debit
+2022-02-15 14:23:10,UIT,Trade blocked by CGA portal (e.g. MS securities)
+2022-01-23 14:58:50,Mutual Funds,Account opened today (and therefore blocked at order entry)
+2021-06-14 13:05:09,Equity,Account Red Flagged for escheatment. Security sold to cover a cash debit
+2021-08-13 09:07:40,Fixed Income,Security symbol is invalid / not applicable / new (and therefore blocked at order entry)
+2021-05-18 13:40:45,Options,Trade blocked by Lydia as security is held below the line (e.g. MS securities, ineligible ETFs or restricted securities)
+2022-02-08 14:17:31,UIT,FA/CSA registration process not refreshed real time
+2022-01-19 14:14:46,Mutual Funds,FA/CSA registration process not refreshed real time
+2022-01-04 10:00:31,Mutual Funds,Security symbol is invalid / not applicable / new (and therefore blocked at order entry)
+2022-02-02 12:31:57,Options,System outage
+2022-01-24 14:20:19,Mutual Funds,Trade blocked by CGA portal (e.g. MS securities)
+2021-06-24 09:41:19,Options,Trade blocked by CGA portal (e.g. MS securities)
+2021-04-15 11:03:14,Fixed Income,Account opened today (and therefore blocked at order entry)
+2022-02-07 14:59:34,Fixed Income,Trade blocked by CGA portal (e.g. MS securities)
+2022-02-07 10:01:06,Options,Account Red Flagged for escheatment. Security sold to cover a cash debit
+2022-02-23 10:23:22,Options,Security symbol is invalid / not applicable / new (and therefore blocked at order entry)
+2021-04-24 13:03:51,Equity,Account Red Flagged for escheatment. Security sold to cover a cash debit
+2021-02-14 09:13:37,Options,Trade blocked by CGA portal (e.g. MS securities)
+2021-05-02 13:40:01,Fixed Income,FA/CSA registration process not refreshed real time
+2021-12-03 09:23:58,Equity,Security symbol is invalid / not applicable / new (and therefore blocked at order entry)
+2021-05-09 09:16:36,Mutual Funds,Trade blocked by Lydia as security is held below the line (e.g. MS securities, ineligible ETFs or restricted securities)
+2022-02-27 14:33:22,UIT,FA/CSA registration process not refreshed real time
+2022-02-10 12:23:33,Fixed Income,System outage
+2021-02-14 13:37:13,Mutual Funds,Security symbol is invalid / not applicable / new (and therefore blocked at order entry)
+2022-02-12 14:29:35,Equity,Account opened today (and therefore blocked at order entry)
+2022-01-10 14:06:33,Equity,System outage
+2022-02-02 14:15:01,Options,FA/CSA registration process not refreshed real time
+2021-06-07 11:29:34,Equity,Trade blocked by CGA portal (e.g. MS securities)
+2022-01-23 12:08:22,Mutual Funds,Security symbol is invalid / not applicable / new (and therefore blocked at order entry)
+2022-01-12 10:26:11,Equity,An approved PEPE exception exists for this trade (please provide exception #)
+2022-02-16 12:33:39,Mutual Funds,Trade blocked by Lydia as security is held below the line (e.g. MS securities, ineligible ETFs or restricted securities)
+2022-01-01 14:40:56,Equity,An approved PEPE exception exists for this trade (please provide exception #)
+2022-02-08 10:23:35,Fixed Income,Solicited Inverse or Leveraged ETF trade in an employee or employee related account
+2021-02-01 09:01:56,Mutual Funds,An approved PEPE exception exists for this trade (please provide exception #)
+2022-02-19 12:49:14,UIT,An approved PEPE exception exists for this trade (please provide exception #)
+2021-10-24 13:09:51,Fixed Income,Account Red Flagged for escheatment. Security sold to cover a cash debit
+2021-05-13 11:04:08,UIT,Account opened today (and therefore blocked at order entry)
+2022-02-15 10:13:14,Mutual Funds,Account opened today (and therefore blocked at order entry)
+2022-02-12 14:57:35,Equity,Account opened today (and therefore blocked at order entry)
+2022-02-22 12:05:21,Options,System outage
+2022-01-20 14:28:15,Options,System outage
+2022-02-12 14:09:11,Options,An approved PEPE exception exists for this trade (please provide exception #)
+2022-02-05 14:09:32,Mutual Funds,Account opened today (and therefore blocked at order entry)
+2022-01-01 10:48:28,UIT,FA/CSA registration process not refreshed real time
+2021-03-26 11:38:53,Fixed Income,Solicited Inverse or Leveraged ETF trade in an employee or employee related account
+2022-02-01 14:07:00,Equity,Trade blocked by Lydia as security is held below the line (e.g. MS securities, ineligible ETFs or restricted securities)
+2021-08-23 13:07:22,Options,Security symbol is invalid / not applicable / new (and therefore blocked at order entry)
+2022-02-09 12:37:32,UIT,An approved PEPE exception exists for this trade (please provide exception #)
+2021-02-25 13:25:24,UIT,Account Red Flagged for escheatment. Security sold to cover a cash debit
+2021-07-10 11:54:09,Fixed Income,Trade blocked by Lydia as security is held below the line (e.g. MS securities, ineligible ETFs or restricted securities)
+2022-01-18 12:40:17,Fixed Income,Solicited Inverse or Leveraged ETF trade in an employee or employee related account
+2021-12-25 09:35:52,Options,Trade blocked by CGA portal (e.g. MS securities)
+2021-08-03 13:19:02,Mutual Funds,An approved PEPE exception exists for this trade (please provide exception #)
+2022-01-09 12:08:36,Mutual Funds,Trade blocked by Lydia as security is held below the line (e.g. MS securities, ineligible ETFs or restricted securities)
+2021-09-05 09:08:00,Mutual Funds,Account Red Flagged for escheatment. Security sold to cover a cash debit
+2022-02-08 10:49:31,Equity,FA/CSA registration process not refreshed real time
+2022-02-11 12:05:10,Options,FA/CSA registration process not refreshed real time
+2022-02-28 14:35:55,Mutual Funds,FA/CSA registration process not refreshed real time
+2022-02-18 14:47:45,Fixed Income,Trade blocked by Lydia as security is held below the line (e.g. MS securities, ineligible ETFs or restricted securities)
+2021-05-08 11:28:31,UIT,FA/CSA registration process not refreshed real time
+2022-02-11 14:23:10,Mutual Funds,FA/CSA registration process not refreshed real time
+2021-07-20 11:06:15,UIT,System outage
+2021-02-01 09:13:24,Mutual Funds,System outage
+2022-01-13 10:26:36,Equity,Account Red Flagged for escheatment. Security sold to cover a cash debit
+2022-02-27 12:15:22,Equity,FA/CSA registration process not refreshed real time
+2021-05-14 13:16:41,UIT,Account opened today (and therefore blocked at order entry)
+2022-02-06 10:03:33,Equity,Account Red Flagged for escheatment. Security sold to cover a cash debit
+2021-09-20 11:08:47,Fixed Income,An approved PEPE exception exists for this trade (please provide exception #)
+2021-05-20 11:04:19,UIT,FA/CSA registration process not refreshed real time
+2021-07-27 11:54:26,Equity,Solicited Inverse or Leveraged ETF trade in an employee or employee related account
+2021-05-03 13:04:26,UIT,Account opened today (and therefore blocked at order entry)
+2021-06-09 13:41:36,UIT,Trade blocked by Lydia as security is held below the line (e.g. MS securities, ineligible ETFs or restricted securities)
+2022-01-23 12:34:22,Equity,Security symbol is invalid / not applicable / new (and therefore blocked at order entry)
+2021-12-07 13:23:02,Equity,Solicited Inverse or Leveraged ETF trade in an employee or employee related account
+2021-05-03 09:16:30,UIT,System outage
+2022-02-10 12:03:37,Equity,FA/CSA registration process not refreshed real time
+2021-08-09 13:07:36,Mutual Funds,Trade blocked by Lydia as security is held below the line (e.g. MS securities, ineligible ETFs or restricted securities)
+2021-02-04 11:25:31,Mutual Funds,Security symbol is invalid / not applicable / new (and therefore blocked at order entry)
+2021-10-06 09:33:29,Equity,Solicited Inverse or Leveraged ETF trade in an employee or employee related account
+2022-02-10 12:35:05,UIT,An approved PEPE exception exists for this trade (please provide exception #)
+2021-10-19 11:33:18,Options,Trade blocked by Lydia as security is held below the line (e.g. MS securities, ineligible ETFs or restricted securities)
+2022-01-04 12:54:59,Fixed Income,Account opened today (and therefore blocked at order entry)
+2022-01-27 14:36:22,Mutual Funds,FA/CSA registration process not refreshed real time
+2022-01-16 14:20:39,UIT,Trade blocked by Lydia as security is held below the line (e.g. MS securities, ineligible ETFs or restricted securities)
+2022-02-22 14:21:49,UIT,Security symbol is invalid / not applicable / new (and therefore blocked at order entry)
+2022-01-20 10:34:47,Equity,An approved PEPE exception exists for this trade (please provide exception #)
+2022-02-02 12:39:29,Fixed Income,An approved PEPE exception exists for this trade (please provide exception #)
+2021-08-06 11:31:29,Mutual Funds,Solicited Inverse or Leveraged ETF trade in an employee or employee related account
+2022-01-17 14:26:44,Equity,Solicited Inverse or Leveraged ETF trade in an employee or employee related account
+2022-01-17 10:10:16,UIT,Trade blocked by CGA portal (e.g. MS securities)
+2022-02-19 10:57:18,Options,Trade blocked by Lydia as security is held below the line (e.g. MS securities, ineligible ETFs or restricted securities)
+2021-02-18 09:37:17,Equity,Solicited Inverse or Leveraged ETF trade in an employee or employee related account
+2022-02-19 10:49:46,Mutual Funds,FA/CSA registration process not refreshed real time
+2022-02-08 12:29:35,Equity,Solicited Inverse or Leveraged ETF trade in an employee or employee related account
+2021-03-09 13:02:08,Fixed Income,Solicited Inverse or Leveraged ETF trade in an employee or employee related account
+2021-09-17 13:20:44,Fixed Income,Solicited Inverse or Leveraged ETF trade in an employee or employee related account
+2022-01-13 10:34:36,UIT,Account Red Flagged for escheatment. Security sold to cover a cash debit
+2022-01-01 14:02:28,Mutual Funds,FA/CSA registration process not refreshed real time
+2021-11-11 13:22:38,Fixed Income,An approved PEPE exception exists for this trade (please provide exception #)
+2022-01-12 10:26:35,Mutual Funds,Account opened today (and therefore blocked at order entry)
+2021-04-05 09:39:00,Equity,Account Red Flagged for escheatment. Security sold to cover a cash debit
+2021-04-13 13:39:40,UIT,Security symbol is invalid / not applicable / new (and therefore blocked at order entry)
+2022-02-03 14:07:58,Fixed Income,Security symbol is invalid / not applicable / new (and therefore blocked at order entry)
+2022-01-16 14:00:43,Options,Trade blocked by CGA portal (e.g. MS securities)
+2021-07-16 11:18:43,Mutual Funds,Trade blocked by CGA portal (e.g. MS securities)
+2021-11-15 11:22:14,Fixed Income,Account opened today (and therefore blocked at order entry)
+2022-02-01 10:03:24,Equity,System outage
+2021-09-09 11:56:32,UIT,An approved PEPE exception exists for this trade (please provide exception #)
+2022-02-06 10:35:01,Fixed Income,Trade blocked by CGA portal (e.g. MS securities)
+2021-02-17 09:37:12,Equity,Trade blocked by Lydia as security is held below the line (e.g. MS securities, ineligible ETFs or restricted securities)
+2022-01-22 12:52:17,Options,Account opened today (and therefore blocked at order entry)
+2022-01-05 14:04:04,Options,Security symbol is invalid / not applicable / new (and therefore blocked at order entry)
+2021-02-02 13:37:01,Options,FA/CSA registration process not refreshed real time
+2021-06-04 13:53:59,Fixed Income,Account opened today (and therefore blocked at order entry)
+2022-01-06 10:30:29,Mutual Funds,Solicited Inverse or Leveraged ETF trade in an employee or employee related account
+2021-03-01 09:26:28,Mutual Funds,FA/CSA registration process not refreshed real time
+2022-01-16 10:50:11,Options,Solicited Inverse or Leveraged ETF trade in an employee or employee related account
+2022-01-12 10:26:11,Options,An approved PEPE exception exists for this trade (please provide exception #)
+2021-11-16 09:10:39,Mutual Funds,Trade blocked by Lydia as security is held below the line (e.g. MS securities, ineligible ETFs or restricted securities)
+2021-05-08 09:04:35,UIT,Solicited Inverse or Leveraged ETF trade in an employee or employee related account
+2022-02-09 10:35:08,Equity,Solicited Inverse or Leveraged ETF trade in an employee or employee related account
+2021-12-28 09:35:23,Fixed Income,An approved PEPE exception exists for this trade (please provide exception #)
+2022-02-11 12:33:06,Mutual Funds,System outage
+2021-07-02 11:18:29,Options,An approved PEPE exception exists for this trade (please provide exception #)
+2021-09-27 09:20:22,Fixed Income,FA/CSA registration process not refreshed real time
+2022-01-11 14:06:34,Mutual Funds,Security symbol is invalid / not applicable / new (and therefore blocked at order entry)
+2022-02-16 12:03:43,Options,Trade blocked by CGA portal (e.g. MS securities)
+2022-02-02 14:33:29,Mutual Funds,An approved PEPE exception exists for this trade (please provide exception #)
+2021-11-21 11:34:48,Options,System outage
+2022-01-05 14:16:28,UIT,Trade blocked by CGA portal (e.g. MS securities)
+2022-02-03 14:05:58,UIT,Security symbol is invalid / not applicable / new (and therefore blocked at order entry)
+2022-01-22 14:06:21,UIT,System outage
+2021-01-07 13:12:30,Fixed Income,Trade blocked by Lydia as security is held below the line (e.g. MS securities, ineligible ETFs or restricted securities)
+2022-01-06 14:58:05,Fixed Income,Account opened today (and therefore blocked at order entry)
+2022-01-12 14:06:11,Fixed Income,An approved PEPE exception exists for this trade (please provide exception #)
+2022-01-27 14:30:26,Mutual Funds,Solicited Inverse or Leveraged ETF trade in an employee or employee related account
+2021-06-17 09:53:16,Options,Trade blocked by CGA portal (e.g. MS securities)
+2022-01-09 12:26:08,Fixed Income,Solicited Inverse or Leveraged ETF trade in an employee or employee related account
+2021-05-22 13:16:49,Options,Security symbol is invalid / not applicable / new (and therefore blocked at order entry)
+2021-10-12 13:33:39,Fixed Income,System outage
+2022-01-09 14:12:08,Options,Solicited Inverse or Leveraged ETF trade in an employee or employee related account
+2021-10-16 09:09:11,Mutual Funds,Solicited Inverse or Leveraged ETF trade in an employee or employee related account
+2021-06-27 11:05:26,Fixed Income,Solicited Inverse or Leveraged ETF trade in an employee or employee related account
+2022-01-08 14:22:03,Mutual Funds,Trade blocked by Lydia as security is held below the line (e.g. MS securities, ineligible ETFs or restricted securities)
+2021-01-21 09:24:48,Fixed Income,System outage
+2021-01-18 11:00:17,Equity,Solicited Inverse or Leveraged ETF trade in an employee or employee related account
+2021-09-17 11:32:16,Mutual Funds,Trade blocked by CGA portal (e.g. MS securities)
+2022-02-19 12:31:14,Options,An approved PEPE exception exists for this trade (please provide exception #)
+2021-10-09 11:33:36,UIT,Trade blocked by Lydia as security is held below the line (e.g. MS securities, ineligible ETFs or restricted securities)
+2022-01-13 12:04:36,Options,Account Red Flagged for escheatment. Security sold to cover a cash debit
+2021-06-08 11:17:31,Equity,FA/CSA registration process not refreshed real time
+2021-08-05 13:55:04,Equity,Security symbol is invalid / not applicable / new (and therefore blocked at order entry)
+2022-01-02 14:14:29,Fixed Income,An approved PEPE exception exists for this trade (please provide exception #)
+2022-01-01 10:14:24,Options,System outage
+2022-01-11 14:22:34,UIT,Security symbol is invalid / not applicable / new (and therefore blocked at order entry)
+2022-02-20 12:03:47,Equity,An approved PEPE exception exists for this trade (please provide exception #)
+2021-10-26 09:45:25,Mutual Funds,Trade blocked by CGA portal (e.g. MS securities)
+2022-01-15 12:28:14,Fixed Income,Account opened today (and therefore blocked at order entry)
+2021-10-18 09:09:45,Mutual Funds,Trade blocked by Lydia as security is held below the line (e.g. MS securities, ineligible ETFs or restricted securities)
+2021-10-20 11:57:19,Mutual Funds,FA/CSA registration process not refreshed real time
+2021-02-03 09:25:30,UIT,System outage
+2021-01-04 11:12:03,Fixed Income,System outage
+2022-01-09 10:34:08,Options,Solicited Inverse or Leveraged ETF trade in an employee or employee related account
+2022-01-16 12:24:11,Options,Solicited Inverse or Leveraged ETF trade in an employee or employee related account
+2021-06-17 11:41:12,UIT,Trade blocked by Lydia as security is held below the line (e.g. MS securities, ineligible ETFs or restricted securities)
+2022-02-04 10:39:59,Options,Account opened today (and therefore blocked at order entry)
+2022-01-25 10:34:52,Options,Trade blocked by CGA portal (e.g. MS securities)
+2021-11-13 13:22:40,Options,Security symbol is invalid / not applicable / new (and therefore blocked at order entry)
+2021-10-28 09:09:23,Equity,An approved PEPE exception exists for this trade (please provide exception #)
+2022-01-12 14:16:39,Equity,System outage
+2021-07-03 11:42:58,Fixed Income,Security symbol is invalid / not applicable / new (and therefore blocked at order entry)
+2022-01-02 10:10:25,Options,Security symbol is invalid / not applicable / new (and therefore blocked at order entry)
+2022-01-28 14:38:23,Fixed Income,An approved PEPE exception exists for this trade (please provide exception #)
+2022-01-22 10:00:21,Mutual Funds,System outage
+2021-09-28 11:20:23,Options,An approved PEPE exception exists for this trade (please provide exception #)
+2021-08-14 09:07:37,Mutual Funds,Trade blocked by CGA portal (e.g. MS securities)
+2021-10-12 09:21:35,Mutual Funds,Account opened today (and therefore blocked at order entry)
+2021-07-08 13:42:35,UIT,Solicited Inverse or Leveraged ETF trade in an employee or employee related account
+2021-03-20 11:38:19,Fixed Income,FA/CSA registration process not refreshed real time
+2021-08-26 09:31:25,Options,Trade blocked by CGA portal (e.g. MS securities)
+2021-08-04 09:07:59,UIT,Account opened today (and therefore blocked at order entry)
+2022-01-07 12:36:02,Mutual Funds,Solicited Inverse or Leveraged ETF trade in an employee or employee related account
+2021-09-16 09:20:43,Mutual Funds,Trade blocked by CGA portal (e.g. MS securities)
+2022-02-18 12:09:45,Mutual Funds,Trade blocked by Lydia as security is held below the line (e.g. MS securities, ineligible ETFs or restricted securities)
+2021-07-11 13:06:10,UIT,FA/CSA registration process not refreshed real time
+2021-06-02 11:29:57,Fixed Income,System outage
+2021-08-20 09:07:15,Mutual Funds,System outage
+2021-05-01 09:16:00,Fixed Income,Trade blocked by Lydia as security is held below the line (e.g. MS securities, ineligible ETFs or restricted securities)
+2022-01-06 14:02:29,Options,Solicited Inverse or Leveraged ETF trade in an employee or employee related account
+2022-01-22 12:52:17,Fixed Income,Account opened today (and therefore blocked at order entry)
+2022-02-04 10:25:31,Mutual Funds,Security symbol is invalid / not applicable / new (and therefore blocked at order entry)
+2021-03-18 09:02:13,UIT,FA/CSA registration process not refreshed real time
+2021-04-13 09:27:12,Mutual Funds,System outage
+2022-01-13 10:24:36,Mutual Funds,Account Red Flagged for escheatment. Security sold to cover a cash debit
+2021-03-10 13:02:37,Options,FA/CSA registration process not refreshed real time
+2022-02-06 14:39:05,Options,Account opened today (and therefore blocked at order entry)
+2021-07-26 11:54:53,Mutual Funds,Solicited Inverse or Leveraged ETF trade in an employee or employee related account
+2021-08-05 11:43:28,Fixed Income,Trade blocked by CGA portal (e.g. MS securities)
+2022-01-08 12:10:35,Fixed Income,Solicited Inverse or Leveraged ETF trade in an employee or employee related account
+2022-01-16 14:04:11,UIT,Solicited Inverse or Leveraged ETF trade in an employee or employee related account
+2021-07-09 09:54:04,Options,FA/CSA registration process not refreshed real time
+2021-09-22 09:08:21,Options,System outage
+2022-01-16 14:32:11,Fixed Income,Solicited Inverse or Leveraged ETF trade in an employee or employee related account
+2021-04-05 11:15:32,Mutual Funds,Account opened today (and therefore blocked at order entry)
+2022-02-21 14:13:20,Options,An approved PEPE exception exists for this trade (please provide exception #)
+2022-02-11 10:11:06,Equity,System outage
+2022-01-24 10:00:23,Mutual Funds,Account opened today (and therefore blocked at order entry)
+2021-09-12 11:56:07,Equity,Security symbol is invalid / not applicable / new (and therefore blocked at order entry)
+2021-11-05 11:22:04,Fixed Income,Security symbol is invalid / not applicable / new (and therefore blocked at order entry)
+2022-02-06 12:57:05,UIT,Account opened today (and therefore blocked at order entry)
+2021-11-21 13:58:20,Fixed Income,An approved PEPE exception exists for this trade (please provide exception #)
+2021-01-21 13:48:16,Fixed Income,Security symbol is invalid / not applicable / new (and therefore blocked at order entry)
+2021-02-04 09:13:59,Equity,Account opened today (and therefore blocked at order entry)
+2021-09-07 09:56:02,Options,Solicited Inverse or Leveraged ETF trade in an employee or employee related account
+2021-05-20 11:16:15,Options,System outage
+2021-07-05 09:42:28,UIT,Trade blocked by CGA portal (e.g. MS securities)
+2021-04-09 13:03:36,UIT,Trade blocked by Lydia as security is held below the line (e.g. MS securities, ineligible ETFs or restricted securities)
+2021-06-23 11:29:18,Mutual Funds,Account Red Flagged for escheatment. Security sold to cover a cash debit
+2021-05-19 13:28:14,Equity,An approved PEPE exception exists for this trade (please provide exception #)
+2022-01-01 12:00:00,Mutual Funds,Trade blocked by Lydia as security is held below the line (e.g. MS securities, ineligible ETFs or restricted securities)
+2022-01-28 12:28:23,Mutual Funds,An approved PEPE exception exists for this trade (please provide exception #)
+2021-02-07 09:13:30,Mutual Funds,Trade blocked by Lydia as security is held below the line (e.g. MS securities, ineligible ETFs or restricted securities)
+2021-11-01 11:34:28,Fixed Income,FA/CSA registration process not refreshed real time
+2022-01-18 12:28:13,Mutual Funds,FA/CSA registration process not refreshed real time
+2022-02-08 12:47:31,Mutual Funds,FA/CSA registration process not refreshed real time
+2021-06-08 11:53:03,Equity,Trade blocked by Lydia as security is held below the line (e.g. MS securities, ineligible ETFs or restricted securities)
+2021-07-18 13:30:45,Options,Trade blocked by Lydia as security is held below the line (e.g. MS securities, ineligible ETFs or restricted securities)
+2022-02-14 10:19:41,Fixed Income,Account opened today (and therefore blocked at order entry)
+2021-04-12 11:15:11,Equity,An approved PEPE exception exists for this trade (please provide exception #)
+2022-02-03 10:19:58,Mutual Funds,Security symbol is invalid / not applicable / new (and therefore blocked at order entry)
+2021-11-27 09:58:22,Equity,FA/CSA registration process not refreshed real time
+2021-03-08 09:26:03,Mutual Funds,Trade blocked by Lydia as security is held below the line (e.g. MS securities, ineligible ETFs or restricted securities)
+2022-02-22 10:31:49,Options,Security symbol is invalid / not applicable / new (and therefore blocked at order entry)
+2022-01-03 14:12:30,Fixed Income,System outage
+2022-01-22 10:04:17,Equity,Account opened today (and therefore blocked at order entry)
+2022-01-13 12:34:08,Fixed Income,Account opened today (and therefore blocked at order entry)
+2021-02-12 11:13:35,Fixed Income,Account opened today (and therefore blocked at order entry)
+2022-01-17 14:28:12,Equity,Trade blocked by Lydia as security is held below the line (e.g. MS securities, ineligible ETFs or restricted securities)
+2022-02-03 12:13:26,Equity,Account opened today (and therefore blocked at order entry)
+2021-09-04 11:20:31,Options,Security symbol is invalid / not applicable / new (and therefore blocked at order entry)
+2021-06-16 09:29:43,UIT,Trade blocked by CGA portal (e.g. MS securities)
+2022-02-12 10:51:39,Equity,System outage
+2021-04-16 11:03:11,Equity,Solicited Inverse or Leveraged ETF trade in an employee or employee related account
+2021-04-03 13:03:26,Fixed Income,Account opened today (and therefore blocked at order entry)
+2022-01-09 10:06:08,Equity,Solicited Inverse or Leveraged ETF trade in an employee or employee related account
+2022-01-28 10:40:55,Fixed Income,FA/CSA registration process not refreshed real time
+2021-12-07 09:11:34,Mutual Funds,Trade blocked by CGA portal (e.g. MS securities)
+2022-02-26 12:05:21,UIT,Trade blocked by Lydia as security is held below the line (e.g. MS securities, ineligible ETFs or restricted securities)
+2021-07-05 13:54:28,Mutual Funds,Trade blocked by CGA portal (e.g. MS securities)
+2021-03-28 09:26:55,Equity,FA/CSA registration process not refreshed real time
+2022-01-05 12:26:32,UIT,Account opened today (and therefore blocked at order entry)
+2022-01-09 14:34:36,Mutual Funds,Trade blocked by Lydia as security is held below the line (e.g. MS securities, ineligible ETFs or restricted securities)
+2022-02-15 12:29:14,UIT,Account opened today (and therefore blocked at order entry)
+2022-02-11 12:07:10,Fixed Income,FA/CSA registration process not refreshed real time
+2022-02-27 12:45:26,Fixed Income,Solicited Inverse or Leveraged ETF trade in an employee or employee related account
+2021-04-11 11:39:10,Options,FA/CSA registration process not refreshed real time
+2021-02-08 11:13:35,Equity,Solicited Inverse or Leveraged ETF trade in an employee or employee related account
+2021-12-20 09:35:15,Equity,System outage
+2022-02-16 10:17:11,Mutual Funds,Solicited Inverse or Leveraged ETF trade in an employee or employee related account
+2022-01-08 10:02:03,Mutual Funds,Trade blocked by Lydia as security is held below the line (e.g. MS securities, ineligible ETFs or restricted securities)
+2021-08-25 11:19:24,Options,Account Red Flagged for escheatment. Security sold to cover a cash debit
+2021-09-27 13:32:26,Options,Solicited Inverse or Leveraged ETF trade in an employee or employee related account
+2021-10-04 13:21:31,Equity,Security symbol is invalid / not applicable / new (and therefore blocked at order entry)
+2021-08-02 09:31:01,Options,FA/CSA registration process not refreshed real time
+2021-10-19 11:57:18,UIT,Trade blocked by Lydia as security is held below the line (e.g. MS securities, ineligible ETFs or restricted securities)
+2021-04-22 11:51:21,Options,System outage
+2022-01-02 14:14:01,Options,FA/CSA registration process not refreshed real time
+2022-02-17 14:09:40,Fixed Income,FA/CSA registration process not refreshed real time
+2021-04-06 09:39:33,Mutual Funds,Account Red Flagged for escheatment. Security sold to cover a cash debit
+2021-06-05 11:29:04,Fixed Income,Security symbol is invalid / not applicable / new (and therefore blocked at order entry)
+2022-01-23 14:00:22,Mutual Funds,Security symbol is invalid / not applicable / new (and therefore blocked at order entry)
+2021-03-21 11:26:48,Mutual Funds,System outage
+2022-02-04 10:39:27,Options,Account Red Flagged for escheatment. Security sold to cover a cash debit
+2021-06-05 13:05:04,Fixed Income,Security symbol is invalid / not applicable / new (and therefore blocked at order entry)
+2022-02-05 12:11:28,Equity,Trade blocked by CGA portal (e.g. MS securities)
+2022-02-13 12:45:12,Equity,System outage
+2021-12-24 13:11:51,Mutual Funds,Account Red Flagged for escheatment. Security sold to cover a cash debit
+2022-01-05 10:20:04,Equity,Security symbol is invalid / not applicable / new (and therefore blocked at order entry)
+2022-02-03 12:29:02,Mutual Funds,An approved PEPE exception exists for this trade (please provide exception #)
+2022-01-03 12:06:02,Equity,An approved PEPE exception exists for this trade (please provide exception #)
+2021-10-20 11:45:15,Fixed Income,System outage
+2022-01-10 14:48:09,Equity,Trade blocked by Lydia as security is held below the line (e.g. MS securities, ineligible ETFs or restricted securities)
+2022-02-07 14:23:06,Options,Account Red Flagged for escheatment. Security sold to cover a cash debit
+2022-01-18 10:56:17,Options,Solicited Inverse or Leveraged ETF trade in an employee or employee related account
+2022-01-05 10:54:04,UIT,Security symbol is invalid / not applicable / new (and therefore blocked at order entry)
+2021-02-20 11:01:19,Options,FA/CSA registration process not refreshed real time
+2021-03-08 11:50:07,Mutual Funds,Trade blocked by CGA portal (e.g. MS securities)
+2021-09-13 13:44:36,UIT,Account Red Flagged for escheatment. Security sold to cover a cash debit
+2021-10-20 11:45:15,Equity,System outage
+2022-01-01 14:12:24,Fixed Income,System outage
+2021-11-15 11:22:10,Fixed Income,Trade blocked by CGA portal (e.g. MS securities)
+2022-01-22 10:44:49,Fixed Income,Security symbol is invalid / not applicable / new (and therefore blocked at order entry)
+2021-09-28 11:44:23,Options,An approved PEPE exception exists for this trade (please provide exception #)
+2021-09-01 09:20:56,Mutual Funds,An approved PEPE exception exists for this trade (please provide exception #)
+2021-01-14 11:24:37,Equity,Trade blocked by CGA portal (e.g. MS securities)
+2022-02-09 10:59:36,Options,Trade blocked by Lydia as security is held below the line (e.g. MS securities, ineligible ETFs or restricted securities)
+2022-01-10 10:34:33,Mutual Funds,System outage
+2022-02-14 14:23:09,UIT,Account Red Flagged for escheatment. Security sold to cover a cash debit
+2022-02-20 10:17:15,Options,System outage
+2022-02-28 10:51:27,UIT,Trade blocked by Lydia as security is held below the line (e.g. MS securities, ineligible ETFs or restricted securities)
+2021-06-17 13:41:44,UIT,Solicited Inverse or Leveraged ETF trade in an employee or employee related account
+2022-02-12 12:23:35,Fixed Income,Account opened today (and therefore blocked at order entry)
+2022-02-14 14:05:13,Options,Security symbol is invalid / not applicable / new (and therefore blocked at order entry)
+2021-02-16 13:13:11,Equity,Solicited Inverse or Leveraged ETF trade in an employee or employee related account
+2022-02-04 14:37:03,UIT,System outage
+2021-04-08 09:27:07,Equity,Trade blocked by CGA portal (e.g. MS securities)
+2022-01-23 14:14:18,Fixed Income,Account Red Flagged for escheatment. Security sold to cover a cash debit
+2022-01-09 10:14:36,Mutual Funds,Trade blocked by Lydia as security is held below the line (e.g. MS securities, ineligible ETFs or restricted securities)
+2021-05-16 13:40:43,Equity,Trade blocked by CGA portal (e.g. MS securities)
+2021-03-14 13:02:41,Options,Account opened today (and therefore blocked at order entry)
+2022-01-27 14:28:22,UIT,FA/CSA registration process not refreshed real time
+2022-02-07 10:49:06,Options,Account Red Flagged for escheatment. Security sold to cover a cash debit
+2022-01-06 14:10:05,UIT,Account opened today (and therefore blocked at order entry)
+2022-02-05 14:13:04,Options,Security symbol is invalid / not applicable / new (and therefore blocked at order entry)
+2022-01-28 12:32:23,Options,An approved PEPE exception exists for this trade (please provide exception #)
+2022-01-03 12:38:02,Fixed Income,An approved PEPE exception exists for this trade (please provide exception #)
+2021-04-02 11:27:25,Options,Security symbol is invalid / not applicable / new (and therefore blocked at order entry)
+2022-02-11 10:33:38,Fixed Income,An approved PEPE exception exists for this trade (please provide exception #)
+2021-11-14 13:34:41,Options,Account opened today (and therefore blocked at order entry)
+2021-04-01 09:27:24,UIT,System outage
+2021-09-24 13:20:51,Mutual Funds,Account Red Flagged for escheatment. Security sold to cover a cash debit
+2022-01-14 12:22:37,Mutual Funds,Trade blocked by CGA portal (e.g. MS securities)
+2021-07-04 13:54:27,Fixed Income,Account Red Flagged for escheatment. Security sold to cover a cash debit
+2021-04-24 09:03:51,Fixed Income,Account Red Flagged for escheatment. Security sold to cover a cash debit
+2021-01-10 11:24:37,Options,FA/CSA registration process not refreshed real time
+2021-09-03 13:32:02,Options,An approved PEPE exception exists for this trade (please provide exception #)
+2021-10-09 09:45:36,UIT,Trade blocked by Lydia as security is held below the line (e.g. MS securities, ineligible ETFs or restricted securities)
+2022-02-12 14:39:11,Equity,An approved PEPE exception exists for this trade (please provide exception #)
+2021-12-22 09:23:21,Options,System outage
+2022-01-09 14:40:08,Options,Solicited Inverse or Leveraged ETF trade in an employee or employee related account
+2022-02-19 12:41:18,Mutual Funds,Trade blocked by Lydia as security is held below the line (e.g. MS securities, ineligible ETFs or restricted securities)
+2021-12-17 11:47:44,Options,Solicited Inverse or Leveraged ETF trade in an employee or employee related account
+2022-02-11 10:55:34,UIT,Security symbol is invalid / not applicable / new (and therefore blocked at order entry)
+2021-09-05 13:44:04,Options,Security symbol is invalid / not applicable / new (and therefore blocked at order entry)
+2022-01-26 10:08:21,Mutual Funds,Trade blocked by Lydia as security is held below the line (e.g. MS securities, ineligible ETFs or restricted securities)
+2021-06-27 09:41:26,Equity,Solicited Inverse or Leveraged ETF trade in an employee or employee related account
+2021-07-20 11:06:15,Mutual Funds,System outage
+2021-03-22 11:26:21,Mutual Funds,System outage
+2022-01-08 12:22:07,UIT,Trade blocked by CGA portal (e.g. MS securities)
+2022-02-17 14:05:44,UIT,Solicited Inverse or Leveraged ETF trade in an employee or employee related account
