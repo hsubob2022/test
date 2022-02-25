@@ -27,7 +27,7 @@ reasons = ["Trade blocked by Lydia as security is held below the line (e.g. MS s
 
 random.seed()
 
-TAB = ","
+TAB = "$"
 
 #file = open("C:\\logs\\trades.txt","a")
 file = open("reasons.txt","a")
